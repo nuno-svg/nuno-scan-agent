@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-04-24T15:10:56.362543+00:00",
-  "last_run_local": "2026-04-24 15:10 UTC",
-  "runs_count": 6,
+  "last_run_iso": "2026-04-24T15:29:59.391074+00:00",
+  "last_run_local": "2026-04-24 15:29 UTC",
+  "runs_count": 7,
   "opportunities": [
     {
       "id": "gh-5858339004",
@@ -16,14 +16,14 @@
       "closing": null,
       "description": "<h3><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><strong>Senior Manager/Manager – Scaling and Innovation Team (Global)</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">You will join Instiglio’s&nbsp;<strong>Scaling &amp; Innovation Team</strong> — the engine driving Instiglio’s ambition to go from impact to impact at scale. Our mission is threefold: develop pathways to scale Instiglio’s proven approaches, incubate Instiglio’s presence in new regions, and design and spearhead new impact solutions that push the frontier of what’s possible in development.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">We pursue this mission through two primary strategies:</span></p>\n<ol style=\"text-align: justify;\">\n<li style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><strong> Scaling partnerships with large development institutions: </strong>The core of this team’s work. We partner with major multilateral development banks (MDBs), bilateral agencies, and large philanthropies to strengthen how they drive outcomes at scale — combining impact strategy with deep change management. This isn’t traditional consulting: we embed ourselves in institutional transformation, helping partners overhaul their impact strategies, build internal capabilities, and implement reforms that cascade through the systems they fund. A flagship example is our four-year engagement with the Global Fund, where we supported the scale-up of results-based financing (RBF) to 15 countries, built core institutional capabilities, and helped embed a results-oriented performance culture. Similar partnerships are underway with institutions like the Millennium Challenge Corporation, the Swiss Development Cooperation, the IDB, and leading philanthrop",
       "scores": {
-        "A_BlendedCatalyticFinance": 8,
+        "A_BlendedCatalyticFinance": 10,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
         "D_EmergingMarkets": 0
       },
       "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 8,
-      "overall_score": 2.3,
+      "best_score": 10,
+      "overall_score": 10.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:22:06.201531+00:00"
@@ -41,14 +41,14 @@
       "closing": null,
       "description": "<p style=\"text-align: center;\">Acumen is seeking an Investment Manager with at least 8 years of work experience wherein minimum 4 years of investment experience in venture capital, private equity, investment banking, or investment management is required.</p>\n<p><strong>About Acumen</strong></p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit acumen.org.</p>\n<p><strong>About the Role</strong></p>\n<p>The Investment Manager will evaluate new investment opportunities, conduct due diligence high potential opportunities as they arise, and structure deal terms as well as manage our existing portfolio and actively drive and deliver exits from investments that have served their purpose. The Portfolio Manager will also actively look at the evolving pipeline and the innovations landscape to advise and support the sector lead of the thesis in agriculture . The role will model the principles of investing as detailed by Acumen.</p>\n<p>Responsibilities include:</p>\n<p><strong>Identifying investment opportunities and due diligence</strong></p>\n<ul>\n<li>Identify, cultivate, and review a pipeline of fresh investment opportunities in climate sector providing critical services and/or create assets and value for the poor in India.&nbsp;</li>\n<li>Conducting due diligence and investment analysis, including financial modeling, valuation review, and structuring.</li>\n<li>Prepare and present investment documentation for Acumen",
       "scores": {
-        "A_BlendedCatalyticFinance": 0,
+        "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 8,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 4
       },
       "best_archetype": "B_DealStructuring",
       "best_score": 8,
-      "overall_score": 2.1,
+      "overall_score": 9.1,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:22:06.201543+00:00"
@@ -69,11 +69,11 @@
         "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 1,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 3,
-      "overall_score": 1.3,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.6,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725419+00:00"
@@ -94,11 +94,11 @@
         "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 1,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 3,
-      "overall_score": 1.3,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.6,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725417+00:00"
@@ -119,11 +119,11 @@
         "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 3,
-      "overall_score": 1.1,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725461+00:00"
@@ -144,11 +144,11 @@
         "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 3,
-      "overall_score": 1.1,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725414+00:00"
@@ -169,11 +169,11 @@
         "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 3,
-      "overall_score": 1.1,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725400+00:00"
@@ -194,64 +194,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 3,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "B_DealStructuring",
-      "best_score": 3,
-      "overall_score": 1.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725484+00:00"
-    },
-    {
-      "id": "gh-4945936004",
-      "title": "Manager/Senior Associate",
-      "url": "https://job-boards.greenhouse.io/instiglio/jobs/4945936004",
-      "source": "Greenhouse",
-      "publisher": "Instiglio",
-      "country": "Rabat",
-      "job_type": "Projects",
-      "category": "Projects",
-      "posted": "2025-11-25T02:17:07-05:00",
-      "closing": null,
-      "description": "<hr>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><span data-contrast=\"none\">Please note that we are not actively recruiting for this role at the moment. However, if you choose to submit your application, your profile will be included in our pipeline for this position should an opening arise. If your profile aligns well with the requirements once a vacancy becomes available, we will reach out to you directly.</span></span></p>\n<hr>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><strong><span data-contrast=\"none\">How you will make an impact</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></span></p>\n<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><span data-contrast=\"none\">Managers and Senior Associates at Instiglio are a core part of project teams, overseeing most aspects of project execution and team management in close collaboration with Project Leads. You will gain expertise in results-based approaches and deepen your consultancy skills, translating complex concepts into easy-to-understand insights. You will advise clients on difficult, yet important, adaptations of their practices and lead teammates to deliver impactful projects that enhance development outcomes across Africa and the MENA Region. You will also play a leading role in growing the Rabat office, from recruitment and capacity building to nurturing stakeholder relationships with both the donor community and government partners that lead to project growth. Managers will also be asked to make wider contributions to Instiglio’s global management and strategy as an integral part of the management team.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></span></p>\n<p style=\"line-h",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 3,
-        "D_EmergingMarkets": 1
-      },
-      "best_archetype": "C_ExecutiveTraining",
-      "best_score": 3,
-      "overall_score": 1.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201516+00:00"
-    },
-    {
-      "id": "gh-7689620003",
-      "title": "Customer Success Operations Manager",
-      "url": "https://job-boards.greenhouse.io/branch/jobs/7689620003",
-      "source": "Greenhouse",
-      "publisher": "Branch International",
-      "country": "Remote, US",
-      "job_type": "Support Operations",
-      "category": "Support Operations",
-      "posted": "2026-04-03T16:34:19-04:00",
-      "closing": null,
-      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About the role:</strong></p>\n<p>The <strong>Customer Success Operations Manager</strong> builds and operates Branch’s scaled Customer Success model for approximately 1,000 non-managed accounts. At Branch, revenue is driven by product usage — payout volume, card swipes, transfers, and active user growth — rather than contractual renewals. This role increases engagement, detects silent churn risk, drives product adoption, and surfaces expansion opportunities through a data-driven, tech-touch model.</p>\n<p>Operating in a 1:many framework, this role designs segmentation strategies, behavioral health scoring, and lifecycle engagement programs — while selectively engaging high-risk or high-growth accounts where personalized outreach can meaningfully impact retention or expa",
-      "scores": {
-        "A_BlendedCatalyticFinance": 3,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 3,
-      "overall_score": 0.9,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725769+00:00"
     },
     {
       "id": "gh-7737863",
@@ -269,11 +219,11 @@
         "A_BlendedCatalyticFinance": 1,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 1,
-      "overall_score": 0.5,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.2,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725469+00:00"
@@ -294,11 +244,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 1,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "B_DealStructuring",
-      "best_score": 1,
-      "overall_score": 0.5,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.2,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725488+00:00"
@@ -319,11 +269,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 1,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "B_DealStructuring",
-      "best_score": 1,
-      "overall_score": 0.5,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.2,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725479+00:00"
@@ -344,39 +294,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 1,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
-      "best_archetype": "B_DealStructuring",
-      "best_score": 1,
-      "overall_score": 0.5,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.2,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
-    },
-    {
-      "id": "gh-7648000003",
-      "title": "Director, B2C Marketing",
-      "url": "https://job-boards.greenhouse.io/branch/jobs/7648000003",
-      "source": "Greenhouse",
-      "publisher": "Branch International",
-      "country": "Remote, US",
-      "job_type": "Marketing",
-      "category": "Marketing",
-      "posted": "2026-02-27T17:39:21-05:00",
-      "closing": null,
-      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p><strong>About the role:</strong></p>\n<p>Branch is seeking an experienced and strategic Director of B2C Marketing to lead our customer and end-userfacing marketing efforts. This individual will be responsible for developing and executing a comprehensive marketing strategy that drives end-user acquisition, engagement, and retention. The ideal candidate is a hands-on leader with a proven track record of building and managing high-performing marketing teams and delivering measurable results in a fast-paced, B2C environment.</p>\n<p><strong>Responsibilities include, but are not limited to:</strong></p>\n<ul>\n<li>Strategic Planning: Develop and implement a holistic B2C marketing strategy aligned with company goals, including brand awareness, customer acquisition, and revenue growth.</li>\n<li>Team Leadership: Lead, mentor, and grow a tea",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 1,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "C_ExecutiveTraining",
-      "best_score": 1,
-      "overall_score": 0.3,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725771+00:00"
     },
     {
       "id": "gh-7841817",
@@ -394,11 +319,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725463+00:00"
@@ -419,11 +344,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725458+00:00"
@@ -444,11 +369,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725490+00:00"
@@ -469,11 +394,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725393+00:00"
@@ -494,11 +419,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725398+00:00"
@@ -519,11 +444,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725466+00:00"
@@ -544,11 +469,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725380+00:00"
@@ -569,11 +494,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725405+00:00"
@@ -594,11 +519,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725475+00:00"
@@ -619,11 +544,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725391+00:00"
@@ -644,11 +569,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725486+00:00"
@@ -669,11 +594,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725492+00:00"
@@ -694,11 +619,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725396+00:00"
@@ -719,11 +644,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725496+00:00"
@@ -744,11 +669,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725498+00:00"
@@ -769,11 +694,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725410+00:00"
@@ -794,11 +719,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725432+00:00"
@@ -819,11 +744,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725412+00:00"
@@ -844,11 +769,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725383+00:00"
@@ -869,11 +794,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725494+00:00"
@@ -894,11 +819,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725440+00:00"
@@ -919,39 +844,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725438+00:00"
-    },
-    {
-      "id": "gh-8484552002",
-      "title": "Senior Associate, Insights - Acumen Academy",
-      "url": "https://job-boards.greenhouse.io/acumen/jobs/8484552002",
-      "source": "Greenhouse",
-      "publisher": "Acumen",
-      "country": "Nairobi, Nairobi, Kenya, Lagos, Nigeria",
-      "job_type": "Acumen Academy",
-      "category": "Acumen Academy",
-      "posted": "2026-03-29T10:26:05-04:00",
-      "closing": null,
-      "description": "<p style=\"text-align: center;\">Acumen is seeking a highly motivated, thoughtful, and curious Senior Associate, Insights with atleast 5 years of experience to support the delivery of a rigorous learning agenda for a transformative business and economic empowerment program across Africa with a strong focus on young women, leadership and organizational growth and development.&nbsp; This role will focus on generating high quality insights to inform adaptive program delivery, with a strong emphasis on understanding enterprise growth, work quality, and women’s participation in the green economy.<strong>This role will be based out of Acumen’s office in Nairobi or Lagos</strong>, with an expectation of working from the office 3 days a week.</p>\n<p>&nbsp;</p>\n<p>About Acumen</p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit<a href=\"http://www.acumen.org/\">&nbsp;acumen.org</a>.</p>\n<p>About the Role</p>\n<p>As the Senior Associate, Insights, you will support the execution of the program’s learning agenda, working across program teams and partners to generate actional insights that inform program delivery and strategy.</p>\n<p>This role sits within the Insights function, focusing on the ‘why’ and ‘so what’ behind program results.&nbsp; You will lead qualitative and mixed-methods data collection and analyze findings.&nbsp; You will also synthesize findings into clear insights and contribute to learning outputs th",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201545+00:00"
     },
     {
       "id": "gh-7760636",
@@ -969,39 +869,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725407+00:00"
-    },
-    {
-      "id": "gh-8424275002",
-      "title": "Impact Manager - Reporting, Data and Analytics (Acumen East or West Africa)",
-      "url": "https://job-boards.greenhouse.io/acumen/jobs/8424275002",
-      "source": "Greenhouse",
-      "publisher": "Acumen",
-      "country": "Nairobi, Nairobi, Kenya, Lagos, Nigeria",
-      "job_type": "Acumen Academy",
-      "category": "Acumen Academy",
-      "posted": "2026-03-24T18:01:32-04:00",
-      "closing": null,
-      "description": "<p style=\"text-align: center;\">Acumen is seeking a highly motivated and experienced Impact Manager with at least 8 years of work experience to provide Reporting, Data and Analytics leadership at a regional level for a transformative business and economic empowerment programme across Africa with a strong focus on young women.</p>\n<p>This role<strong> will be based out of Acumen office in Nairobi or Lagos</strong> with an expectation of working from office 3 days a week. Remote from other geographies is not an option.</p>\n<p><strong>About Acumen</strong></p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit<a href=\"http://www.acumen.org/\"> acumen.org</a>.</p>\n<p><strong>About the role</strong></p>\n<p>As the <strong>Impact Manager</strong>: <strong>Reporting, Data and Analytics</strong> you will be responsible for designing and implementing the technology solution for the programmatic MEL framework. That is potentially adapting existing solutions like Salesforce and Google sheets, or creating/identifying new technology solutions, to ensure that the MEL framework has a functioning and efficient technology platform, routine reporting on key data points. We expect the role to focus on continual identification of system and data management and reporting improvements. We expect candidates to be highly technically efficient with data and software solutions with growing skills in the use of AI.&nbsp;</p>\n<p>You&n",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201541+00:00"
     },
     {
       "id": "gh-7737980",
@@ -1019,11 +894,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725427+00:00"
@@ -1044,11 +919,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725471+00:00"
@@ -1069,11 +944,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725443+00:00"
@@ -1094,11 +969,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725421+00:00"
@@ -1119,11 +994,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725403+00:00"
@@ -1144,11 +1019,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725482+00:00"
@@ -1169,11 +1044,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725436+00:00"
@@ -1194,11 +1069,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725434+00:00"
@@ -1219,11 +1094,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725429+00:00"
@@ -1244,11 +1119,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725423+00:00"
@@ -1269,11 +1144,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725477+00:00"
@@ -1294,11 +1169,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725367+00:00"
@@ -1319,11 +1194,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725389+00:00"
@@ -1344,11 +1219,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725473+00:00"
@@ -1369,14 +1244,139 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 1
+        "D_EmergingMarkets": 6
       },
       "best_archetype": "D_EmergingMarkets",
-      "best_score": 1,
-      "overall_score": 0.2,
+      "best_score": 6,
+      "overall_score": 6.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725425+00:00"
+    },
+    {
+      "id": "gh-4945936004",
+      "title": "Manager/Senior Associate",
+      "url": "https://job-boards.greenhouse.io/instiglio/jobs/4945936004",
+      "source": "Greenhouse",
+      "publisher": "Instiglio",
+      "country": "Rabat",
+      "job_type": "Projects",
+      "category": "Projects",
+      "posted": "2025-11-25T02:17:07-05:00",
+      "closing": null,
+      "description": "<hr>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><span data-contrast=\"none\">Please note that we are not actively recruiting for this role at the moment. However, if you choose to submit your application, your profile will be included in our pipeline for this position should an opening arise. If your profile aligns well with the requirements once a vacancy becomes available, we will reach out to you directly.</span></span></p>\n<hr>\n<p style=\"line-height: 1.5;\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><strong><span data-contrast=\"none\">How you will make an impact</span></strong><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></span></p>\n<p style=\"text-align: justify; line-height: 1.5;\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><span data-contrast=\"none\">Managers and Senior Associates at Instiglio are a core part of project teams, overseeing most aspects of project execution and team management in close collaboration with Project Leads. You will gain expertise in results-based approaches and deepen your consultancy skills, translating complex concepts into easy-to-understand insights. You will advise clients on difficult, yet important, adaptations of their practices and lead teammates to deliver impactful projects that enhance development outcomes across Africa and the MENA Region. You will also play a leading role in growing the Rabat office, from recruitment and capacity building to nurturing stakeholder relationships with both the donor community and government partners that lead to project growth. Managers will also be asked to make wider contributions to Instiglio’s global management and strategy as an integral part of the management team.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559739&quot;:200,&quot;335559740&quot;:276}\">&nbsp;</span></span></p>\n<p style=\"line-h",
+      "scores": {
+        "A_BlendedCatalyticFinance": 5,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 5,
+      "overall_score": 5.6,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201516+00:00"
+    },
+    {
+      "id": "gh-8484552002",
+      "title": "Senior Associate, Insights - Acumen Academy",
+      "url": "https://job-boards.greenhouse.io/acumen/jobs/8484552002",
+      "source": "Greenhouse",
+      "publisher": "Acumen",
+      "country": "Nairobi, Nairobi, Kenya, Lagos, Nigeria",
+      "job_type": "Acumen Academy",
+      "category": "Acumen Academy",
+      "posted": "2026-03-29T10:26:05-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: center;\">Acumen is seeking a highly motivated, thoughtful, and curious Senior Associate, Insights with atleast 5 years of experience to support the delivery of a rigorous learning agenda for a transformative business and economic empowerment program across Africa with a strong focus on young women, leadership and organizational growth and development.&nbsp; This role will focus on generating high quality insights to inform adaptive program delivery, with a strong emphasis on understanding enterprise growth, work quality, and women’s participation in the green economy.<strong>This role will be based out of Acumen’s office in Nairobi or Lagos</strong>, with an expectation of working from the office 3 days a week.</p>\n<p>&nbsp;</p>\n<p>About Acumen</p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit<a href=\"http://www.acumen.org/\">&nbsp;acumen.org</a>.</p>\n<p>About the Role</p>\n<p>As the Senior Associate, Insights, you will support the execution of the program’s learning agenda, working across program teams and partners to generate actional insights that inform program delivery and strategy.</p>\n<p>This role sits within the Insights function, focusing on the ‘why’ and ‘so what’ behind program results.&nbsp; You will lead qualitative and mixed-methods data collection and analyze findings.&nbsp; You will also synthesize findings into clear insights and contribute to learning outputs th",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 5
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 5,
+      "overall_score": 5.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201545+00:00"
+    },
+    {
+      "id": "gh-8424275002",
+      "title": "Impact Manager - Reporting, Data and Analytics (Acumen East or West Africa)",
+      "url": "https://job-boards.greenhouse.io/acumen/jobs/8424275002",
+      "source": "Greenhouse",
+      "publisher": "Acumen",
+      "country": "Nairobi, Nairobi, Kenya, Lagos, Nigeria",
+      "job_type": "Acumen Academy",
+      "category": "Acumen Academy",
+      "posted": "2026-03-24T18:01:32-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: center;\">Acumen is seeking a highly motivated and experienced Impact Manager with at least 8 years of work experience to provide Reporting, Data and Analytics leadership at a regional level for a transformative business and economic empowerment programme across Africa with a strong focus on young women.</p>\n<p>This role<strong> will be based out of Acumen office in Nairobi or Lagos</strong> with an expectation of working from office 3 days a week. Remote from other geographies is not an option.</p>\n<p><strong>About Acumen</strong></p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit<a href=\"http://www.acumen.org/\"> acumen.org</a>.</p>\n<p><strong>About the role</strong></p>\n<p>As the <strong>Impact Manager</strong>: <strong>Reporting, Data and Analytics</strong> you will be responsible for designing and implementing the technology solution for the programmatic MEL framework. That is potentially adapting existing solutions like Salesforce and Google sheets, or creating/identifying new technology solutions, to ensure that the MEL framework has a functioning and efficient technology platform, routine reporting on key data points. We expect the role to focus on continual identification of system and data management and reporting improvements. We expect candidates to be highly technically efficient with data and software solutions with growing skills in the use of AI.&nbsp;</p>\n<p>You&n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 5
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 5,
+      "overall_score": 5.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201541+00:00"
+    },
+    {
+      "id": "gh-5822631004",
+      "title": "Project Intern (Trainee Program), Bogotá",
+      "url": "https://job-boards.greenhouse.io/instiglio/jobs/5822631004",
+      "source": "Greenhouse",
+      "publisher": "Instiglio",
+      "country": "Bogotá, Colombia",
+      "job_type": "Projects",
+      "category": "Projects",
+      "posted": "2026-03-09T20:30:49-04:00",
+      "closing": null,
+      "description": "<p><span style=\"color: rgb(0, 0, 0); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\"><strong>How you will make an impact&nbsp;</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\"><span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"><span class=\"whitespace-normal\">Instiglio</span></span> offers a unique work experience at the intersection of the <strong data-start=\"130\" data-end=\"169\">private, public, and social sectors</strong>, partnering with governments and international organizations to improve the effectiveness and impact of development programs. As an <strong data-start=\"302\" data-end=\"312\">Intern</strong>, you will have the opportunity to work in a results-oriented environment, gain first-hand experience in a growing global consulting organization, and contribute to initiatives aimed at strengthening the performance of public sector programs.</span></p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">You will join a growing, entrepreneurial team delivering impactful projects that aim to improve development outcomes across different countries. Within project teams, Interns work closely with <strong data-start=\"749\" data-end=\"829\">Project Leads, Project Managers, Senior Associates, Associates, and Analysts</strong> to deliver high-quality analytical and strategic support to clients.</span></p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">As an <strong data-start=\"906\" data-end=\"916\">Intern</strong>, you will:</span></p>\n<ul data-start=\"929\" data-end=\"1661\" data-is-last-node=\"\" data-is-only-node=\"\">\n<li style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\" data-section-id=\"1fc0hhv\" data-start=\"929\" data-end=\"1064\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">Support the <strong data-start=\"943\" data-end=\"990\">analysis a",
+      "scores": {
+        "A_BlendedCatalyticFinance": 5,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 5,
+      "overall_score": 5.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201528+00:00"
+    },
+    {
+      "id": "gh-5764611004",
+      "title": "Transformation Director",
+      "url": "https://job-boards.greenhouse.io/instiglio/jobs/5764611004",
+      "source": "Greenhouse",
+      "publisher": "Instiglio",
+      "country": "Kenya (Nairobi) or Mauritius (Moka)",
+      "job_type": "Projects",
+      "category": "Projects",
+      "posted": "2026-01-15T11:27:46-05:00",
+      "closing": null,
+      "description": "<p style=\"line-height: 1.4; text-align: justify;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\">How you will make an impact</span></strong></span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">As Transformation Director, you will lead Instiglio’s organization-wide transformation agenda - strengthening the systems, operating models, and change capabilities that enable us to scale impact globally.</span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">This role sits at the intersection of strategy, systems-building, technology, and execution. It is designed for a leader who thrives in complexity and is equally comfortable designing transformation roadmaps and rolling up their sleeves to ensure adoption and results.</span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">A member of Instiglio’s Executive Team is accountable for each substantive transformation initiative, so while reporting to the COO, you will also work closely with the CEO and Chief Impact Officer (CIO) on specific initiatives, agreeing and assuring strategies together prior to execution. You will also partner with fellow members of Instiglio Leadership Team to leverage their experience and expertise, and to ensure transformation efforts are coherent, integrated, prioritized, and embedded across the organization.</span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">Key responsibilities will include, but are not limited to:</span><br><br><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><strong>Lead Organization-Wide Transformation &amp; Change Management</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 1",
+      "scores": {
+        "A_BlendedCatalyticFinance": 5,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 5,
+      "overall_score": 5.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201533+00:00"
     },
     {
       "id": "gh-8518853002",
@@ -1391,17 +1391,142 @@
       "closing": null,
       "description": "<p><em>Acumen Latin America is seeking a&nbsp;</em><strong><em>Senior Associate</em></strong><em> to join our Bogotá-based Portfolio team. We are looking for a thoughtful, entrepreneurial, and mission-driven professional with </em><strong><em>4–6 years of relevant experience</em></strong><em> and a strong commitment to tackling poverty and inequality in Latin America.</em></p>\n<p><em>This role is ideal for someone who combines strong investment judgment with empathy, curiosity, and the ability to work closely with entrepreneurs and rural communities. The right candidate is analytical, proactive, open to different points of view, and energized by finding creative solutions in complex and evolving environments.</em></p>\n<p><strong>About Acumen</strong></p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit<a href=\"http://www.acumen.org/\"> acumen.org</a>.</p>\n<p><strong>About Acumen Latin America</strong></p>\n<p>Acumen began investing in Latin America in 2013, with a focus on Colombia and Peru. Our strategy is centered on backing businesses that serve communities that have faced historical political, economic, and social exclusion, particularly in rural areas. Our Bogotá-based team invests in and supports companies across sectors such as agriculture, education, energy, and other high-impact areas aligned with Acumen’s investment thesis.</p>\n<p><strong>About the Role</strong></p>\n<p>The Senior Associate will",
       "scores": {
-        "A_BlendedCatalyticFinance": 0,
+        "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 4
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:22:06.201546+00:00"
+    },
+    {
+      "id": "gh-8499910002",
+      "title": "Executive Assistant to the CEO",
+      "url": "https://job-boards.greenhouse.io/acumen/jobs/8499910002",
+      "source": "Greenhouse",
+      "publisher": "Acumen",
+      "country": "New York City",
+      "job_type": "Executive Office",
+      "category": "Executive Office",
+      "posted": "2026-04-09T09:17:23-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: center;\"><em>Acumen, an international nonprofit working to solve problems of poverty, is looking for an Executive Assistant to support the CEO. This role is full time, eligible for overtime, a yearly bonus and benefits. Acumen’s New York office operates on a hybrid schedule, with in-office work Tuesday, Wednesday, and Thursday. While this role is not “always on,” it is often on.</em></p>\n<p><strong>About Acumen </strong><strong><br></strong>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit <a href=\"http://acumen.org\">acumen.org</a>.&nbsp;</p>\n<p><strong>About the role</strong><strong><br></strong>The CEO operates at the intersection of global investing, philanthropy, moral leadership, and systems change. Her work spans a complex network of relationships across entrepreneurs, investors, board members, partners, and public thought leaders, often across multiple geographies and time zones in a single day.</p>\n<p>This role serves as a trusted operational partner to the CEO, responsible for the excellent execution of the CEO’s time, travel, communications, and day-to-day workflow. But this is more than an administrative role. It requires strong judgment, emotional intelligence, discretion, anticipation, and the ability to protect focus in an environment of constant motion and competing demands.</p>\n<p>The Executive Assistant to the CEO will play a critical role in helping the CEO operate a",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 4
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201538+00:00"
+    },
+    {
+      "id": "gh-8499399002",
+      "title": "Data Systems Manager",
+      "url": "https://job-boards.greenhouse.io/acumen/jobs/8499399002",
+      "source": "Greenhouse",
+      "publisher": "Acumen",
+      "country": "Colombia",
+      "job_type": "Acumen Academy",
+      "category": "Acumen Academy",
+      "posted": "2026-04-08T17:40:38-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: center;\"><strong><em>Data Systems Manager</em></strong></p>\n<p style=\"text-align: center;\"><em>Acumen is looking for a Data Systems Manager with a minimum of 8 years of relevant experience to build and strengthen our data systems,&nbsp; reporting, and enabling our teams to make data-driven decisions. The role combines technical leadership with team enablement — overseeing architecture, integrations, data governance, and reporting. It also includes building and training a globally distributed data operations team to foster long-term adoption and data excellence. This role is based anywhere in Colombia, with some travel to our office in Bogotá as required.&nbsp;</em></p>\n<p><strong></strong></p>\n<p>&nbsp;</p>\n<p><strong>Anywhere in Colombia&nbsp;</strong></p>\n<p>JD in Spanish <a href=\"https://docs.google.com/document/d/1RSzxomfriBN2DlwE0LSlGKQRVH1uic8hqcZ25k1aH5Q/edit?tab=t.0#heading=h.b56cew2swi2q\">here</a>. Please send the application in English.</p>\n<p><strong></strong></p>\n<p><strong>About Acumen</strong></p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. Through our investment adviser Acumen Capital Partners, we are responsible for $166 million in assets under management via our returnable pooled investment funds, which have impacted 238 million lives and offset 48 million metric tons of CO2. To learn more visit <a href=\"http://acumen.org\">acumen.org</a>.</p>\n<p><strong>About Acumen Academy</str",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 4
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201536+00:00"
+    },
+    {
+      "id": "gh-8450117002",
+      "title": "Associate Director of Finance ",
+      "url": "https://job-boards.greenhouse.io/acumen/jobs/8450117002",
+      "source": "Greenhouse",
+      "publisher": "Acumen",
+      "country": "New York",
+      "job_type": "Finance",
+      "category": "Finance",
+      "posted": "2026-03-24T18:01:32-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: center;\"><em>Acumen Capital Partners is seeking an Associate Director of Finance to advance ACP’s commitment to returnable-capital funds while shaping the financial strategy of a global organization tackling poverty. This is an opportunity to manage complex multi-fund operations, drive strategic decision-making, and strengthen ACP’s financial systems, reporting, and compliance across multiple geographies. Ideal candidates bring deep fund management experience, analytical rigor, and a passion for creating social impact.This role is based in our NYC office with 3 days in the office per week (Tuesday, Wednesday, Thursday).&nbsp;</em></p>\n<p><strong>About Acumen<br></strong>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by&nbsp;<a href=\"https://acumen.org/jacqueline-novogratz/\">Jacqueline Novogratz</a> on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives.&nbsp;</p>\n<p>Acumen works across the spectrum of capital, raising philanthropic capital that is deployed in several ways: as patient investment, to build leaders, and to leverage into much larger impact funds – all focused on solving problems of poverty. To learn more visit<a href=\"http://www.acumen.org/\">&nbsp;</a><a href=\"http://acumen.org/\">acumen.org</a>.</p>\n<p><strong><u>About the Role:<br></u></strong>Acumen Capital Partners’ Associate Director of Finance will be a seasoned professional, with significant experience of fund management, who is passionate about joining an extraordinary organization that continues to drive inno",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 4
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201534+00:00"
+    },
+    {
+      "id": "gh-7689620003",
+      "title": "Customer Success Operations Manager",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7689620003",
+      "source": "Greenhouse",
+      "publisher": "Branch International",
+      "country": "Remote, US",
+      "job_type": "Support Operations",
+      "category": "Support Operations",
+      "posted": "2026-04-03T16:34:19-04:00",
+      "closing": null,
+      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About the role:</strong></p>\n<p>The <strong>Customer Success Operations Manager</strong> builds and operates Branch’s scaled Customer Success model for approximately 1,000 non-managed accounts. At Branch, revenue is driven by product usage — payout volume, card swipes, transfers, and active user growth — rather than contractual renewals. This role increases engagement, detects silent churn risk, drives product adoption, and surfaces expansion opportunities through a data-driven, tech-touch model.</p>\n<p>Operating in a 1:many framework, this role designs segmentation strategies, behavioral health scoring, and lifecycle engagement programs — while selectively engaging high-risk or high-growth accounts where personalized outreach can meaningfully impact retention or expa",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 3,
+      "overall_score": 3.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725769+00:00"
+    },
+    {
+      "id": "gh-7648000003",
+      "title": "Director, B2C Marketing",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7648000003",
+      "source": "Greenhouse",
+      "publisher": "Branch International",
+      "country": "Remote, US",
+      "job_type": "Marketing",
+      "category": "Marketing",
+      "posted": "2026-02-27T17:39:21-05:00",
+      "closing": null,
+      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p><strong>About the role:</strong></p>\n<p>Branch is seeking an experienced and strategic Director of B2C Marketing to lead our customer and end-userfacing marketing efforts. This individual will be responsible for developing and executing a comprehensive marketing strategy that drives end-user acquisition, engagement, and retention. The ideal candidate is a hands-on leader with a proven track record of building and managing high-performing marketing teams and delivering measurable results in a fast-paced, B2C environment.</p>\n<p><strong>Responsibilities include, but are not limited to:</strong></p>\n<ul>\n<li>Strategic Planning: Develop and implement a holistic B2C marketing strategy aligned with company goals, including brand awareness, customer acquisition, and revenue growth.</li>\n<li>Team Leadership: Lead, mentor, and grow a tea",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725771+00:00"
     },
     {
       "id": "gh-7701734003",
@@ -1419,11 +1544,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725776+00:00"
@@ -1444,11 +1569,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725773+00:00"
@@ -1469,39 +1594,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725783+00:00"
-    },
-    {
-      "id": "gh-8499910002",
-      "title": "Executive Assistant to the CEO",
-      "url": "https://job-boards.greenhouse.io/acumen/jobs/8499910002",
-      "source": "Greenhouse",
-      "publisher": "Acumen",
-      "country": "New York City",
-      "job_type": "Executive Office",
-      "category": "Executive Office",
-      "posted": "2026-04-09T09:17:23-04:00",
-      "closing": null,
-      "description": "<p style=\"text-align: center;\"><em>Acumen, an international nonprofit working to solve problems of poverty, is looking for an Executive Assistant to support the CEO. This role is full time, eligible for overtime, a yearly bonus and benefits. Acumen’s New York office operates on a hybrid schedule, with in-office work Tuesday, Wednesday, and Thursday. While this role is not “always on,” it is often on.</em></p>\n<p><strong>About Acumen </strong><strong><br></strong>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. To learn more visit <a href=\"http://acumen.org\">acumen.org</a>.&nbsp;</p>\n<p><strong>About the role</strong><strong><br></strong>The CEO operates at the intersection of global investing, philanthropy, moral leadership, and systems change. Her work spans a complex network of relationships across entrepreneurs, investors, board members, partners, and public thought leaders, often across multiple geographies and time zones in a single day.</p>\n<p>This role serves as a trusted operational partner to the CEO, responsible for the excellent execution of the CEO’s time, travel, communications, and day-to-day workflow. But this is more than an administrative role. It requires strong judgment, emotional intelligence, discretion, anticipation, and the ability to protect focus in an environment of constant motion and competing demands.</p>\n<p>The Executive Assistant to the CEO will play a critical role in helping the CEO operate a",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201538+00:00"
     },
     {
       "id": "gh-7512638003",
@@ -1519,39 +1619,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725785+00:00"
-    },
-    {
-      "id": "gh-8499399002",
-      "title": "Data Systems Manager",
-      "url": "https://job-boards.greenhouse.io/acumen/jobs/8499399002",
-      "source": "Greenhouse",
-      "publisher": "Acumen",
-      "country": "Colombia",
-      "job_type": "Acumen Academy",
-      "category": "Acumen Academy",
-      "posted": "2026-04-08T17:40:38-04:00",
-      "closing": null,
-      "description": "<p style=\"text-align: center;\"><strong><em>Data Systems Manager</em></strong></p>\n<p style=\"text-align: center;\"><em>Acumen is looking for a Data Systems Manager with a minimum of 8 years of relevant experience to build and strengthen our data systems,&nbsp; reporting, and enabling our teams to make data-driven decisions. The role combines technical leadership with team enablement — overseeing architecture, integrations, data governance, and reporting. It also includes building and training a globally distributed data operations team to foster long-term adoption and data excellence. This role is based anywhere in Colombia, with some travel to our office in Bogotá as required.&nbsp;</em></p>\n<p><strong></strong></p>\n<p>&nbsp;</p>\n<p><strong>Anywhere in Colombia&nbsp;</strong></p>\n<p>JD in Spanish <a href=\"https://docs.google.com/document/d/1RSzxomfriBN2DlwE0LSlGKQRVH1uic8hqcZ25k1aH5Q/edit?tab=t.0#heading=h.b56cew2swi2q\">here</a>. Please send the application in English.</p>\n<p><strong></strong></p>\n<p><strong>About Acumen</strong></p>\n<p>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives. Through our investment adviser Acumen Capital Partners, we are responsible for $166 million in assets under management via our returnable pooled investment funds, which have impacted 238 million lives and offset 48 million metric tons of CO2. To learn more visit <a href=\"http://acumen.org\">acumen.org</a>.</p>\n<p><strong>About Acumen Academy</str",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201536+00:00"
     },
     {
       "id": "gh-7693399003",
@@ -1569,39 +1644,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725779+00:00"
-    },
-    {
-      "id": "gh-8450117002",
-      "title": "Associate Director of Finance ",
-      "url": "https://job-boards.greenhouse.io/acumen/jobs/8450117002",
-      "source": "Greenhouse",
-      "publisher": "Acumen",
-      "country": "New York",
-      "job_type": "Finance",
-      "category": "Finance",
-      "posted": "2026-03-24T18:01:32-04:00",
-      "closing": null,
-      "description": "<p style=\"text-align: center;\"><em>Acumen Capital Partners is seeking an Associate Director of Finance to advance ACP’s commitment to returnable-capital funds while shaping the financial strategy of a global organization tackling poverty. This is an opportunity to manage complex multi-fund operations, drive strategic decision-making, and strengthen ACP’s financial systems, reporting, and compliance across multiple geographies. Ideal candidates bring deep fund management experience, analytical rigor, and a passion for creating social impact.This role is based in our NYC office with 3 days in the office per week (Tuesday, Wednesday, Thursday).&nbsp;</em></p>\n<p><strong>About Acumen<br></strong>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by&nbsp;<a href=\"https://acumen.org/jacqueline-novogratz/\">Jacqueline Novogratz</a> on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half-a-billion lives.&nbsp;</p>\n<p>Acumen works across the spectrum of capital, raising philanthropic capital that is deployed in several ways: as patient investment, to build leaders, and to leverage into much larger impact funds – all focused on solving problems of poverty. To learn more visit<a href=\"http://www.acumen.org/\">&nbsp;</a><a href=\"http://acumen.org/\">acumen.org</a>.</p>\n<p><strong><u>About the Role:<br></u></strong>Acumen Capital Partners’ Associate Director of Finance will be a seasoned professional, with significant experience of fund management, who is passionate about joining an extraordinary organization that continues to drive inno",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201534+00:00"
     },
     {
       "id": "gh-7510788003",
@@ -1619,11 +1669,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725781+00:00"
@@ -1644,64 +1694,14 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725787+00:00"
-    },
-    {
-      "id": "gh-5822631004",
-      "title": "Project Intern (Trainee Program), Bogotá",
-      "url": "https://job-boards.greenhouse.io/instiglio/jobs/5822631004",
-      "source": "Greenhouse",
-      "publisher": "Instiglio",
-      "country": "Bogotá, Colombia",
-      "job_type": "Projects",
-      "category": "Projects",
-      "posted": "2026-03-09T20:30:49-04:00",
-      "closing": null,
-      "description": "<p><span style=\"color: rgb(0, 0, 0); font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\"><strong>How you will make an impact&nbsp;</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\"><span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\"><span class=\"whitespace-normal\">Instiglio</span></span> offers a unique work experience at the intersection of the <strong data-start=\"130\" data-end=\"169\">private, public, and social sectors</strong>, partnering with governments and international organizations to improve the effectiveness and impact of development programs. As an <strong data-start=\"302\" data-end=\"312\">Intern</strong>, you will have the opportunity to work in a results-oriented environment, gain first-hand experience in a growing global consulting organization, and contribute to initiatives aimed at strengthening the performance of public sector programs.</span></p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">You will join a growing, entrepreneurial team delivering impactful projects that aim to improve development outcomes across different countries. Within project teams, Interns work closely with <strong data-start=\"749\" data-end=\"829\">Project Leads, Project Managers, Senior Associates, Associates, and Analysts</strong> to deliver high-quality analytical and strategic support to clients.</span></p>\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">As an <strong data-start=\"906\" data-end=\"916\">Intern</strong>, you will:</span></p>\n<ul data-start=\"929\" data-end=\"1661\" data-is-last-node=\"\" data-is-only-node=\"\">\n<li style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\" data-section-id=\"1fc0hhv\" data-start=\"929\" data-end=\"1064\"><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">Support the <strong data-start=\"943\" data-end=\"990\">analysis a",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201528+00:00"
-    },
-    {
-      "id": "gh-5764611004",
-      "title": "Transformation Director",
-      "url": "https://job-boards.greenhouse.io/instiglio/jobs/5764611004",
-      "source": "Greenhouse",
-      "publisher": "Instiglio",
-      "country": "Kenya (Nairobi) or Mauritius (Moka)",
-      "job_type": "Projects",
-      "category": "Projects",
-      "posted": "2026-01-15T11:27:46-05:00",
-      "closing": null,
-      "description": "<p style=\"line-height: 1.4; text-align: justify;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\">How you will make an impact</span></strong></span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">As Transformation Director, you will lead Instiglio’s organization-wide transformation agenda - strengthening the systems, operating models, and change capabilities that enable us to scale impact globally.</span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">This role sits at the intersection of strategy, systems-building, technology, and execution. It is designed for a leader who thrives in complexity and is equally comfortable designing transformation roadmaps and rolling up their sleeves to ensure adoption and results.</span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">A member of Instiglio’s Executive Team is accountable for each substantive transformation initiative, so while reporting to the COO, you will also work closely with the CEO and Chief Impact Officer (CIO) on specific initiatives, agreeing and assuring strategies together prior to execution. You will also partner with fellow members of Instiglio Leadership Team to leverage their experience and expertise, and to ensure transformation efforts are coherent, integrated, prioritized, and embedded across the organization.</span><br><br><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">Key responsibilities will include, but are not limited to:</span><br><br><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><strong>Lead Organization-Wide Transformation &amp; Change Management</strong></span></p>\n<ul style=\"text-align: justify;\">\n<li style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 12pt;\">\n<p><span style=\"font-family: 'trebuchet ms', geneva, sans-serif; font-size: 1",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201533+00:00"
     },
     {
       "id": "gh-7563605003",
@@ -1719,11 +1719,11 @@
         "A_BlendedCatalyticFinance": 0,
         "B_DealStructuring": 0,
         "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
+        "D_EmergingMarkets": 3
       },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 0,
-      "overall_score": 0.0,
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725775+00:00"
