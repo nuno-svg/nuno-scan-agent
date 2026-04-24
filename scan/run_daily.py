@@ -47,14 +47,29 @@ RELIEFWEB_APPNAME = "nuno-scan-agent"  # TODO: replace with approved appname fro
 # Tokens are the company's Greenhouse "board token". Missing boards return 404 → skipped safely.
 # Add / remove companies as you like.
 GREENHOUSE_BOARDS = [
-    ("dalberg", "Dalberg Advisors"),
-    ("instiglio", "Instiglio"),          # RBF pioneers — high relevance
-    ("idinsight", "IDinsight"),
-    ("60decibels", "60 Decibels"),
-    ("acumen", "Acumen"),
-    ("tala", "Tala"),
-    ("thebridgespangroup", "The Bridgespan Group"),
-    ("openimpact", "Open Impact"),
+    # ==== Tier 1 — Confirmed working & highly relevant ====
+    ("instiglio", "Instiglio"),                   # RBF pioneers — top-tier fit
+    ("acumen", "Acumen"),                         # Impact investing fund
+
+    # ==== Tier 2 — High-probability development/impact firms ====
+    ("oneacrefund", "One Acre Fund"),             # Smallholder agri in Africa
+    ("rootcapital", "Root Capital"),              # Agri/rural finance LatAm/Africa
+    ("villagecapital", "Village Capital"),        # EM-focused VC/accelerator
+    ("globalinnovationfund", "Global Innovation Fund"),  # Impact-funded, uses UK gov
+    ("ripple", "Ripple"),                         # Long shot but worth probing
+    ("mercycorps", "Mercy Corps"),                # Development NGO
+
+    # ==== Tier 3 — Optional adjacent (fintech/impact/EM exposure) ====
+    ("tala", "Tala"),                             # Consumer lending EM
+    ("branch", "Branch International"),           # Consumer lending EM
+    ("chimehq", "Chime"),                         # Fintech — low fit, UI test only
+
+    # ==== How to add more valid tokens ====
+    # 1. Open the careers page of any firm you want to track
+    # 2. Open the page source (View Source)
+    # 3. Search for: boards.greenhouse.io/embed/job_board?for=XXXX
+    # 4. The value after "for=" is the token (can also be in URL /boards/XXXX/jobs)
+    # 5. Add ("XXXX", "Company Name") to this list and commit.
 ]
 
 

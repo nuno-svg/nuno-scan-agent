@@ -72,8 +72,10 @@ button:hover { background: #F4F7FB; }
   </select>
   <label>Min score:</label>
   <select id="f-minscore">
-    <option value="0">0</option>
-    <option value="3" selected>&ge; 3</option>
+    <option value="0" selected>0 (all)</option>
+    <option value="1">&ge; 1</option>
+    <option value="2">&ge; 2</option>
+    <option value="3">&ge; 3</option>
     <option value="5">&ge; 5</option>
     <option value="7">&ge; 7</option>
   </select>
@@ -157,7 +159,11 @@ function render() {
 
   const tbody = document.getElementById("tbody");
   if (!rows.length) {
-    tbody.innerHTML = '<tr><td colspan="8" class="empty">No opportunities match current filters. Wait for next scan or adjust filters.</td></tr>';
+    const total = opps.length;
+    const msg = total
+      ? `Showing 0 of ${total} opportunities — try lowering the Min score filter or clearing other filters.`
+      : "No opportunities in pipeline yet. Wait for next scan.";
+    tbody.innerHTML = `<tr><td colspan="8" class="empty">${msg}</td></tr>`;
     return;
   }
   tbody.innerHTML = rows.map(o => {
