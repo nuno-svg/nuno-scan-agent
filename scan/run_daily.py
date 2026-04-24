@@ -47,26 +47,25 @@ RELIEFWEB_APPNAME = "nuno-scan-agent"  # TODO: replace with approved appname fro
 # Tokens are the company's Greenhouse "board token". Missing boards return 404 → skipped safely.
 # Add / remove companies as you like.
 GREENHOUSE_BOARDS = [
-    # ==== Tier 1 — Confirmed working & highly relevant ====
+    # ==== Confirmed working & highly relevant ====
     ("instiglio", "Instiglio"),                   # RBF pioneers — top-tier fit
     ("acumen", "Acumen"),                         # Impact investing fund
-
-    # ==== Tier 2 — High-probability development/impact firms ====
     ("oneacrefund", "One Acre Fund"),             # Smallholder agri in Africa
-    ("rootcapital", "Root Capital"),              # Agri/rural finance LatAm/Africa
-    ("villagecapital", "Village Capital"),        # EM-focused VC/accelerator
-    ("globalinnovationfund", "Global Innovation Fund"),  # Impact-funded, uses UK gov
-    ("ripple", "Ripple"),                         # Long shot but worth probing
-    ("mercycorps", "Mercy Corps"),                # Development NGO
+    ("branch", "Branch International"),           # EM consumer lending
 
-    # ==== Tier 3 — Optional adjacent (fintech/impact/EM exposure) ====
-    ("tala", "Tala"),                             # Consumer lending EM
-    ("branch", "Branch International"),           # Consumer lending EM
-    ("chimehq", "Chime"),                         # Fintech — low fit, UI test only
+    # ==== To probe (might 404, we iterate) ====
+    ("kivamicrofunds", "Kiva"),                   # Microfinance marketplace
+    ("bridgespan", "Bridgespan Group"),           # Social-impact strategy
+    ("endfund", "The END Fund"),                  # Neglected tropical diseases
+    ("sparkmicrogrants", "Spark Microgrants"),    # Africa rural dev
+    ("rockefellerfoundation", "Rockefeller Foundation"),
+    ("opportunityinternational", "Opportunity International"),
 
+    # NOTE: "ripple" excluded — mostly crypto engineering roles, low signal.
+    #
     # ==== How to add more valid tokens ====
     # 1. Open the careers page of any firm you want to track
-    # 2. Open the page source (View Source)
+    # 2. Open the page source (View Source) — Cmd+Option+U on Safari
     # 3. Search for: boards.greenhouse.io/embed/job_board?for=XXXX
     # 4. The value after "for=" is the token (can also be in URL /boards/XXXX/jobs)
     # 5. Add ("XXXX", "Company Name") to this list and commit.
@@ -337,6 +336,23 @@ def load_pipeline() -> dict:
 
 
 def merge(existing: dict, new_opps: list[dict]) -> dict:
+    # Purge opportunities whose publisher/source is no longer in our config.
+    # Keeps the pipeline clean when we remove a Greenhouse board or drop a source.
+    active_publishers = {name for _, name in GREENHOUSE_BOARDS} | {"ReliefWeb"}
+    kept = []
+    purged = 0
+    for o in existing.get("opportunities", []):
+        pub = o.get("publisher") or ""
+        source = o.get("source") or ""
+        # Keep ReliefWeb entries regardless of publisher; for Greenhouse require known publisher
+        if source == "ReliefWeb" or pub in active_publishers or source not in ("ReliefWeb", "Greenhouse"):
+            kept.append(o)
+        else:
+            purged += 1
+    existing["opportunities"] = kept
+    if purged:
+        print(f"[merge] purged {purged} opportunities from deprecated sources")
+
     by_id: dict[str, dict] = {o["id"]: o for o in existing.get("opportunities", [])}
     added = 0
     updated = 0
