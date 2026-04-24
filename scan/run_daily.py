@@ -31,14 +31,39 @@ PIPELINE_PATH = DOCS_DIR / "pipeline.json"
 DASHBOARD_PATH = DOCS_DIR / "index.html"
 LOG_PATH = SCAN_DIR / "last_run.log"
 
-USER_AGENT = "Mozilla/5.0 (nuno-scan-agent; https://github.com/nuno-svg/nuno-scan-agent)"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 TIMEOUT_SEC = 20
 MAX_PER_SOURCE = 50
 
 
 # ---------- Fetch helpers ----------
-def http_get(url: str, accept: str = "application/json") -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": accept})
+def http_get(url: str, accept: str = "application/json", extra_headers: dict | None = None) -> str:
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": accept,
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    if extra_headers:
+        headers.update(extra_headers)
+    req = urllib.request.Request(url, headers=headers)
+    with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
+        return resp.read().decode("utf-8", errors="replace")
+
+
+def http_post_json(url: str, body: dict) -> str:
+    """POST with JSON body — canonical for ReliefWeb API v1."""
+    data = json.dumps(body).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/json",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
     with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
@@ -64,27 +89,24 @@ RELIEFWEB_QUERIES = [
 
 
 def fetch_reliefweb(log: list[str]) -> list[dict[str, Any]]:
-    base = "https://api.reliefweb.int/v1/jobs"
+    """Hit ReliefWeb API using POST with JSON body (canonical v1 form)."""
+    base = "https://api.reliefweb.int/v1/jobs?appname=nuno-scan-agent"
     seen_ids: set[str] = set()
     results: list[dict[str, Any]] = []
-    fields = [
+    fields_to_include = [
         "title", "url", "date", "country", "source", "type",
         "career_categories", "body-html", "how_to_apply",
     ]
     for q in RELIEFWEB_QUERIES:
-        params = {
-            "appname": "nuno-scan-agent",
-            "profile": "list",
+        body = {
             "limit": MAX_PER_SOURCE,
-            "query[value]": q,
-            "query[operator]": "AND",
-            "sort[]": "date.created:desc",
+            "profile": "list",
+            "sort": ["date.created:desc"],
+            "fields": {"include": fields_to_include},
+            "query": {"value": q, "operator": "AND"},
         }
-        for i, f in enumerate(fields):
-            params[f"fields[include][{i}]"] = f
-        url = base + "?" + urllib.parse.urlencode(params, doseq=True)
         try:
-            raw = http_get(url)
+            raw = http_post_json(base, body)
             data = json.loads(raw)
             returned = data.get("data", [])
             for item in returned:
@@ -132,7 +154,11 @@ def fetch_unjobs(log: list[str]) -> list[dict[str, Any]]:
     for kw in UNJOBS_KEYWORDS:
         url = f"https://unjobs.org/search?kw={kw}"
         try:
-            html_text = http_get(url, accept="text/html")
+            html_text = http_get(
+                url,
+                accept="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                extra_headers={"Referer": "https://unjobs.org/"},
+            )
             for m in re.finditer(
                 r'<a[^>]+class="jl"[^>]+href="([^"]+)"[^>]*>(.*?)</a>',
                 html_text, re.DOTALL,
