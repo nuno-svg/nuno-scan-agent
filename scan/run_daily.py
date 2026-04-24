@@ -36,6 +36,27 @@ USER_AGENT_API = "nuno-scan-agent/1.0 (+https://github.com/nuno-svg/nuno-scan-ag
 TIMEOUT_SEC = 20
 MAX_PER_SOURCE = 50
 
+# ---------- ReliefWeb appname ----------
+# To get a real appname, register at https://apidoc.reliefweb.int/parameters#appname
+# Once approved, replace the value below with the appname they give you.
+# While unapproved, ReliefWeb returns 403 for all queries — script logs a note and continues.
+RELIEFWEB_APPNAME = "nuno-scan-agent"  # TODO: replace with approved appname from ReliefWeb
+
+# ---------- Greenhouse job boards ----------
+# Public API, no auth. URL format: https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true
+# Tokens are the company's Greenhouse "board token". Missing boards return 404 → skipped safely.
+# Add / remove companies as you like.
+GREENHOUSE_BOARDS = [
+    ("dalberg", "Dalberg Advisors"),
+    ("instiglio", "Instiglio"),          # RBF pioneers — high relevance
+    ("idinsight", "IDinsight"),
+    ("60decibels", "60 Decibels"),
+    ("acumen", "Acumen"),
+    ("tala", "Tala"),
+    ("thebridgespangroup", "The Bridgespan Group"),
+    ("openimpact", "Open Impact"),
+]
+
 
 class HTTPFailure(Exception):
     """Raised with full context (status + body snippet) when an HTTP call fails."""
@@ -111,9 +132,9 @@ RELIEFWEB_QUERIES = [
 def _try_reliefweb_endpoints(q: str, body: dict, log: list[str]) -> str | None:
     """Try multiple ReliefWeb URL forms; return raw JSON text or None."""
     candidates = [
-        ("POST v1", "https://api.reliefweb.int/v1/jobs?appname=nuno-scan-agent", "post"),
+        ("POST v1", f"https://api.reliefweb.int/v1/jobs?appname={RELIEFWEB_APPNAME}", "post"),
         ("GET v1", None, "get_v1"),
-        ("POST v2", "https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent", "post"),
+        ("POST v2", f"https://api.reliefweb.int/v2/jobs?appname={RELIEFWEB_APPNAME}", "post"),
     ]
     last_err = None
     for label, url, mode in candidates:
@@ -122,7 +143,7 @@ def _try_reliefweb_endpoints(q: str, body: dict, log: list[str]) -> str | None:
                 return http_post_json(url, body)
             elif mode == "get_v1":
                 params = {
-                    "appname": "nuno-scan-agent",
+                    "appname": RELIEFWEB_APPNAME,
                     "profile": "list",
                     "limit": body.get("limit", MAX_PER_SOURCE),
                     "query[value]": q,
@@ -194,58 +215,52 @@ def fetch_reliefweb(log: list[str]) -> list[dict[str, Any]]:
     return results
 
 
-# ---------- Source: UN Jobs HTML scrape ----------
-UNJOBS_KEYWORDS = [
-    "consultant+finance",
-    "capacity+building+consultant",
-    "investment+advisor",
-    "blended+finance",
-]
-
-
-def fetch_unjobs(log: list[str]) -> list[dict[str, Any]]:
+# ---------- Source: Greenhouse public job boards ----------
+def fetch_greenhouse(log: list[str]) -> list[dict[str, Any]]:
+    """
+    Fetch job postings from Greenhouse public API for development-consulting firms.
+    No auth required. Missing boards return 404 → logged and skipped.
+    """
     results: list[dict[str, Any]] = []
-    for kw in UNJOBS_KEYWORDS:
-        url = f"https://unjobs.org/search?kw={kw}"
+    for token, display_name in GREENHOUSE_BOARDS:
+        url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
         try:
-            html_text = http_get(
-                url,
-                accept="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                extra_headers={"Referer": "https://unjobs.org/"},
-            )
-            for m in re.finditer(
-                r'<a[^>]+class="jl"[^>]+href="([^"]+)"[^>]*>(.*?)</a>',
-                html_text, re.DOTALL,
-            ):
-                href = m.group(1)
-                title_raw = re.sub(r"<[^>]+>", " ", m.group(2)).strip()
-                full_url = href if href.startswith("http") else "https://unjobs.org" + href
-                iid = "uj-" + hashlib.md5(full_url.encode()).hexdigest()[:16]
+            raw = http_get(url, user_agent=USER_AGENT_API)
+            data = json.loads(raw)
+            jobs = data.get("jobs", [])
+            for j in jobs:
+                iid = "gh-" + str(j.get("id"))
+                # Location can be an object {"name": "..."}
+                loc = j.get("location") or {}
+                loc_name = loc.get("name") if isinstance(loc, dict) else str(loc)
+                # Department names
+                depts = [d.get("name") for d in (j.get("departments") or []) if d.get("name")]
+                # Office names
+                offices = [o.get("name") for o in (j.get("offices") or []) if o.get("name")]
+                # Strip HTML from content
+                content_html = j.get("content") or ""
+                content_text = re.sub(r"<[^>]+>", " ", content_html)
+                content_text = html.unescape(content_text)[:2000]
                 results.append({
                     "id": iid,
-                    "title": html.unescape(title_raw)[:240],
-                    "url": full_url,
-                    "source": "UNJobs",
-                    "publisher": "",
-                    "country": "",
-                    "job_type": "",
-                    "category": "",
-                    "posted": None,
+                    "title": j.get("title") or "(no title)",
+                    "url": j.get("absolute_url") or "",
+                    "source": "Greenhouse",
+                    "publisher": display_name,
+                    "country": loc_name or ", ".join(offices) or "",
+                    "job_type": ", ".join(depts),
+                    "category": ", ".join(depts),
+                    "posted": j.get("updated_at") or j.get("first_published"),
                     "closing": None,
-                    "description": "",
+                    "description": content_text,
                 })
-                if len(results) >= 200:
-                    break
-            log.append(f"[UNJobs] kw='{kw}' collected: {len(results)}")
+            log.append(f"[Greenhouse] {display_name} ({token}) → {len(jobs)} jobs")
+        except HTTPFailure as exc:
+            log.append(f"[Greenhouse] {display_name} ({token}) SKIP: {exc}")
         except Exception as exc:
-            log.append(f"[UNJobs] kw='{kw}' FAILED: {exc}")
-    # dedupe
-    uniq: dict[str, dict] = {}
-    for r in results:
-        uniq.setdefault(r["id"], r)
-    out = list(uniq.values())
-    log.append(f"[UNJobs] unique total: {len(out)}")
-    return out
+            log.append(f"[Greenhouse] {display_name} ({token}) ERROR: {exc}")
+    log.append(f"[Greenhouse] total unique: {len(results)}")
+    return results
 
 
 # ---------- Scoring ----------
@@ -367,7 +382,7 @@ def main() -> int:
         return 2
 
     new_opps: list[dict] = []
-    for fetcher in [fetch_reliefweb, fetch_unjobs]:
+    for fetcher in [fetch_reliefweb, fetch_greenhouse]:
         try:
             new_opps.extend(fetcher(log))
         except Exception as exc:
