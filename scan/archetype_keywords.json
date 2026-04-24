@@ -1,0 +1,140 @@
+{
+  "A_BlendedCatalyticFinance": {
+    "label": "Blended & Catalytic Finance",
+    "priority_terms": [
+      "catalytic finance",
+      "blended finance",
+      "results-based financing",
+      "RBF",
+      "innovative financing",
+      "innovative finance",
+      "outcome-based financing",
+      "pay for performance",
+      "pay-for-performance",
+      "performance-based financing",
+      "volume guarantee",
+      "advance market commitment",
+      "impact bond",
+      "impact investing",
+      "concessional finance",
+      "development finance",
+      "climate finance",
+      "NGF",
+      "next generation financing"
+    ],
+    "supporting_terms": [
+      "capital stack",
+      "financial structuring",
+      "deal structuring",
+      "DFI",
+      "multilateral",
+      "World Bank",
+      "IFC",
+      "AfDB",
+      "EIB",
+      "Green Climate Fund",
+      "Global Fund",
+      "Unitaid",
+      "Gavi",
+      "CEPI",
+      "first-loss capital",
+      "guarantee facility"
+    ]
+  },
+  "B_DealStructuring": {
+    "label": "Deal Structuring & Investment Memoranda",
+    "priority_terms": [
+      "investment officer",
+      "investment advisor",
+      "investment memorandum",
+      "information memorandum",
+      "financial structuring",
+      "deal structuring",
+      "project finance",
+      "due diligence",
+      "feasibility study",
+      "bankability",
+      "financial modelling",
+      "financial model",
+      "term sheet",
+      "transaction advisor",
+      "investment analyst",
+      "deal advisory",
+      "PPP",
+      "public-private partnership"
+    ],
+    "supporting_terms": [
+      "investment banker",
+      "mergers and acquisitions",
+      "capital markets",
+      "private equity",
+      "structured finance",
+      "corporate finance",
+      "equity analyst",
+      "valuation"
+    ]
+  },
+  "C_ExecutiveTraining": {
+    "label": "Executive Training & Capacity Building",
+    "priority_terms": [
+      "capacity building",
+      "capacity development",
+      "training consultant",
+      "executive training",
+      "executive education",
+      "corporate finance trainer",
+      "budget planning",
+      "financial management training",
+      "curriculum design",
+      "train the trainer",
+      "train-the-trainer",
+      "learning and development",
+      "technical assistance"
+    ],
+    "supporting_terms": [
+      "facilitator",
+      "instructor",
+      "mentor",
+      "coach",
+      "faculty",
+      "workshop",
+      "seminar",
+      "course design",
+      "workshop design",
+      "workshop facilitator"
+    ]
+  },
+  "D_EmergingMarkets": {
+    "label": "Emerging Markets & Lusophone Advantage",
+    "priority_terms": [
+      "Angola",
+      "Mozambique",
+      "Cabo Verde",
+      "Cape Verde",
+      "São Tomé",
+      "Sao Tome",
+      "Guinea-Bissau",
+      "Guinea Bissau",
+      "Timor-Leste",
+      "Timor Leste",
+      "Lusophone",
+      "Portuguese-speaking",
+      "Portuguese speaking",
+      "CPLP",
+      "PALOP",
+      "Brazil",
+      "Brasil"
+    ],
+    "supporting_terms": [
+      "LMIC",
+      "low-income country",
+      "middle-income country",
+      "emerging market",
+      "developing country",
+      "Africa",
+      "Sub-Saharan Africa",
+      "Anglophone Africa",
+      "Francophone Africa"
+    ]
+  }
+}

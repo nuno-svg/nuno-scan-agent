@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<title>Consulting Pipeline — Nuno L. Mendonça</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: 16px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+       color: #1a1a1a; background: #ffffff; font-size: 14px; line-height: 1.5; }
+h1 { margin: 0 0 4px 0; color: #1F4E79; font-size: 22px; letter-spacing: -0.01em; }
+.sub { color: #666; font-size: 13px; margin-bottom: 16px; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 16px; }
+.stat { background: #F4F7FB; border: 1px solid #E0E6EC; border-radius: 8px; padding: 10px 12px; }
+.stat .num { font-size: 22px; font-weight: 600; color: #1F4E79; }
+.stat .lbl { font-size: 11px; color: #666; text-transform: uppercase; letter-spacing: 0.05em; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; align-items: center; }
+.controls select, .controls input { font: inherit; padding: 6px 10px; border: 1px solid #CBD3DC; border-radius: 6px; background: white; }
+.controls label { font-size: 12px; color: #555; margin-right: 4px; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { text-align: left; padding: 8px 10px; background: #1F4E79; color: white; font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; position: sticky; top: 0; }
+td { padding: 10px; border-bottom: 1px solid #EDF0F3; vertical-align: top; }
+tr:hover { background: #FAFBFC; }
+.title a { color: #1F4E79; text-decoration: none; font-weight: 600; }
+.title a:hover { text-decoration: underline; }
+.meta { color: #666; font-size: 11px; margin-top: 3px; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; }
+.b-A { background: #E8F0F9; color: #1F4E79; }
+.b-B { background: #FDEEE8; color: #A6420F; }
+.b-C { background: #E7F3EC; color: #14633A; }
+.b-D { background: #F7EEF9; color: #6B1C82; }
+.score-cell { text-align: center; font-weight: 600; font-size: 14px; color: #1F4E79; }
+.status { padding: 3px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; text-align: center; }
+.s-new { background: #E8F0F9; color: #1F4E79; }
+.s-reviewing { background: #FFF4E0; color: #8A5A00; }
+.s-applied { background: #E3F5E8; color: #0F5E2E; }
+.s-dismissed { background: #F0F0F0; color: #999; text-decoration: line-through; }
+button { font: inherit; padding: 4px 8px; border: 1px solid #D0D6DD; background: white; border-radius: 4px; cursor: pointer; font-size: 11px; }
+button:hover { background: #F4F7FB; }
+.btn-group button { margin: 0 2px 0 0; }
+.empty { text-align: center; padding: 40px; color: #999; }
+.footer { margin-top: 24px; padding-top: 12px; border-top: 1px solid #EDF0F3; color: #888; font-size: 11px; }
+</style>
+</head><body>
+
+<h1>Consulting Opportunities Pipeline</h1>
+<div class="sub">Nuno Laboreiro Mendonça · scored against 4 archetypes · last run <span id="last-run">__LAST_RUN__</span> · runs: <span id="runs-count">__RUNS_COUNT__</span></div>
+
+<div class="stats">
+  <div class="stat"><div class="num" id="total-count">0</div><div class="lbl">Total in pipeline</div></div>
+  <div class="stat"><div class="num" id="new-count">0</div><div class="lbl">New to review</div></div>
+  <div class="stat"><div class="num" id="applied-count">0</div><div class="lbl">Applied</div></div>
+  <div class="stat"><div class="num" id="top-score">—</div><div class="lbl">Top fit score</div></div>
+</div>
+
+<div class="controls">
+  <label>Archetype:</label>
+  <select id="f-archetype">
+    <option value="">All</option>
+    <option value="A_BlendedCatalyticFinance">A · Blended/Catalytic</option>
+    <option value="B_DealStructuring">B · Deal Structuring</option>
+    <option value="C_ExecutiveTraining">C · Executive Training</option>
+    <option value="D_EmergingMarkets">D · Emerging Markets</option>
+  </select>
+  <label>Status:</label>
+  <select id="f-status">
+    <option value="">All</option>
+    <option value="new">New</option>
+    <option value="reviewing">Reviewing</option>
+    <option value="applied">Applied</option>
+    <option value="dismissed">Dismissed</option>
+  </select>
+  <label>Min score:</label>
+  <select id="f-minscore">
+    <option value="0">0</option>
+    <option value="3" selected>&ge; 3</option>
+    <option value="5">&ge; 5</option>
+    <option value="7">&ge; 7</option>
+  </select>
+  <label>Source:</label>
+  <select id="f-source"><option value="">All</option></select>
+  <label>Search:</label>
+  <input id="f-search" placeholder="title / country / org"/>
+</div>
+
+<table id="tbl"><thead><tr>
+  <th style="width:32%">Title</th>
+  <th style="width:12%">Country</th>
+  <th style="width:9%">Archetype</th>
+  <th style="width:6%">Fit</th>
+  <th style="width:10%">Source</th>
+  <th style="width:10%">Closes</th>
+  <th style="width:9%">Status</th>
+  <th style="width:12%">Action</th>
+</tr></thead><tbody id="tbody"></tbody></table>
+
+<div class="footer">
+  Sources: ReliefWeb API, UN Jobs. Opportunities are ranked by weighted fit against the four archetypes (A: Blended/Catalytic × 1.0, B: Deal × 0.9, C: Training × 0.9, D: Emerging Markets × 0.7, divided by 3.5).
+  Status changes are stored locally in your browser (localStorage). To add more sources or tune scoring, edit <code>scan/run_daily.py</code> and <code>scan/archetype_keywords.json</code> then commit — GitHub Actions will use the new config on the next run.
+</div>
+
+<script>
+const PIPELINE = __PIPELINE_JSON__;
+const ARCHETYPE_LABEL = {
+  A_BlendedCatalyticFinance: "A",
+  B_DealStructuring: "B",
+  C_ExecutiveTraining: "C",
+  D_EmergingMarkets: "D",
+};
+
+function loadLocal() {
+  try { return JSON.parse(localStorage.getItem("nuno-pipeline-overrides") || "{}"); } catch(e) { return {}; }
+}
+function saveLocal(ovr) { localStorage.setItem("nuno-pipeline-overrides", JSON.stringify(ovr)); }
+let overrides = loadLocal();
+
+function merged() {
+  return (PIPELINE.opportunities || []).map(o => {
+    const ov = overrides[o.id] || {};
+    return {...o, status: ov.status || o.status || "new"};
+  });
+}
+
+function populateSources(opps) {
+  const sel = document.getElementById("f-source");
+  const srcs = [...new Set(opps.map(o => o.source).filter(Boolean))].sort();
+  srcs.forEach(s => { const o = document.createElement("option"); o.value = s; o.textContent = s; sel.appendChild(o); });
+}
+
+function escapeHTML(s) { return (s||"").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c])); }
+
+function render() {
+  const opps = merged();
+  const fA = document.getElementById("f-archetype").value;
+  const fSt = document.getElementById("f-status").value;
+  const fMin = parseFloat(document.getElementById("f-minscore").value);
+  const fSrc = document.getElementById("f-source").value;
+  const fSearch = document.getElementById("f-search").value.toLowerCase();
+
+  const rows = opps.filter(o => {
+    if (fA && o.best_archetype !== fA) return false;
+    if (fSt && o.status !== fSt) return false;
+    if (o.overall_score < fMin) return false;
+    if (fSrc && o.source !== fSrc) return false;
+    if (fSearch) {
+      const hay = (o.title + " " + (o.country||"") + " " + (o.publisher||"") + " " + (o.source||"")).toLowerCase();
+      if (!hay.includes(fSearch)) return false;
+    }
+    return true;
+  });
+
+  document.getElementById("total-count").textContent = opps.length;
+  document.getElementById("new-count").textContent = opps.filter(o => o.status === "new").length;
+  document.getElementById("applied-count").textContent = opps.filter(o => o.status === "applied").length;
+  const top = opps.length ? Math.max(...opps.map(o => o.overall_score || 0)) : 0;
+  document.getElementById("top-score").textContent = top ? top.toFixed(1) : "—";
+
+  const tbody = document.getElementById("tbody");
+  if (!rows.length) {
+    tbody.innerHTML = '<tr><td colspan="8" class="empty">No opportunities match current filters. Wait for next scan or adjust filters.</td></tr>';
+    return;
+  }
+  tbody.innerHTML = rows.map(o => {
+    const arch = ARCHETYPE_LABEL[o.best_archetype] || "?";
+    const archCls = `b-${arch}`;
+    const sCls = `s-${o.status || "new"}`;
+    const closes = o.closing ? o.closing.slice(0,10) : "—";
+    const country = escapeHTML(o.country || "—");
+    return `<tr>
+      <td class="title">
+        <a href="${escapeHTML(o.url)}" target="_blank" rel="noopener">${escapeHTML(o.title)}</a>
+        <div class="meta">${escapeHTML(o.publisher || "")}${o.category ? " · " + escapeHTML(o.category) : ""}</div>
+      </td>
+      <td>${country}</td>
+      <td><span class="badge ${archCls}">${arch}</span></td>
+      <td class="score-cell">${(o.overall_score || 0).toFixed(1)}</td>
+      <td>${escapeHTML(o.source || "")}</td>
+      <td>${closes}</td>
+      <td><span class="status ${sCls}">${o.status}</span></td>
+      <td class="btn-group">
+        <button data-id="${o.id}" data-st="reviewing">Review</button>
+        <button data-id="${o.id}" data-st="applied">Applied</button>
+        <button data-id="${o.id}" data-st="dismissed">Dismiss</button>
+      </td>
+    </tr>`;
+  }).join("");
+}
+
+document.addEventListener("click", e => {
+  const btn = e.target.closest("button[data-id]");
+  if (!btn) return;
+  overrides[btn.dataset.id] = { status: btn.dataset.st };
+  saveLocal(overrides);
+  render();
+});
+["f-archetype","f-status","f-minscore","f-source","f-search"].forEach(id => {
+  document.getElementById(id).addEventListener("input", render);
+  document.getElementById(id).addEventListener("change", render);
+});
+
+populateSources(PIPELINE.opportunities || []);
+render();
+</script>
+</body></html>
