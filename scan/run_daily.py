@@ -31,41 +31,61 @@ PIPELINE_PATH = DOCS_DIR / "pipeline.json"
 DASHBOARD_PATH = DOCS_DIR / "index.html"
 LOG_PATH = SCAN_DIR / "last_run.log"
 
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+USER_AGENT_BROWSER = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+USER_AGENT_API = "nuno-scan-agent/1.0 (+https://github.com/nuno-svg/nuno-scan-agent)"
 TIMEOUT_SEC = 20
 MAX_PER_SOURCE = 50
 
 
+class HTTPFailure(Exception):
+    """Raised with full context (status + body snippet) when an HTTP call fails."""
+
+
+def _read_err_body(exc: urllib.error.HTTPError) -> str:
+    try:
+        body = exc.read().decode("utf-8", errors="replace")
+    except Exception:
+        body = "<no body>"
+    return body[:400]
+
+
 # ---------- Fetch helpers ----------
-def http_get(url: str, accept: str = "application/json", extra_headers: dict | None = None) -> str:
+def http_get(url: str, accept: str = "application/json", extra_headers: dict | None = None,
+             user_agent: str = USER_AGENT_BROWSER) -> str:
     headers = {
-        "User-Agent": USER_AGENT,
+        "User-Agent": user_agent,
         "Accept": accept,
         "Accept-Language": "en-US,en;q=0.9",
     }
     if extra_headers:
         headers.update(extra_headers)
     req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as exc:
+        raise HTTPFailure(f"GET {url} → HTTP {exc.code}: body={_read_err_body(exc)!r}")
 
 
-def http_post_json(url: str, body: dict) -> str:
+def http_post_json(url: str, body: dict, user_agent: str = USER_AGENT_API) -> str:
     """POST with JSON body — canonical for ReliefWeb API v1."""
     data = json.dumps(body).encode("utf-8")
     req = urllib.request.Request(
         url,
         data=data,
         headers={
-            "User-Agent": USER_AGENT,
+            "User-Agent": user_agent,
             "Accept": "application/json",
             "Accept-Language": "en-US,en;q=0.9",
             "Content-Type": "application/json",
         },
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+    except urllib.error.HTTPError as exc:
+        raise HTTPFailure(f"POST {url} → HTTP {exc.code}: body={_read_err_body(exc)!r}")
 
 
 # ---------- Source: ReliefWeb API ----------
@@ -88,9 +108,41 @@ RELIEFWEB_QUERIES = [
 ]
 
 
+def _try_reliefweb_endpoints(q: str, body: dict, log: list[str]) -> str | None:
+    """Try multiple ReliefWeb URL forms; return raw JSON text or None."""
+    candidates = [
+        ("POST v1", "https://api.reliefweb.int/v1/jobs?appname=nuno-scan-agent", "post"),
+        ("GET v1", None, "get_v1"),
+        ("POST v2", "https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent", "post"),
+    ]
+    last_err = None
+    for label, url, mode in candidates:
+        try:
+            if mode == "post":
+                return http_post_json(url, body)
+            elif mode == "get_v1":
+                params = {
+                    "appname": "nuno-scan-agent",
+                    "profile": "list",
+                    "limit": body.get("limit", MAX_PER_SOURCE),
+                    "query[value]": q,
+                    "query[operator]": "AND",
+                    "sort[]": "date.created:desc",
+                }
+                fields = body.get("fields", {}).get("include", [])
+                for i, f in enumerate(fields):
+                    params[f"fields[include][{i}]"] = f
+                get_url = "https://api.reliefweb.int/v1/jobs?" + urllib.parse.urlencode(params, doseq=True)
+                return http_get(get_url, user_agent=USER_AGENT_API)
+        except HTTPFailure as exc:
+            last_err = f"[{label}] {exc}"
+    if last_err:
+        log.append(f"[ReliefWeb] all endpoints failed for q='{q}': {last_err}")
+    return None
+
+
 def fetch_reliefweb(log: list[str]) -> list[dict[str, Any]]:
-    """Hit ReliefWeb API using POST with JSON body (canonical v1 form)."""
-    base = "https://api.reliefweb.int/v1/jobs?appname=nuno-scan-agent"
+    """Hit ReliefWeb API using multiple endpoint forms."""
     seen_ids: set[str] = set()
     results: list[dict[str, Any]] = []
     fields_to_include = [
@@ -105,8 +157,10 @@ def fetch_reliefweb(log: list[str]) -> list[dict[str, Any]]:
             "fields": {"include": fields_to_include},
             "query": {"value": q, "operator": "AND"},
         }
+        raw = _try_reliefweb_endpoints(q, body, log)
+        if raw is None:
+            continue
         try:
-            raw = http_post_json(base, body)
             data = json.loads(raw)
             returned = data.get("data", [])
             for item in returned:
