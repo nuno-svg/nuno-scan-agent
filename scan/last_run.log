@@ -1,4 +1,4 @@
-=== Run start: 2026-04-24T13:34:12.596412+00:00 ===
+=== Run start: 2026-04-24T13:52:18.524955+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic finance' FAILED: HTTP Error 410: Gone
 [ReliefWeb] q='blended finance' FAILED: HTTP Error 410: Gone
@@ -24,4 +24,4 @@ Keywords loaded: 4 archetypes
 Raw new opportunities: 0
 Pipeline: 0 total (+0 new, 0 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-04-24T13:34:14.235604+00:00 ===
+=== Run end: 2026-04-24T13:52:20.236895+00:00 ===
