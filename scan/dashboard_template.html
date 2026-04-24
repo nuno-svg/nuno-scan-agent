@@ -97,8 +97,8 @@ button:hover { background: #F4F7FB; }
 </tr></thead><tbody id="tbody"></tbody></table>
 
 <div class="footer">
-  Sources: ReliefWeb API, UN Jobs. Opportunities are ranked by weighted fit against the four archetypes (A: Blended/Catalytic × 1.0, B: Deal × 0.9, C: Training × 0.9, D: Emerging Markets × 0.7, divided by 3.5).
-  Status changes are stored locally in your browser (localStorage). To add more sources or tune scoring, edit <code>scan/run_daily.py</code> and <code>scan/archetype_keywords.json</code> then commit — GitHub Actions will use the new config on the next run.
+  Sources: ReliefWeb API, Greenhouse (Instiglio, Acumen, One Acre Fund, Branch International). Fit score = strongest archetype match (0–10) + small breadth bonus for hits in other archetypes. Publisher-level boosts apply when the firm is 100% aligned with an archetype (e.g. Instiglio → +5 on A).
+  Status changes are stored locally in your browser (localStorage). To add sources or tune scoring, edit <code>scan/run_daily.py</code> and <code>scan/archetype_keywords.json</code> then commit — GitHub Actions uses the new config on the next run.
 </div>
 
 <script>

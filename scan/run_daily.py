@@ -71,6 +71,18 @@ GREENHOUSE_BOARDS = [
     # 5. Add ("XXXX", "Company Name") to this list and commit.
 ]
 
+# ---------- Publisher boosts ----------
+# Some firms are 100% aligned with an archetype even when individual job titles don't
+# contain the archetype keywords. We boost scoring by publisher so e.g. every Instiglio
+# job gets +5 on archetype A automatically (since Instiglio's entire portfolio is RBF).
+# The boost is added on top of keyword-based scoring (capped at 10 per archetype).
+PUBLISHER_BOOSTS = {
+    "Instiglio": {"A_BlendedCatalyticFinance": 5},
+    "Acumen": {"A_BlendedCatalyticFinance": 3, "D_EmergingMarkets": 4},
+    "One Acre Fund": {"D_EmergingMarkets": 5},
+    "Branch International": {"D_EmergingMarkets": 3},
+}
+
 
 class HTTPFailure(Exception):
     """Raised with full context (status + body snippet) when an HTTP call fails."""
@@ -305,14 +317,19 @@ def score_opportunity(opp: dict, keywords: dict) -> dict:
         opp.get("description", ""),
     ])
     scores = {code: score_text(text_for_score, kw) for code, kw in keywords.items()}
+
+    # Apply publisher-level boost: some firms are entirely aligned with an archetype
+    publisher = opp.get("publisher", "")
+    boosts = PUBLISHER_BOOSTS.get(publisher, {})
+    for code, delta in boosts.items():
+        if code in scores:
+            scores[code] = min(scores[code] + delta, 10)
+
     best_code = max(scores, key=lambda k: scores[k])
     best_score = scores[best_code]
-    overall = round((
-        scores.get("A_BlendedCatalyticFinance", 0) * 1.0
-        + scores.get("B_DealStructuring", 0) * 0.9
-        + scores.get("C_ExecutiveTraining", 0) * 0.9
-        + scores.get("D_EmergingMarkets", 0) * 0.7
-    ) / 3.5, 1)
+    # Overall = strongest archetype match + small breadth bonus for hits on others (capped at 10).
+    other_sum = sum(v for k, v in scores.items() if k != best_code)
+    overall = round(min(best_score + other_sum * 0.15, 10), 1)
     opp["scores"] = scores
     opp["best_archetype"] = best_code
     opp["best_score"] = best_score
