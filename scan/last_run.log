@@ -1,0 +1,27 @@
+=== Run start: 2026-04-24T13:34:12.596412+00:00 ===
+Keywords loaded: 4 archetypes
+[ReliefWeb] q='catalytic finance' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='blended finance' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='results-based financing' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='innovative financing' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='investment officer' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='investment advisor' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='financial structuring' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='project finance consultant' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='transaction advisor' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='capacity building consultant finance' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='training consultant finance' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='budget planning trainer' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='senior finance consultant Africa' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='development finance consultant' FAILED: HTTP Error 410: Gone
+[ReliefWeb] q='PPP consultant' FAILED: HTTP Error 410: Gone
+[ReliefWeb] unique total: 0
+[UNJobs] kw='consultant+finance' FAILED: HTTP Error 403: Forbidden
+[UNJobs] kw='capacity+building+consultant' FAILED: HTTP Error 403: Forbidden
+[UNJobs] kw='investment+advisor' FAILED: HTTP Error 403: Forbidden
+[UNJobs] kw='blended+finance' FAILED: HTTP Error 403: Forbidden
+[UNJobs] unique total: 0
+Raw new opportunities: 0
+Pipeline: 0 total (+0 new, 0 updated)
+Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
+=== Run end: 2026-04-24T13:34:14.235604+00:00 ===
