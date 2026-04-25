@@ -2,9 +2,11 @@ name: Daily Consulting Scan
 
 on:
   schedule:
-    # 07:00 UTC daily (= 08:00 Lisbon summer, 07:00 Lisbon winter)
-    # Note: GitHub may delay cron runs up to ~30 minutes during peak load
-    - cron: '0 7 * * *'
+    # Two daily runs at off-peak minutes to reduce risk of GitHub skipping the cron.
+    # GitHub may delay scheduled workflows during peak load (round hours are worst).
+    # 06:17 UTC (early morning Europe) and 13:17 UTC (afternoon backup).
+    - cron: '17 6 * * *'
+    - cron: '17 13 * * *'
   workflow_dispatch:
     # Allow manual trigger from the Actions tab
 
