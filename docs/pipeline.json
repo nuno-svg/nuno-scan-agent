@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-04-26T15:31:05.438829+00:00",
-  "last_run_local": "2026-04-26 15:31 UTC",
-  "runs_count": 11,
+  "last_run_iso": "2026-04-27T12:10:28.705032+00:00",
+  "last_run_local": "2026-04-27 12:10 UTC",
+  "runs_count": 12,
   "opportunities": [
     {
       "id": "gh-5858339004",
@@ -102,6 +102,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725417+00:00"
+    },
+    {
+      "id": "gh-7813163",
+      "title": "Global Data Analyst Intern",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7813163",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Nairobi, Kenya",
+      "job_type": "PRO - Sourcing",
+      "category": "PRO - Sourcing",
+      "posted": "2026-04-27T02:50:29-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Young Professionals Program</h3>\n<p>One Acre Fund’s Young Professionals Program offers high-performing African graduates meaningful internships and training opportunities at a high-performing, mission-driven organization. Our internships are paid and all interns can expect to receive substantive work assignments working on high-impact projects that support One Acre Fund's operations.</p>\n<p>When joining, interns will participate in an onboarding program and receive training on how to design and execute projects. Over the period of your internship, you will get the opportunity to work with like-minded individuals and receive learning opportunities to build strong foundations for your future career.&nbsp;</p>\n<h3>About the Role</h3>\n<p>The Global Data Analyst will use large, diverse, cross-country datasets to build foundational data products that enable better decision-making across the organization. This role will focus on creating high-quality dashboards and reports that are trusted, scalable, and widely used — in service of our mission: bigger harvests, healthier families, and richer soil for smallholder farmers.</p>\n<h3>Responsibilities</h3>\n<p>Build Foundational BI Data ",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-27T12:10:28.704985+00:00"
     },
     {
       "id": "gh-7807046",
@@ -1729,6 +1754,6 @@
       "first_seen": "2026-04-24T14:54:25.725775+00:00"
     }
   ],
-  "last_added": 0,
-  "last_updated": 69
+  "last_added": 1,
+  "last_updated": 68
 }
