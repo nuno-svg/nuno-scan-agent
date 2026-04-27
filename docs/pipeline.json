@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-04-27T12:10:28.705032+00:00",
-  "last_run_local": "2026-04-27 12:10 UTC",
-  "runs_count": 12,
+  "last_run_iso": "2026-04-27T17:51:36.508105+00:00",
+  "last_run_local": "2026-04-27 17:51 UTC",
+  "runs_count": 13,
   "opportunities": [
     {
       "id": "gh-5858339004",
@@ -1754,6 +1754,6 @@
       "first_seen": "2026-04-24T14:54:25.725775+00:00"
     }
   ],
-  "last_added": 1,
-  "last_updated": 68
+  "last_added": 0,
+  "last_updated": 69
 }
