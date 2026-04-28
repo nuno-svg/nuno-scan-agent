@@ -1,21 +1,21 @@
-=== Run start: 2026-04-27T17:51:32.895609+00:00 ===
+=== Run start: 2026-04-28T09:48:16.447047+00:00 ===
 Keywords loaded: 4 archetypes
-[ReliefWeb] all endpoints failed for q='catalytic finance': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":12,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='blended finance': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":16,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='results-based financing': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":18,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='innovative financing': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":13,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='investment officer': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":14,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='investment advisor': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":13,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='financial structuring': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":15,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='project finance consultant': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":16,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='transaction advisor': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":13,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='capacity building consultant finance': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":16,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='training consultant finance': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":16,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='budget planning trainer': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":15,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='senior finance consultant Africa': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":18,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='development finance consultant': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":15,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] all endpoints failed for q='PPP consultant': [POST v2] POST https://api.reliefweb.int/v2/jobs?appname=nuno-scan-agent → HTTP 403: body='{"status":403,"time":15,"error":{"type":"AccessDeniedHttpException","message":"You are not using an approved appname. Kindly request an appname from ReliefWeb here: https:\\/\\/apidoc.reliefweb.int\\/parameters#appname"}}'
-[ReliefWeb] unique total: 0
+[ReliefWeb] q='catalytic finance' → 0 returned
+[ReliefWeb] q='blended finance' → 1 returned
+[ReliefWeb] q='results-based financing' → 0 returned
+[ReliefWeb] q='innovative financing' → 0 returned
+[ReliefWeb] q='investment officer' → 0 returned
+[ReliefWeb] q='investment advisor' → 2 returned
+[ReliefWeb] q='financial structuring' → 0 returned
+[ReliefWeb] q='project finance consultant' → 0 returned
+[ReliefWeb] q='transaction advisor' → 0 returned
+[ReliefWeb] q='capacity building consultant finance' → 0 returned
+[ReliefWeb] q='training consultant finance' → 0 returned
+[ReliefWeb] q='budget planning trainer' → 0 returned
+[ReliefWeb] q='senior finance consultant Africa' → 0 returned
+[ReliefWeb] q='development finance consultant' → 0 returned
+[ReliefWeb] q='PPP consultant' → 0 returned
+[ReliefWeb] unique total: 3
 [Greenhouse] Instiglio (instiglio) → 4 jobs
 [Greenhouse] Acumen (acumen) → 7 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 48 jobs
@@ -27,7 +27,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 69
-Raw new opportunities: 69
-Pipeline: 70 total (+0 new, 69 updated)
+Raw new opportunities: 72
+Pipeline: 73 total (+3 new, 69 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-04-27T17:51:36.512900+00:00 ===
+=== Run end: 2026-04-28T09:48:28.538710+00:00 ===
