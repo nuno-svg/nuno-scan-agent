@@ -137,21 +137,32 @@ def http_post_json(url: str, body: dict, user_agent: str = USER_AGENT_API) -> st
 
 # ---------- Source: ReliefWeb API ----------
 RELIEFWEB_QUERIES = [
-    "catalytic finance",
+    # Single-word & broad terms — let the local scoring filter rather than the API
+    "catalytic",
     "blended finance",
-    "results-based financing",
+    "results-based",
     "innovative financing",
     "investment officer",
     "investment advisor",
-    "financial structuring",
-    "project finance consultant",
+    "structuring",
+    "project finance",
     "transaction advisor",
-    "capacity building consultant finance",
-    "training consultant finance",
-    "budget planning trainer",
-    "senior finance consultant Africa",
-    "development finance consultant",
-    "PPP consultant",
+    "capacity building",
+    "executive training",
+    "budget planning",
+    "finance consultant",
+    "development finance",
+    "PPP",
+    "concessional",
+    "DFI",
+    "Lusophone",
+    "Angola",
+    "Mozambique",
+    "advisor Africa",
+    "financial advisor",
+    "feasibility",
+    "investment memorandum",
+    "climate finance",
 ]
 
 
@@ -173,7 +184,6 @@ def _try_reliefweb_endpoints(q: str, body: dict, log: list[str]) -> str | None:
                     "profile": "list",
                     "limit": body.get("limit", MAX_PER_SOURCE),
                     "query[value]": q,
-                    "query[operator]": "AND",
                     "sort[]": "date.created:desc",
                 }
                 fields = body.get("fields", {}).get("include", [])
@@ -202,7 +212,9 @@ def fetch_reliefweb(log: list[str]) -> list[dict[str, Any]]:
             "profile": "list",
             "sort": ["date.created:desc"],
             "fields": {"include": fields_to_include},
-            "query": {"value": q, "operator": "AND"},
+            # No explicit AND — let ReliefWeb default fuzzy match.
+            # Local scoring (archetype_keywords.json) filters precisely.
+            "query": {"value": q},
         }
         raw = _try_reliefweb_endpoints(q, body, log)
         if raw is None:
