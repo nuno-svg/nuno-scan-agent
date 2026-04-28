@@ -40,7 +40,7 @@ MAX_PER_SOURCE = 50
 # To get a real appname, register at https://apidoc.reliefweb.int/parameters#appname
 # Once approved, replace the value below with the appname they give you.
 # While unapproved, ReliefWeb returns 403 for all queries — script logs a note and continues.
-RELIEFWEB_APPNAME = "nuno-scan-agent"  # TODO: replace with approved appname from ReliefWeb
+RELIEFWEB_APPNAME = "nuno-svg-consultscan-v7k2XGx1JRNZjPXFr0"  # approved by ReliefWeb
 
 # ---------- Greenhouse job boards ----------
 # Public API, no auth. URL format: https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true
