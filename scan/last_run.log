@@ -1,17 +1,17 @@
-=== Run start: 2026-04-28T18:10:42.186230+00:00 ===
+=== Run start: 2026-04-29T12:05:41.885745+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
 [ReliefWeb] q='blended finance' → 50 returned
-[ReliefWeb] q='results-based' → 24 returned
+[ReliefWeb] q='results-based' → 23 returned
 [ReliefWeb] q='innovative financing' → 0 returned
 [ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 37 returned
+[ReliefWeb] q='investment advisor' → 38 returned
 [ReliefWeb] q='structuring' → 0 returned
 [ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 34 returned
+[ReliefWeb] q='transaction advisor' → 35 returned
 [ReliefWeb] q='capacity building' → 4 returned
 [ReliefWeb] q='executive training' → 10 returned
-[ReliefWeb] q='budget planning' → 5 returned
+[ReliefWeb] q='budget planning' → 4 returned
 [ReliefWeb] q='finance consultant' → 50 returned
 [ReliefWeb] q='development finance' → 50 returned
 [ReliefWeb] q='PPP' → 0 returned
@@ -20,12 +20,12 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='Lusophone' → 0 returned
 [ReliefWeb] q='Angola' → 0 returned
 [ReliefWeb] q='Mozambique' → 7 returned
-[ReliefWeb] q='advisor Africa' → 41 returned
+[ReliefWeb] q='advisor Africa' → 43 returned
 [ReliefWeb] q='financial advisor' → 45 returned
 [ReliefWeb] q='feasibility' → 0 returned
 [ReliefWeb] q='investment memorandum' → 5 returned
 [ReliefWeb] q='climate finance' → 50 returned
-[ReliefWeb] unique total: 246
+[ReliefWeb] unique total: 245
 [Greenhouse] Instiglio (instiglio) → 4 jobs
 [Greenhouse] Acumen (acumen) → 7 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 47 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 69
-Raw new opportunities: 315
-Pipeline: 327 total (+14 new, 301 updated)
+Raw new opportunities: 314
+Pipeline: 342 total (+15 new, 299 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-04-28T18:10:47.394609+00:00 ===
+=== Run end: 2026-04-29T12:06:06.604238+00:00 ===
