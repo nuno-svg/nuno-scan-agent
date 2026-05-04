@@ -1,8 +1,33 @@
 {
-  "last_run_iso": "2026-05-03T16:02:44.074979+00:00",
-  "last_run_local": "2026-05-03 16:02 UTC",
-  "runs_count": 27,
+  "last_run_iso": "2026-05-04T08:43:16.244687+00:00",
+  "last_run_local": "2026-05-04 08:43 UTC",
+  "runs_count": 28,
   "opportunities": [
+    {
+      "id": "gh-5858339004",
+      "title": "Senior Manager/Manager",
+      "url": "https://job-boards.greenhouse.io/instiglio/jobs/5858339004",
+      "source": "Greenhouse",
+      "publisher": "Instiglio",
+      "country": "Kenya/Mauritius",
+      "job_type": "Projects",
+      "category": "Projects",
+      "posted": "2026-05-04T03:34:48-04:00",
+      "closing": null,
+      "description": "<h3><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><strong>Senior Manager/Manager – Scaling and Innovation Team (Global)</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">You will join Instiglio’s&nbsp;<strong>Scaling &amp; Innovation Team</strong> — the engine driving Instiglio’s ambition to go from impact to impact at scale. Our mission is threefold: develop pathways to scale Instiglio’s proven approaches, incubate Instiglio’s presence in new regions, and design and spearhead new impact solutions that push the frontier of what’s possible in development.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">We pursue this mission through two primary strategies:</span></p>\n<ol style=\"text-align: justify;\">\n<li style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><strong> Scaling partnerships with large development institutions: </strong>The core of this team’s work. We partner with major multilateral development banks (MDBs), bilateral agencies, and large philanthropies to strengthen how they drive outcomes at scale — combining impact strategy with deep change management. This isn’t traditional consulting: we embed ourselves in institutional transformation, helping partners overhaul their impact strategies, build internal capabilities, and implement reforms that cascade through the systems they fund. A flagship example is our four-year engagement with the Global Fund, where we supported the scale-up of results-based financing (RBF) to 15 countries, built core institutional capabilities, and helped embed a results-oriented performance culture. Similar partnerships are underway with institutions like the Millennium Challenge Corporation, the Swiss Development Cooperation, the IDB, and leading philanthrop",
+      "scores": {
+        "A_BlendedCatalyticFinance": 10,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 10,
+      "overall_score": 10.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:22:06.201531+00:00"
+    },
     {
       "id": "rw-4209992",
       "title": "African Investment Advisor",
@@ -27,31 +52,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-30T11:57:21.192330+00:00"
-    },
-    {
-      "id": "gh-5858339004",
-      "title": "Senior Manager/Manager",
-      "url": "https://job-boards.greenhouse.io/instiglio/jobs/5858339004",
-      "source": "Greenhouse",
-      "publisher": "Instiglio",
-      "country": "Kenya/Mauritius",
-      "job_type": "Projects",
-      "category": "Projects",
-      "posted": "2026-04-28T08:49:12-04:00",
-      "closing": null,
-      "description": "<h3><span style=\"font-family: 'trebuchet ms', geneva, sans-serif;\"><strong>Senior Manager/Manager – Scaling and Innovation Team (Global)</strong></span></h3>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">You will join Instiglio’s&nbsp;<strong>Scaling &amp; Innovation Team</strong> — the engine driving Instiglio’s ambition to go from impact to impact at scale. Our mission is threefold: develop pathways to scale Instiglio’s proven approaches, incubate Instiglio’s presence in new regions, and design and spearhead new impact solutions that push the frontier of what’s possible in development.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\">We pursue this mission through two primary strategies:</span></p>\n<ol style=\"text-align: justify;\">\n<li style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><span style=\"font-size: 12pt; font-family: 'trebuchet ms', geneva, sans-serif;\"><strong> Scaling partnerships with large development institutions: </strong>The core of this team’s work. We partner with major multilateral development banks (MDBs), bilateral agencies, and large philanthropies to strengthen how they drive outcomes at scale — combining impact strategy with deep change management. This isn’t traditional consulting: we embed ourselves in institutional transformation, helping partners overhaul their impact strategies, build internal capabilities, and implement reforms that cascade through the systems they fund. A flagship example is our four-year engagement with the Global Fund, where we supported the scale-up of results-based financing (RBF) to 15 countries, built core institutional capabilities, and helped embed a results-oriented performance culture. Similar partnerships are underway with institutions like the Millennium Challenge Corporation, the Swiss Development Cooperation, the IDB, and leading philanthrop",
-      "scores": {
-        "A_BlendedCatalyticFinance": 10,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 0
-      },
-      "best_archetype": "A_BlendedCatalyticFinance",
-      "best_score": 10,
-      "overall_score": 10.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:22:06.201531+00:00"
     },
     {
       "id": "rw-4209581",
@@ -7929,6 +7929,31 @@
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
     },
     {
+      "id": "rw-4210359",
+      "title": "Sudan : Area Security Officer – Roving",
+      "url": "https://reliefweb.int/node/4210359",
+      "source": "ReliefWeb",
+      "publisher": "Agency for Technical Cooperation and Development",
+      "country": "Sudan",
+      "job_type": "Job",
+      "category": "",
+      "posted": "2026-05-04T08:39:51+00:00",
+      "closing": "2026-06-04T00:00:00+00:00",
+      "description": "<p><strong>Fixed term | 6 months | ASAP</strong></p>\n<h2>Acted</h2>\n<p><em><strong>Who we are</strong></em></p>\n<p>Acted works with 19 million people across 43 countries at the intersection of humanitarian, development, climate and environmental programming. We draw on deep contextual knowledge and embrace emerging technologies to save lives, alleviate suffering, and protect and restore our planet. Working in collaboration with a growing ecosystem of local, national and international partners, we pursue one shared objective: a 3Zero World – Zero Exclusion, Zero Carbon and Zero Poverty.</p>\n<p><em><strong>Who we are looking for</strong></em></p>\n<p>You bring the core competencies required for classical humanitarian and development work, alongside an active climate and environmental conscience, and you can navigate the challenges that arise when human and environmental suffering intersect. You have an entrepreneurial mindset: you see opportunities, connect dots, adapt your approach to different environments, and take measured risks in pursuit of results. You balance principles with pragmatism, and ambition with humility.</p>\n<h2>Acted Sudan</h2>\n<p>In response to the emergency situation in Sudan, ACTED recruits.</p>\n<h2>You will be in charge of</h2>\n<p>The Area Security Officer is supporting directly the Country Security Manager or the Country Logistic and Security Manager in the reporting on context analysis, writing of security documents, and ensuring compliance with security standards. He/she will be in charge of drafting all the Acted security reporting documents requested in the frame of the activity of the security department and is in charge of the administration of the security department.</p>\n<p><em><strong>Main duties:</strong></em></p>\n<ul>\n<li><strong>Context analysis and risk assesment</strong></li>\n<li><strong>Security Assessments, auditing and Operational support</strong></li>\n<li><strong>Reporting</strong></li>\n</ul>\n<h2>Expected skills and qualifications</h2>\n<ul>\n<li>Bachelor or Master Level education in Security studies or another relevant field such as International Relations;</li>\n<li>Excellent analysis and synthesis skills;</li>\n<li>2-5 years previous work experience in a relevant position;</li>\n<li>Proven capabilities in leadership and management required;</li>\n<li>Excellent skills in written and spoken English;</li>\n<li>Strong negotiation and interpersonal skills, and flexibility in cultural and organizational terms;</li>\n<li>Ability to work well and punctually under pressure;</li>\n<li>Previous experience in a difficult context.</li>\n</ul>\n<h2>Terms of reference</h2>\n<p>For more information about the position, <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.acted.org/wp-content/uploads/2026/05/aso-sdn-2026.pdf\">click here </a>.</p>\n<h2>Conditions</h2>\n<ul>\n<li>Salary between 2000 and 2200€ monthly (before income tax), depending on the level of education, security level, etc as well as a monthly living allowance of $300</li>\n<li>Accommodation and food provided in Acted guesthouse</li>\n<li>Pension, health insurance, life insurance and repatriation assistance (&amp; unemployment insurance for EU citizens)</li>\n<li>Flight tickets every 6 months &amp; visa fees covered</li>\n<li>Contribution to the luggage transportation: up to 100 kgs, depending on the length of the contract</li>\n<li>R&amp;R every 3 months, flight tickets covered up to $500 and allowance of $200</li>\n<li>Annual leave of 25 to 43 days per year</li>\n<li>One week pre-departure training in Acted HQ, including a 4-days in situ security training</li>\n<li>Tax advice (free 30-minute call with a tax consultant)</li>\n<li>Psychological assistance</li>\n<li>This position is classified as an <strong>international staff position</strong> under Acted’s recruitment framework. Eligibility for an international contract is therefore required.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-04T08:43:16.244506+00:00"
+    },
+    {
       "id": "rw-4210227",
       "title": "Finance Officer",
       "url": "https://reliefweb.int/node/4210227",
@@ -9655,5 +9680,5 @@
     }
   ],
   "last_added": 1,
-  "last_updated": 292
+  "last_updated": 289
 }
