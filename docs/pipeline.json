@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-05-15T15:31:58.169728+00:00",
-  "last_run_local": "2026-05-15 15:31 UTC",
-  "runs_count": 50,
+  "last_run_iso": "2026-05-16T08:20:45.427432+00:00",
+  "last_run_local": "2026-05-16 08:20 UTC",
+  "runs_count": 51,
   "opportunities": [
     {
       "id": "rw-4212142",
@@ -7829,6 +7829,31 @@
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
     },
     {
+      "id": "rw-4212288",
+      "title": "Occupied Palestinian Territories : Country Finance Manager – Jerusalem",
+      "url": "https://reliefweb.int/node/4212288",
+      "source": "ReliefWeb",
+      "publisher": "Agency for Technical Cooperation and Development",
+      "country": "occupied Palestinian territory",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-05-15T15:48:05+00:00",
+      "closing": "2026-06-15T00:00:00+00:00",
+      "description": "<p><strong>Fixed term | 6 months | ASAP</strong></p>\n<h2>Acted</h2>\n<p><em><strong>Who we are</strong></em></p>\n<p>Acted works with 19 million people across 43 countries at the intersection of humanitarian, development, climate and environmental programming. We draw on deep contextual knowledge and embrace emerging technologies to save lives, alleviate suffering, and protect and restore our planet. Working in collaboration with a growing ecosystem of local, national and international partners, we pursue one shared objective: a 3Zero World – Zero Exclusion, Zero Carbon and Zero Poverty.</p>\n<p><em><strong>Who we are looking for</strong></em></p>\n<p>You bring the core competencies required for classical humanitarian and development work, alongside an active climate and environmental conscience, and you can navigate the challenges that arise when human and environmental suffering intersect. You have an entrepreneurial mindset: you see opportunities, connect dots, adapt your approach to different environments, and take measured risks in pursuit of results. You balance principles with pragmatism, and ambition with humility.</p>\n<h2>Acted Occupied Palestinian Territory - OPT</h2>\n<p>Acted has been present in the West Bank since 2007 and in the Gaza Strip since 2008. With its office in Jerusalem, Acted has been responding to humanitarian needs and development challenges in the Occupied Palestinian Territory through an integrated approach. In view of the worsening of the humanitarian situation in recent years, and even more so since 7 October 2023, Acted is mobilized to respond to the basic needs of the populations affected by the conflict.</p>\n<h2>You will be in charge of</h2>\n<p>The Country Finance Manager (CFM) is a key member of the Management Team at country level. He/she will be responsible for Acted financial management in-country under the authority of the Country Director and Finance &amp; Administrative Director in HQ. The CFM ensures that national legislation is adhered to, and that Acted’s financial standards are applied in terms of accounting, financial control systems, internal / external reporting processes, in order to ensure an efficient use of resources. He/She leads, provides technical support and capacity building to the country finance and administrative staff. The CFM shall alert the Country Director and Finance Director in case some major problems arise with a potential financial impact on the mission.</p>\n<p><em><strong>Main duties</strong></em></p>\n<p>1. Accounting and treasury Management</p>\n<ul>\n<li><em>Accounting management – supervise the accounting cycle for the mission</em></li>\n<li><em>Treasury management – ensure a controlled and smooth cash management</em></li>\n</ul>\n<p>2. Commitment of expenditures, budget control, &amp; Financial Management</p>\n<ul>\n<li><em>Commitment of expenditure – guaranty budget availability and compliance to Acted and donor’s procedures before releasing payments</em></li>\n<li><em>Project budget follow-up, mission’s cost control, internal &amp; external audits – anticipate and mitigate financial risks ensuring operations are run in a compliant and cost-efficient manner</em></li>\n</ul>\n<p>3. Project financial cycle management</p>\n<ul>\n<li><em>Develop project budgets and reports – ensure the financial feasibility of projects, respecting Acted and donors’ rules and deadlines</em></li>\n</ul>\n<p>4. Team leadership &amp; other tasks</p>\n<h2>Expected skills and qualifications</h2>\n<ul>\n<li>Msc in Finance, Audit, Business Management, Economics or equivalent;</li>\n<li>3+ years of solid experience in financial &amp; budget management;</li>\n<li>Excellent financial and analytical skills;</li>\n<li>Excellent communication and drafting skills for effective reporting on programme financial performance;</li>\n<li>Ability to manage a financial team and demonstrate leadership;</li>\n<li>Ability to monitor and evaluate financial skills of teams through capacity-building efforts;</li>\n<li>Ability to undertake serious responsibilities and to manage stress efficiently;</li>\n<li>Ability to operate in a cross-cultural environment requiring flexibility;</li>\n<li>Prior knowledge of the region an asset.</li>\n</ul>\n<h2>Conditions</h2>\n<ul>\n<li>Salary between 3600 and 3800€ monthly (before income tax), depending on the level of education, security level, etc as well as a monthly living allowance of $300</li>\n<li>Accommodation and food provided in Acted guesthouse</li>\n<li>Pension, health insurance, life insurance and repatriation assistance (&amp; unemployment insurance for EU citizens)</li>\n<li>Flight tickets every 6 months &amp; visa fees covered</li>\n<li>Contribution to the luggage transportation: up to 100 kgs, depending on the length of the contract</li>\n<li>Annual leave of 25 to 43 days per year</li>\n<li>One week pre-departure training in Acted HQ, including a 4-days in situ security training</li>\n<li>Tax advice (free 30-minute call with a tax consultant)</li>\n<li>Psychological assistance</li>\n<li>This position is classified as an <strong>international staff position</strong> under Acted’s recruitment framework. Eligibility for an international contract is therefore required.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-16T08:20:45.427176+00:00"
+    },
+    {
       "id": "rw-4212282",
       "title": "Sudan – Area Finance Officer – Roving",
       "url": "https://reliefweb.int/node/4212282",
@@ -10836,7 +10861,7 @@
       "publisher": "Agency for Technical Cooperation and Development",
       "country": "Sudan",
       "job_type": "Job",
-      "category": "",
+      "category": "Monitoring and Evaluation",
       "posted": "2026-05-15T15:30:24+00:00",
       "closing": "2026-06-15T00:00:00+00:00",
       "description": "<p><strong>Fixed term | 6 months | ASAP</strong></p>\n<h2>Acted</h2>\n<p><em><strong>Who we are</strong></em></p>\n<p>Acted works with 19 million people across 43 countries at the intersection of humanitarian, development, climate and environmental programming. We draw on deep contextual knowledge and embrace emerging technologies to save lives, alleviate suffering, and protect and restore our planet. Working in collaboration with a growing ecosystem of local, national and international partners, we pursue one shared objective: a 3Zero World – Zero Exclusion, Zero Carbon and Zero Poverty.</p>\n<p><em><strong>Who we are looking for</strong></em></p>\n<p>You bring the core competencies required for classical humanitarian and development work, alongside an active climate and environmental conscience, and you can navigate the challenges that arise when human and environmental suffering intersect. You have an entrepreneurial mindset: you see opportunities, connect dots, adapt your approach to different environments, and take measured risks in pursuit of results. You balance principles with pragmatism, and ambition with humility.</p>\n<h2>Acted Sudan</h2>\n<p>In response to the emergency situation in Sudan, Acted recruits.</p>\n<h2>You will be in charge of</h2>\n<p>The Area Monitoring, Evaluation, Accountability and Learning Officer is responsible for the development and the implementation of appropriate and viable monitoring, evaluation, accountability and learning systems that are in line with the Acted’s global MEAL procedures, and contributing to ensuring that Acted’s projects and programs perform as planned.</p>\n<p><em><strong>Main duties:</strong></em></p>\n<p>1. Implementation and Management of MEAL Systems</p>\n<p>2. Technical Systems Development</p>\n<p>3. Training</p>\n<p>4. Contribute to the Beneficiary Complaint Response Mechanism (CRM)</p>\n<p>5. Other</p>\n<h2>Expected skills and qualifications</h2>\n<ul>\n<li>University Degree in Political Sciences, Public Administration, International Affairs, Economics or a related field (anthropology, sociology, statistics);</li>\n<li>At least 1-2 years of professional experience in humanitarian and/or development organisations;</li>\n<li>Experience with participatory appraisals and project cycle management encouraged;</li>\n<li>Good organizational and communication skills with international and national staff and rural communities;</li>\n<li>Flexibility and adaptability are essential, as well as the ability to plan, take initiative and work independently and under pressure;</li>\n<li>Excellent communication and drafting skills in English;</li>\n<li>Knowledge of the region an asset;</li>\n<li>Familiarity with basic office software programs.</li>\n</ul>\n<h2>Conditions</h2>\n<ul>\n<li>Salary between 2000 and 2200€ monthly (before income tax), depending on the level of education, security level, etc as well as a monthly living allowance of $300</li>\n<li>Accommodation and food provided in Acted guesthouse</li>\n<li>Pension, health insurance, life insurance and repatriation assistance (&amp; unemployment insurance for EU citizens)</li>\n<li>Flight tickets every 6 months &amp; visa fees covered</li>\n<li>Contribution to the luggage transportation: up to 100 kgs, depending on the length of the contract</li>\n<li>R&amp;R every 3 months, flight tickets covered up to $500 and allowance of $200</li>\n<li>Annual leave of 25 to 43 days per year</li>\n<li>One week pre-departure training in Acted HQ, including a 4-days in situ security training</li>\n<li>Tax advice (free 30-minute call with a tax consultant)</li>\n<li>Psychological assistance</li>\n<li>This position is classified as an <strong>international staff position</strong> under Acted’s recruitment framework. Eligibility for an international contract is therefore required.</li>\n</ul>\n",
@@ -15454,6 +15479,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 14,
-  "last_updated": 313
+  "last_added": 1,
+  "last_updated": 314
 }
