@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-05-16T14:37:19.222157+00:00",
-  "last_run_local": "2026-05-16 14:37 UTC",
-  "runs_count": 52,
+  "last_run_iso": "2026-05-17T08:34:21.808941+00:00",
+  "last_run_local": "2026-05-17 08:34 UTC",
+  "runs_count": 53,
   "opportunities": [
     {
       "id": "rw-4212142",
@@ -5927,6 +5927,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-06T12:07:39.085418+00:00"
+    },
+    {
+      "id": "rw-4212315",
+      "title": "Project Manager",
+      "url": "https://reliefweb.int/node/4212315",
+      "source": "ReliefWeb",
+      "publisher": "Farsight Africa Group",
+      "country": "Kenya",
+      "job_type": "Consultancy",
+      "category": "Program/Project Management",
+      "posted": "2026-05-16T15:34:18+00:00",
+      "closing": "2026-05-22T00:00:00+00:00",
+      "description": "<p><strong>About Farsight Africa Technologies:</strong></p>\n<p>Farsight Africa Technologies is a subsidiary of Farsight Africa Group that aims to digitally enable and empower last frontier markets by promoting technology adoption in politically vulnerable states and focuses on developing robust software and hardware solutions that address the gaping needs for automation of government services. These include financial management information systems, tax revenue collection and administration, and public utility service provision platforms.</p>\n<p><strong>Position Overview</strong></p>\n<p>The successful candidate must be from Somaliland.</p>\n<p>Farsight is looking for a Project Manager for an ICT Digital Transformation Project. The Project Manager will lead the planning, coordination, implementation, and successful delivery of complex ICT and digital transformation projects for Farsight Africa Group. The role involves overseeing project execution, stakeholder engagement, risk management, quality assurance, resource coordination, and compliance with contractual, operational, and donor requirements.</p>\n<p>The successful candidate will be responsible for ensuring projects are delivered on time, within scope, within budget, and in accordance with agreed quality standards. The position requires strong leadership, project governance, communication, and organizational skills with demonstrated experience managing large-scale ICT, tax administration, public sector, or enterprise systems implementation projects.</p>\n<p><strong>Scope of Work:</strong></p>\n<p><strong>Project Planning and Management:</strong></p>\n<ul>\n<li>Lead end-to-end project planning, implementation, and delivery activities.</li>\n<li>Develop and manage project work plans, schedules, milestones, and resource allocations.</li>\n<li>Coordinate multidisciplinary technical teams, consultants, vendors, and stakeholders.</li>\n<li>Monitor project timelines, deliverables, risks, and dependencies.</li>\n<li>Ensure effective project governance and compliance with project management methodologies.</li>\n<li>Manage project budgets, procurement coordination, and resource utilization.</li>\n<li>Conduct project meetings, progress reviews, and status reporting.</li>\n<li>Ensure timely escalation and resolution of project issues and risks.</li>\n<li>Oversee quality assurance and ensure deliverables meet client requirements and standards.</li>\n<li>Coordinate system implementation, deployment, testing, training, and commissioning activities.</li>\n</ul>\n<p><strong>Stakeholder Engagement and Reporting:</strong></p>\n<ul>\n<li>Serve as the primary liaison between clients, technical teams, and management.</li>\n<li>Coordinate stakeholder consultations, workshops, and project review sessions.</li>\n<li>Prepare project progress reports, presentations, and executive briefings.</li>\n<li>Monitor contractual obligations, SLAs, and vendor performance.</li>\n<li>Ensure effective communication and collaboration among all project stakeholders.</li>\n<li>Support organizational strategic initiatives and business development opportunities.</li>\n</ul>\n<p><strong>Risk Management and Compliance:</strong></p>\n<ul>\n<li>Identify project risks and develop mitigation strategies.</li>\n<li>Ensure compliance with regulatory, donor, contractual, and organizational requirements.</li>\n<li>Maintain project documentation, registers, and audit trails.</li>\n<li>Support project audits, assessments, and evaluation activities.</li>\n<li>Ensure adherence to cybersecurity, data protection, and operational standards.</li>\n<li>Perform any other duties assigned from time to time.</li>\n</ul>\n<p><strong>Qualifications and Skills:</strong></p>\n<ul>\n<li>Bachelor’s degree in Information Technology, Computer Science, Engineering, Business, Project Management, or a related field.</li>\n<li>PMP, PRINCE2, ISO21500, or equivalent project management certification is required.</li>\n<li>Minimum of 7+ years proven experience managing enterprise ICT or digital transformation projects.</li>\n<li>Minimum of 5 years of experience managing tax administration, public sector, or enterprise systems projects.</li>\n<li>Experience managing multi-vendor and multi-stakeholder projects.</li>\n<li>Strong knowledge of project governance, Agile, and waterfall methodologies.</li>\n<li>Excellent leadership, organizational, and stakeholder management skills.</li>\n<li>Strong communication, reporting, and presentation abilities.</li>\n<li>Ability to manage budgets, schedules, and competing priorities.</li>\n<li>High level of professionalism, integrity, and accountability.</li>\n<li>Knowledge of Somali language or ability to coordinate translation services is mandatory.</li>\n</ul>\n<p><strong>Equal Opportunity Statement</strong></p>\n<p>Farsight Africa Technologies is an equal opportunity employer. We value diversity and do not discriminate on the basis of gender, age, disability, religion, ethnicity, or any other protected characteristic. All qualified individuals are encouraged to apply.</p>\n<p><strong>Why Join Farsight</strong></p>\n<ul>\n<li>Work with a fast-growing, innovative African consulting firm.</li>\n<li>Engage in meaningful projects across governance, development, and strategic communications.</li>\n<li>Dynamic, multicultural team operating across East Africa.<br />\nOpportunities for professional growth, learning, and regional exposure.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 3,
+      "overall_score": 3.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-17T08:34:21.808750+00:00"
     },
     {
       "id": "rw-4212127",
@@ -15479,6 +15504,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 0,
-  "last_updated": 314
+  "last_added": 1,
+  "last_updated": 313
 }
