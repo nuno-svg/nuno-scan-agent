@@ -1,15 +1,15 @@
-=== Run start: 2026-05-19T16:32:27.441188+00:00 ===
+=== Run start: 2026-05-20T09:55:01.946213+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
 [ReliefWeb] q='blended finance' → 35 returned
 [ReliefWeb] q='results-based' → 26 returned
 [ReliefWeb] q='innovative financing' → 4 returned
 [ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 45 returned
+[ReliefWeb] q='investment advisor' → 46 returned
 [ReliefWeb] q='structuring' → 0 returned
 [ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 43 returned
-[ReliefWeb] q='capacity building' → 9 returned
+[ReliefWeb] q='transaction advisor' → 44 returned
+[ReliefWeb] q='capacity building' → 7 returned
 [ReliefWeb] q='executive training' → 13 returned
 [ReliefWeb] q='budget planning' → 4 returned
 [ReliefWeb] q='finance consultant' → 50 returned
@@ -24,8 +24,8 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='financial advisor' → 50 returned
 [ReliefWeb] q='feasibility' → 0 returned
 [ReliefWeb] q='investment memorandum' → 2 returned
-[ReliefWeb] q='climate finance' → 45 returned
-[ReliefWeb] unique total: 282
+[ReliefWeb] q='climate finance' → 42 returned
+[ReliefWeb] unique total: 280
 [Greenhouse] Instiglio (instiglio) → 7 jobs
 [Greenhouse] Acumen (acumen) → 7 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 42 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 66
-Raw new opportunities: 348
-Pipeline: 702 total (+4 new, 344 updated)
+Raw new opportunities: 346
+Pipeline: 715 total (+13 new, 333 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-05-19T16:32:42.079682+00:00 ===
+=== Run end: 2026-05-20T09:55:08.094466+00:00 ===
