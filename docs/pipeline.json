@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-05-23T08:32:13.160674+00:00",
-  "last_run_local": "2026-05-23 08:32 UTC",
-  "runs_count": 65,
+  "last_run_iso": "2026-05-23T14:44:15.033298+00:00",
+  "last_run_local": "2026-05-23 14:44 UTC",
+  "runs_count": 66,
   "opportunities": [
     {
       "id": "rw-4213324",
@@ -19679,6 +19679,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 1,
-  "last_updated": 346
+  "last_added": 0,
+  "last_updated": 347
 }
