@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-05-27T10:32:05.359199+00:00",
-  "last_run_local": "2026-05-27 10:32 UTC",
-  "runs_count": 73,
+  "last_run_iso": "2026-05-27T16:47:22.155583+00:00",
+  "last_run_local": "2026-05-27 16:47 UTC",
+  "runs_count": 74,
   "opportunities": [
     {
       "id": "rw-4213324",
@@ -8279,6 +8279,56 @@
       "first_seen": "2026-04-28T10:07:22.045074+00:00"
     },
     {
+      "id": "rw-4213827",
+      "title": "Operations Officer - Syria (national position)",
+      "url": "https://reliefweb.int/node/4213827",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Logistics/Procurement",
+      "posted": "2026-05-27T14:26:31+00:00",
+      "closing": "2026-06-09T00:00:00+00:00",
+      "description": "<p><strong>Organisation Background</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>INSO Syria</strong></p>\n<p>The Syria program supports more than 290 NGOs to deliver vitally needed aid and assistance to an estimated 13.1 million people in need across the country. First launched as an emergency response operation in 2014, INSO Syria has grown to become a program covering all Syrian governorates, with a Country Office in Damascus. The Syria conflict is unique and complex: you will find that every day is different and there is always more to learn.</p>\n<p><strong>Job Summary</strong></p>\n<p>Acting as the primary assistant to the Operations Manager (OM), you will support in carrying out INSO operations in Raqqa and Aleppo, including but not limited to finance, logistics, procurement, admin tasks, and functions. The position will be part of the Operations team and will require frequent travel to Aleppo</p>\n<p><strong>Main Responsibilities</strong></p>\n<p><em>Logistics &amp; Procurement</em></p>\n<ul>\n<li>Assist the supervisor in procurement activities, in collaboration with Operations and Program teams</li>\n<li>Ensure the procurement process is as per the SOPs, with proper documentation supporting all the purchases</li>\n<li>Assist with the identification of suitable vendors, the collection of price quotes, the documentation of the procurement process, and the management of electronic and paper procurement files</li>\n<li>Coordinate all logistical arrangements for project-related events, workshops, seminars, and other training activities</li>\n<li>Help manage and administer office resources, including office space, assets, including laptops, and other related office systems and equipment.</li>\n<li>Ensure all assets are tagged and keep a record of the movement of assets.</li>\n</ul>\n<p><em>Administration</em></p>\n<ul>\n<li>Manage travel arrangements, including staff air tickets, transport, and accommodation for business purposes</li>\n<li>Support the organization of team events (meetings, workshops, etc.).</li>\n<li>Maintains a central filing system for required documents and forms.</li>\n<li>Support the development and systematic management of internal policies and their implementation across INSO operations</li>\n<li>Organize and process purchase requests, quotations, purchase orders, and goods received notes, and submit to finance for payment.</li>\n<li>Help conduct compliance checks, donor due diligence, and other regulatory responsibilities.</li>\n<li>Fulfill other administrative functions as required</li>\n<li>Organize flight bookings for all staff and goods, and ensure all staff and goods have proper documentation before traveling</li>\n<li>Process petty cash transactions. Issue cash advances as authorized. Set up and manage a record system for the sums advanced.</li>\n<li>Collect the supporting documents to close all outstanding advances before the month-end.</li>\n<li>Process mobile-phone transactions (and/or coordinate payments with Hawalas when they are in place and not centralized at the main country office). Collect and file confirmations of receipt from the final beneficiaries.</li>\n</ul>\n<p><strong>Knowledge, Skills, and Experience</strong></p>\n<p><em>Essential:</em></p>\n<ul>\n<li>5+ years of relevant work experience, preferably with INGOs.</li>\n<li>Proficient English and local language skills, both written and verbal.</li>\n<li>Proficient in Microsoft Office tools.</li>\n<li>A Degree in Business Administration, Supply Chain, HR, Logistics, or a relevant field.</li>\n<li>Attention to detail and ability to multitask</li>\n<li>No travel restrictions</li>\n</ul>\n<p><em>Nice to Have</em>:</p>\n<ul>\n<li>Other language skills, both written and verbal.</li>\n<li>Open-mindedness and self-confidence.</li>\n<li>Acceptance and understanding of humanitarian principles.</li>\n<li>Strong ethics, with the ability to manage confidential data.</li>\n<li>High degree of autonomy.</li>\n</ul>\n<p><strong>Core Competencies</strong></p>\n<ul>\n<li>Integrity – Maintains confidentiality, acts ethically, and demonstrates strong awareness of conflict-of-interest prevention.</li>\n<li>Professionalism – Demonstrates self-motivation, humility, reliability, and respectful conduct in daily work.</li>\n<li>Collaboration – Builds positive interpersonal relationships and contributes actively to a supportive team environment.</li>\n<li>Organisation – Plans and prioritises work effectively to manage tasks, deadlines, and responsibilities efficiently.</li>\n<li>Adaptability – Remains flexible, proactive, and solution-oriented in changing and demanding environments.</li>\n<li>Communication – Communicates clearly and works effectively with diverse stakeholders in multicultural settings.</li>\n</ul>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>12-month fixed-term contract,1.75 working days annual leave per month. This position is based in Raqqa, with frequent travel to Aleppo. Candidates must be willing and able to travel without restrictions.</p>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 3,
+        "C_ExecutiveTraining": 2,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 3,
+      "overall_score": 3.3,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-27T16:47:22.155236+00:00"
+    },
+    {
+      "id": "rw-4213826",
+      "title": "Operations & Liaison Officer –Syria (national position)",
+      "url": "https://reliefweb.int/node/4213826",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Logistics/Procurement",
+      "posted": "2026-05-27T14:23:43+00:00",
+      "closing": "2026-06-09T00:00:00+00:00",
+      "description": "<p><strong>Organisation Background</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>INSO Syria</strong></p>\n<p>The Syria program supports more than 290 NGOs to deliver vitally needed aid and assistance to an estimated 13.1 million people in need across the country. First launched as an emergency response operation in 2014, INSO Syria has grown to become a program covering all Syrian governorates, with a Country Office in Damascus. The Syria conflict is unique and complex: you will find that every day is different and there is always more to learn.</p>\n<p><strong>Job Summary</strong></p>\n<p>Acting as the primary assistant to the Operations Manager (OM), you will support the execution of INSO operations, including but not limited to logistics, procurement, administrative tasks, liaison, and other functions. The position will be part of the Operations team and may require travel to other locations.</p>\n<p><strong>Main Responsibilities</strong></p>\n<p><em>Logistics &amp; Procurement</em></p>\n<ul>\n<li>Assist the supervisor in procurement activities, in collaboration with Operations and Program teams</li>\n<li>Ensure the procurement process is as per the SOPs, with proper documentation supporting all the purchases</li>\n<li>Assist with the identification of suitable vendors, the collection of price quotes, the documentation of the procurement process, and the management of electronic and paper procurement files</li>\n<li>Coordinate all logistical arrangements for project-related events, workshops, seminars, and other training activities</li>\n<li>Help manage and administer office resources, including office space, assets, including laptops, other related office systems, and equipment.</li>\n<li>Ensure all assets are tagged and keep a record of the movement of assets.</li>\n</ul>\n<p><em>Administration</em></p>\n<ul>\n<li>Manage travel arrangements, including staff air tickets, transport, and accommodation for business purposes.</li>\n<li>Support the organization of team events (meetings, workshops, etc.).</li>\n<li>Maintains a central filing system for required documents and forms.</li>\n<li>Support the development and systematic management of internal policies and their implementation across INSO operations.</li>\n<li>Organize and process purchase requests, quotations, purchase orders, and goods received notes, and submit to finance for payment.</li>\n<li>Help conduct compliance checks, donor due diligence, and other regulatory responsibilities.</li>\n<li>Fulfil other administrative functions as required</li>\n<li>Organize flight bookings for all staff and goods, and ensure all staff and goods have proper documentation before travelling</li>\n</ul>\n<p><em>Liaison and Coordination</em></p>\n<ul>\n<li>Responsible for helping country management and the regional teams with building and maintaining relations with government authorities, as well as understanding and monitoring, jointly with the regional teams, political dynamics within the government.</li>\n<li>Facilitate INSO’s registration processes in Syria, including required approvals, permits, and administrative procedures.</li>\n<li>Monitor compliance with national tax codes and ensure timely compliance with local statutory reporting requirements.</li>\n<li>Ensure all necessary legal and regulatory documents are filed on time on behalf of INSO with the relevant authorities to maintain INSO’s formal in-country registration.</li>\n<li>Ensure that staff arriving/departing from the country office (CO) have the appropriate documentation (Visa, INSO Card, work permit, Alien registration, etc).</li>\n</ul>\n<p><strong>Knowledge, Skills, and Experience</strong></p>\n<p><em>Essential:</em></p>\n<ul>\n<li>5+ years of relevant professional experience in operations/liaison, preferably with NGOs</li>\n<li>Fluent English and the local/national language, both written and verbal; ability to provide translation and interpretation when required.</li>\n<li>Proficiency in Microsoft Office tools (Word and Excel as a minimum).</li>\n<li>Strong attention to detail with the ability to multitask and manage competing priorities.</li>\n<li>Demonstrated ability to build and maintain professional relationships, including with government authorities and administrative bodies, and to expand networks through personal credibility and communication skills.</li>\n<li>Bachelor’s degree in Business Administration, Supply Chain, HR, Logistics, or a relevant field.</li>\n<li>Understanding of humanitarian principles, including neutrality, and the ability to apply them in operational and liaison contexts.</li>\n<li>Strong ethical standards and proven ability to handle confidential and sensitive information appropriately.</li>\n</ul>\n<p><em>Nice to Have</em></p>\n<ul>\n<li>Previous experience within government institutions (e.g. ministries, military, interior, justice) or working directly with government authorities.</li>\n<li>Prior experience working with or for NGOs, particularly in humanitarian or emergency contexts.</li>\n<li>High degree of autonomy, self‑confidence, and open‑mindedness in complex and fluid operating environments.</li>\n<li>Established connections in border or hard‑to‑reach areas, where relevant to operations.</li>\n</ul>\n<p><strong>Core Competencies</strong></p>\n<ul>\n<li>Integrity – Maintains confidentiality, acts ethically, and prevents conflicts of interest through professional and impartial conduct.</li>\n<li>Communication – Communicates clearly and respectfully, using diplomacy and persuasion to build effective professional relationships.</li>\n<li>Collaboration – Works constructively with colleagues across teams and cultures, demonstrating humility, courtesy, and a strong team spirit.</li>\n<li>Organisation – Plans and prioritises work effectively, while proactively improving processes and proposing practical solutions.</li>\n<li>Resilience – Remains calm, reliable, and effective under pressure, including during crises and high-stress situations.</li>\n<li>Adaptability – Operates effectively in multicultural environments and engages professionally with diverse stakeholders and perspectives.</li>\n</ul>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>12-month fixed-term contract,1.75 working days annual leave per month. This position is based in Damascus and is open only to individuals with the right to live and work there.</p>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 3,
+        "C_ExecutiveTraining": 2,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 3,
+      "overall_score": 3.3,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-27T16:47:22.155239+00:00"
+    },
+    {
       "id": "rw-4213644",
       "title": "Finance & Administration Manager",
       "url": "https://reliefweb.int/node/4213644",
@@ -10354,6 +10404,31 @@
       "first_seen": "2026-05-27T10:32:05.358847+00:00"
     },
     {
+      "id": "gh-7510788003",
+      "title": "Senior Sales Engineer",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7510788003",
+      "source": "Greenhouse",
+      "publisher": "Branch International",
+      "country": "Remote, US",
+      "job_type": "Sales",
+      "category": "Sales",
+      "posted": "2026-05-27T10:11:34-04:00",
+      "closing": null,
+      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About the role:</strong></p>\n<p data-renderer-start-pos=\"18\">We’re looking for a Senior Sales Engineer who will manage all technical aspects of the sales cycle and also act as a liaison between our Sales, Product, Security, Professional Services teams. This individual will be a pivotal member of our sales team, acting as a thought partner and co-pilot for our Account Executives throughout the sales cycle.</p>\n<p data-renderer-start-pos=\"371\"><strong data-renderer-mark=\"true\">Responsibilities include, but are not limited to:</strong></p>\n<ul>\n<li data-renderer-start-pos=\"424\"><u data-renderer-mark=\"true\">Be a trusted advisor.</u> You'll go beyond surface-level conversations to understand customer’s technical needs, systems, and roadblocks. You'll then craft a tailored ",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725781+00:00"
+    },
+    {
       "id": "rw-4213241",
       "title": "MOZAMBIQUE - DEPUTY COUNTRY DIRECTOR FOR PROGRAMS (M/F) - CABO DELGADO",
       "url": "https://reliefweb.int/node/4213241",
@@ -11077,31 +11152,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-05T08:29:25.482965+00:00"
-    },
-    {
-      "id": "gh-7510788003",
-      "title": "Senior Sales Engineer",
-      "url": "https://job-boards.greenhouse.io/branch/jobs/7510788003",
-      "source": "Greenhouse",
-      "publisher": "Branch International",
-      "country": "Remote, US",
-      "job_type": "Sales",
-      "category": "Sales",
-      "posted": "2026-05-04T16:39:12-04:00",
-      "closing": null,
-      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About the role:</strong></p>\n<p data-renderer-start-pos=\"18\">We’re looking for a Senior Sales Engineer who will manage all technical aspects of the sales cycle and also act as a liaison between our Sales, Product, Security, Professional Services teams. This individual will be a pivotal member of our sales team, acting as a thought partner and co-pilot for our Account Executives throughout the sales cycle.</p>\n<p data-renderer-start-pos=\"371\"><strong data-renderer-mark=\"true\">Responsibilities include, but are not limited to:</strong></p>\n<ul>\n<li data-renderer-start-pos=\"424\"><u data-renderer-mark=\"true\">Be a trusted advisor.</u> You'll go beyond surface-level conversations to understand customer’s technical needs, systems, and roadblocks. You'll then craft a tailored ",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 3
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 3,
-      "overall_score": 3.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725781+00:00"
     },
     {
       "id": "gh-7693399003",
@@ -17379,6 +17429,106 @@
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
     },
     {
+      "id": "rw-4213836",
+      "title": "France : Grants Management Officer - Paris",
+      "url": "https://reliefweb.int/node/4213836",
+      "source": "ReliefWeb",
+      "publisher": "Agency for Technical Cooperation and Development",
+      "country": "France",
+      "job_type": "Job",
+      "category": "Donor Relations/Grants Management",
+      "posted": "2026-05-27T15:38:57+00:00",
+      "closing": "2026-06-27T00:00:00+00:00",
+      "description": "<p><strong>CDD | 6 mois | ASAP</strong></p>\n<h2>Acted</h2>\n<p><em><strong>Who we are</strong></em></p>\n<p>Acted works with 19 million people across 43 countries at the intersection of humanitarian, development, climate and environmental programming. We draw on deep contextual knowledge and embrace emerging technologies to save lives, alleviate suffering, and protect and restore our planet. Working in collaboration with a growing ecosystem of local, national and international partners, we pursue one shared objective: a 3Zero World – Zero Exclusion, Zero Carbon and Zero Poverty.</p>\n<p><em><strong>Who we are looking for</strong></em></p>\n<p>You bring the core competencies required for classical humanitarian and development work, alongside an active climate and environmental conscience, and you can navigate the challenges that arise when human and environmental suffering intersect. You have an entrepreneurial mindset: you see opportunities, connect dots, adapt your approach to different environments, and take measured risks in pursuit of results. You balance principles with pragmatism, and ambition with humility.</p>\n<h2>Acted France (HQ)</h2>\n<p>Acted’s head office was set up in Paris in 2000 in order to coordinate the organisation’s activities on a global scale. Today, the head office employs 110 people in the HR, Finance, Programmes, Audit, Security, Logistics &amp; Systems and Communications departments. These departments support the 42 Country Directorates. The head office also acts as a focal point for Acted’s management, namely the Chief Executive Officer, the Director of Development and the fifteen members of the Board of Directors.</p>\n<h2>Rôle et responsabilités principales</h2>\n<p>Under the supervision of the Grant Manager, the Grant Management Officer supports field teams’ proposal development and grant management, in compliance with Acted’s and donors’ procedures throughout the project cycle for a specific country portfolio. As such, the Grant Management Officer reviews and validates all documents (including project proposals, reports, amendments) prepared at field level and shared externally, to ensure they are in line with donor’s and Acted requirements.</p>\n<p>The Grant Management Officer also ensures contractual obligations and donor guidelines are known and followed during project implementation. The Grant Management Officer facilitates internal coordination and communication with relevant departments on grant management related issues, and reports any challenges / issues related to grants encountered by field teams during project development or project implementation to the Grant Manager and Programmes Director, as required.</p>\n<p><em><strong>Main duties</strong></em></p>\n<p><strong>Support to project development and external relations</strong></p>\n<p><strong>Grants Management</strong></p>\n<ul>\n<li><em>Contract follow up</em></li>\n<li><em>Reporting</em></li>\n<li><em>Partner follow up</em></li>\n<li><em>Donor procedures follow up</em></li>\n</ul>\n<p><strong>Internal coordination</strong></p>\n<ul>\n<li><em>Internal reporting and communication</em></li>\n<li><em>Filing</em></li>\n<li><em>Internal Training</em></li>\n<li><em>Support to staff recruitment and management</em></li>\n</ul>\n<h2>Qualifications et compétences requises</h2>\n<ul>\n<li>Advanced degree in Political Science, International Relations, International Development or equivalent (anthropology, sociology, humanitarian aid)</li>\n<li>Experience in the humanitarian sector on the field, report writing and donor relations required</li>\n<li>Excellent written and oral communication skills in French and English</li>\n<li>Analytical skills</li>\n<li>Ability to work under pressure</li>\n<li>International experience required</li>\n</ul>\n<h2>Conditions</h2>\n<ul>\n<li>Salary between 2200€ and 2400€ monthly (before income tax), depending on the level of education &amp; expertise.</li>\n<li>Food vouchers (“tickets restaurant”) when in HQ,</li>\n<li>50% coverage of Paris transportation costs (Navigo Pass)</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-27T16:47:22.155216+00:00"
+    },
+    {
+      "id": "rw-4213824",
+      "title": "Human Resources Officer - Syria (national position)",
+      "url": "https://reliefweb.int/node/4213824",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Human Resources",
+      "posted": "2026-05-27T14:10:56+00:00",
+      "closing": "2026-06-09T00:00:00+00:00",
+      "description": "<p><strong>Organisation Background</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>INSO Syria</strong></p>\n<p>The Syria program supports more than 290 NGOs to deliver vitally needed aid and assistance to an estimated 13.1 million people in need across the country. First launched as an emergency response operation in 2014, INSO Syria has grown to become a program covering all Syrian governorates, with a Country Office in Damascus. The Syria conflict is unique and complex: you will find that every day is different and there is always more to learn.</p>\n<p><strong>Job Summary</strong></p>\n<p>As a Human Resources Officer, you will be in charge of providing efficient and effective human resources administrative support to the operations of the INSO Country Office, under the supervision and guidance of the Human Resources Manager.</p>\n<p><strong>Main Responsibilities</strong></p>\n<p><em>Compliance</em></p>\n<ul>\n<li>In coordination with the HR Manager, ensure all INSO HR internal policies and procedures are compliant with local labour laws and regulations.</li>\n<li>Responsible for monitoring and acting on time on probation periods and contract expiration.</li>\n<li>Maintain communication with local authorities, including the tax office, the Ministry of Labour, etc., to maintain strong local governmental relationships.</li>\n<li>In coordination with the liaison officer, ensure that the visa, INSO Card, and work permit are valid.</li>\n</ul>\n<p><em>Recruitment</em></p>\n<ul>\n<li>Support the HR Manager in the full cycle of the recruitment process, including vacancy announcements, interview set-ups, staff inductions, as well as onboarding and off-boarding.</li>\n<li>Prepare Field Monitor contracts and amendments in accordance with legal requirements and available templates.</li>\n</ul>\n<p><em>HR Administration and Support</em></p>\n<ul>\n<li>Prepare other HR documentation</li>\n<li>Responsible for HR files, ensuring that they contain the mandatory documentation according to the internal checklist.</li>\n<li>Responsible for the timeliness, accuracy, and validity of HRIS data, and carries out regular checks of data and maintains the HRIS as required.</li>\n<li>Support the HR Manager in handling employee relations issues and as delegated.</li>\n<li>Responsible for ensuring all trackers and databases are up-to-date and readily available for management information, including Employee Emergency forms, visa and work-permit trackers, staff absence, etc</li>\n<li>Assist the Human Resources Manager in establishing annual leave planning to plan staff shifts and cover operational needs.</li>\n<li>Be a focal point for staff and consultants on the insurance policy.</li>\n<li>Assist the Human Resources Manager as required and delegated.</li>\n<li>Assist the Human Resources Manager in the drafting of various communication documents, administrative letters and facilitation of meetings to inform national employees of HR rules and procedures</li>\n<li>Assists the Human Resources Manager in the event of an internal and/or external audit or inspection</li>\n</ul>\n<p><strong>Knowledge, Skills, and Experience</strong></p>\n<p><em>Essential:</em></p>\n<ul>\n<li>5+ years of work experience in the HR field. Preferably in the NGO sector</li>\n<li>Proficiency in Microsoft Office Tools.</li>\n<li>HRIS experience</li>\n<li>Proficient command of both English &amp; Arabic languages</li>\n<li>Good knowledge of the country’s employment law and its application.</li>\n<li>Bachelor’s Degree in Business Administration, HR Management, or any other relevant field.</li>\n</ul>\n<p><strong>Core Competencies</strong></p>\n<ul>\n<li>Analytical – Identifies issues, assesses information critically, and contributes to practical solutions.</li>\n<li>Communication – Communicates clearly and professionally while maintaining strong organisational and coordination skills.</li>\n<li>Accountability – Takes ownership of responsibilities, works independently, and demonstrates a strong work ethic.</li>\n<li>Resilience – Performs effectively under pressure and adapts to demanding operational environments.</li>\n<li>Integrity – Maintains confidentiality and demonstrates professionalism aligned with humanitarian principles and ethics.</li>\n<li>Collaboration – Builds respectful and empathetic relationships and works effectively in multicultural settings.</li>\n</ul>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>12-month fixed-term contract,1.75 working days annual leave per month. This position is based in Damascus and is open only to individuals with the right to live and work there.</p>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-27T16:47:22.155241+00:00"
+    },
+    {
+      "id": "rw-4213822",
+      "title": "Deputy Safety Advisor - Syria (national position)",
+      "url": "https://reliefweb.int/node/4213822",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Information Management",
+      "posted": "2026-05-27T14:05:27+00:00",
+      "closing": "2026-06-09T00:00:00+00:00",
+      "description": "<p><strong>Organisation Background</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>INSO Syria</strong></p>\n<p>The Syria program supports more than 290 NGOs to deliver vitally needed aid and assistance to an estimated 13.1 million people in need across the country. First launched as an emergency response operation in 2014, INSO Syria has grown to become a program covering all Syrian governorates, with a Country Office in Damascus. The Syria conflict is unique and complex: you will find that every day is different and there is always more to learn.</p>\n<p><strong>Job Summary</strong></p>\n<p>International NGO Safety Organisation Syria is currently recruiting a Deputy Safety Advisor (ASA) to support multiple operational teams across Syria, including positions based in Raqqa and within Mobile Team locations. As the Deputy Safety Advisor, you will support the Safety Advisor in delivering INSO’s core services to NGOs, including information collection, analysis, reporting, partner engagement, and crisis management support. Also, you will contribute to maintaining relevant and field-oriented services, support the management of local information networks, and assist in overseeing team operations, including acting in the SA’s absence</p>\n<p><strong>Main Responsibilities</strong></p>\n<ul>\n<li>Assist the SA with the regional representation of INSO and the delivery of service.</li>\n<li>Coordinate the national team in the region and lead service delivery in SA’s absence.</li>\n<li>Collect and verify incidents and events in the region that relate to the safety of NGO workers operating in the area.</li>\n<li>Manage and update incident databases to ensure the organisation’s records are accurate and complete. Support and verify incident entries made by ASA to CHDC.</li>\n<li>Assist the Safety Advisor in preparing and issuing regular reports, area assessments, and other INSO products requested by the aid community.</li>\n<li>Work with the Safety Advisor to analyse the operating environment and identify trends. Use data and databases to create charts, data visualisations, and maps.</li>\n<li>Lead and deliver on field assessments by conducting frequent field missions and engaging with stakeholders/authorities.</li>\n<li>Work in proximity with NGO partners in the field</li>\n<li>Attend regular humanitarian coordination meetings to build relations with partners and remain up to date on humanitarian activities in the area.</li>\n<li>Work with the Safety Advisor and the SA Assistant to identify, hire and train field monitors for the purposes of ensuring robust and even information collection.</li>\n</ul>\n<p><strong>Knowledge, Skills, and Experience</strong></p>\n<ul>\n<li>Strong analytical and report-writing skills with attention to detail.</li>\n<li>Strong written and spoken English and Arabic.</li>\n<li>Good understanding of security and conflict dynamics across Syria.</li>\n<li>Relevant experience with humanitarian organisations in security, safety, access, or programme-related roles.</li>\n<li>Proficiency in Microsoft Office and Windows applications.</li>\n<li>Understanding of NGO safety management principles and willingness to learn.</li>\n<li>Ability to build and maintain professional relationships with partners.</li>\n<li>Willingness to travel periodically between INSO field offices in Syria.</li>\n<li>Bachelor’s degree in social sciences, humanitarian affairs, security, or related field, or equivalent professional experience.</li>\n<li>Understanding of humanitarian principles, including neutrality and impartiality.</li>\n</ul>\n<p><em>Nice to Have:</em></p>\n<ul>\n<li>Experience with databases or incident tracking systems.</li>\n</ul>\n<p><strong>Core Competencies</strong></p>\n<ul>\n<li>Professionalism – Demonstrates neutrality, integrity, and ethical conduct in all interactions and responsibilities.</li>\n<li>Organisation – Manages time, priorities, and workloads effectively to ensure efficient task delivery.</li>\n<li>Resilience – Maintains performance and composure while working under pressure and tight deadlines.</li>\n<li>Accuracy – Ensures close attention to detail and precision in work, documentation, and processes.</li>\n<li>Communication – Builds positive relationships and communicates clearly and effectively with diverse stakeholders.</li>\n</ul>\n<p>The successful candidate must demonstrate:</p>\n<ul>\n<li>Commitment to humanitarian principles.</li>\n<li>Political neutrality and impartiality.</li>\n<li>Integrity and professionalism.</li>\n<li>Respectful engagement with colleagues and partners.</li>\n</ul>\n<p><strong>Duty Station &amp; Mobility Requirements</strong></p>\n<p><em>Deputy Safety Advisor – Raqqa Team</em><br />\nDuty station: Raqqa, Syria. The position supports INSO’s operations across North-East Syria, with a primary focus on Raqqa and the surrounding areas. Regular field travel within the region may be required depending on operational priorities.</p>\n<p><em>Deputy Safety Advisor – Mobile Team</em><br />\nDuty station: Damascus, Aleppo, Qamishli, or Raqqa, depending on operational needs and candidate preference. The role provides country-wide operational support across all INSO regions in Syria and requires frequent travel, including short-notice deployments to support assessments, regional teams, and evolving operational priorities.</p>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>12-month renewable fixed-term contract,1.75 working days annual leave per month, private health insurance coverage, or allowance.</p>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-27T16:47:22.155286+00:00"
+    },
+    {
+      "id": "rw-4213819",
+      "title": "Assistant Safety Advisor - Syria (national staff only)",
+      "url": "https://reliefweb.int/node/4213819",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Information Management",
+      "posted": "2026-05-27T13:59:49+00:00",
+      "closing": "2026-06-09T00:00:00+00:00",
+      "description": "<p><strong>Organisation Background</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>INSO Syria</strong></p>\n<p>The Syria program supports more than 290 NGOs to deliver vitally needed aid and assistance to an estimated 13.1 million people in need across the country. First launched as an emergency response operation in 2014, INSO Syria has grown to become a program covering all Syrian governorates, with a Country Office in Damascus. The Syria conflict is unique and complex: you will find that every day is different and there is always more to learn.</p>\n<p><strong>Job Summary</strong></p>\n<p>International NGO Safety Organisation Syria is currently recruiting an Assistant Safety Advisor (ASA) to support multiple operational teams across Syria, including positions based in Raqqa and within Mobile Team locations. Under the direct supervision of the Safety Advisor, you will be involved in information collection, verification, and data input into CHDC. Assist the SA and the Deputy SA with the development and management of a local information network and provide liaison with NGOs using INSO services in the region.</p>\n<p><strong>Main Responsibilities</strong></p>\n<ul>\n<li>Develop a diversified and consistent network of contacts at the communal and regional levels.</li>\n<li>Develop, verify, and summarise safety and security information in a concise and actionable format. Enter the information into CHDC.</li>\n<li>Proactively ensure daily liaison with field monitors and submit requests for information to deadlines.</li>\n<li>Assist the SA and the Deputy SA in the preparation of relevant reports, area assessments, and other INSO products.</li>\n<li>Assist the SA and the Deputy in visualising and analysing data by using charts and mapping tools.</li>\n<li>Help to enhance INSO information collection capacity in the region.</li>\n<li>Act at short notice with due regard to developing events.</li>\n<li>Ensure strict compliance with INSO HR, financial and logistics procedures.</li>\n</ul>\n<p><strong>Knowledge, Skills, and Experience</strong></p>\n<ul>\n<li>Minimum 2 years of relevant professional experience in security analysis, humanitarian coordination, or information management.</li>\n<li>Strong analytical and report-writing skills.</li>\n<li>Ability to produce clear, concise written products in English.</li>\n<li>Proficiency in Microsoft Office (Excel required).</li>\n<li>Strong Arabic and English language skills (spoken and written).</li>\n<li>Prior field assessment experience is an asset.</li>\n<li>Bachelor’s degree in Political Science, Security Studies, or a related field.</li>\n</ul>\n<p><em>Nice to Have:</em></p>\n<ul>\n<li>Experience with databases or incident tracking systems.</li>\n</ul>\n<p><strong>Core Competencies</strong></p>\n<ul>\n<li>Professionalism – Demonstrates neutrality, integrity, and ethical conduct in all interactions and responsibilities.</li>\n<li>Organisation – Manages time, priorities, and workloads effectively to ensure efficient task delivery.</li>\n<li>Resilience – Maintains performance and composure while working under pressure and tight deadlines.</li>\n<li>Accuracy – Ensures high attention to detail and precision in work, documentation, and processes.</li>\n<li>Communication – Builds positive relationships and communicates clearly and effectively with diverse stakeholders.</li>\n</ul>\n<p>The successful candidate must demonstrate:</p>\n<ul>\n<li>Commitment to humanitarian principles.</li>\n<li>Political neutrality and impartiality.</li>\n<li>Integrity and professionalism.</li>\n<li>Respectful engagement with colleagues and partners.</li>\n</ul>\n<p><strong>Duty Station &amp; Mobility Requirements</strong></p>\n<p><em>Assistant Safety Advisor – Raqqa Team</em><br />\nDuty station: Raqqa, Syria. The position supports INSO’s operations across North-East Syria, with a primary focus on Raqqa and the surrounding areas. Regular field travel within the region may be required depending on operational priorities.</p>\n<p><em>Assistant Safety Advisor – Mobile Team</em><br />\nDuty station: Damascus, Aleppo, Qamishli, or Raqqa, depending on operational needs and candidate preference. The role provides country-wide operational support across all INSO regions in Syria and requires frequent travel, including short-notice deployments to support assessments, regional teams, and evolving operational priorities.</p>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>12-month renewable fixed-term contract, 1.75 working days annual leave per month, private health insurance coverage or allowance.</p>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-27T16:47:22.155289+00:00"
+    },
+    {
       "id": "rw-4213581",
       "title": "PROJECT MANAGER LIBYA",
       "url": "https://reliefweb.int/node/4213581",
@@ -20779,6 +20929,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 3,
+  "last_added": 6,
   "last_updated": 333
 }
