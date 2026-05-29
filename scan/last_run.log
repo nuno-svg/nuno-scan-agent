@@ -1,4 +1,4 @@
-=== Run start: 2026-05-29T10:14:56.926748+00:00 ===
+=== Run start: 2026-05-29T16:54:29.929184+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
 [ReliefWeb] q='blended finance' → 34 returned
@@ -25,10 +25,10 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='feasibility' → 0 returned
 [ReliefWeb] q='investment memorandum' → 1 returned
 [ReliefWeb] q='climate finance' → 44 returned
-[ReliefWeb] unique total: 274
+[ReliefWeb] unique total: 277
 [Greenhouse] Instiglio (instiglio) → 6 jobs
 [Greenhouse] Acumen (acumen) → 9 jobs
-[Greenhouse] One Acre Fund (oneacrefund) → 44 jobs
+[Greenhouse] One Acre Fund (oneacrefund) → 43 jobs
 [Greenhouse] Branch International (branch) → 10 jobs
 [Greenhouse] Kiva (kivamicrofunds) SKIP: GET https://boards-api.greenhouse.io/v1/boards/kivamicrofunds/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Bridgespan Group (bridgespan) SKIP: GET https://boards-api.greenhouse.io/v1/boards/bridgespan/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
@@ -36,8 +36,8 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Spark Microgrants (sparkmicrogrants) SKIP: GET https://boards-api.greenhouse.io/v1/boards/sparkmicrogrants/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
-[Greenhouse] total unique: 69
-Raw new opportunities: 343
-Pipeline: 862 total (+18 new, 325 updated)
+[Greenhouse] total unique: 68
+Raw new opportunities: 345
+Pipeline: 866 total (+4 new, 341 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-05-29T10:15:16.436067+00:00 ===
+=== Run end: 2026-05-29T16:54:40.278699+00:00 ===

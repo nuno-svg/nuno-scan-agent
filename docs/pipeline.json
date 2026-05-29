@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-05-29T10:15:16.307781+00:00",
-  "last_run_local": "2026-05-29 10:15 UTC",
-  "runs_count": 77,
+  "last_run_iso": "2026-05-29T16:54:40.141304+00:00",
+  "last_run_local": "2026-05-29 16:54 UTC",
+  "runs_count": 78,
   "opportunities": [
     {
       "id": "rw-4213982",
@@ -1929,6 +1929,31 @@
       "first_seen": "2026-04-29T12:06:06.557487+00:00"
     },
     {
+      "id": "gh-7953271",
+      "title": "Rwanda Legal and Investigations Intern",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7953271",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Kigali, Rwanda",
+      "job_type": "LGL - Legal",
+      "category": "LGL - Legal",
+      "posted": "2026-05-29T06:54:55-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Young Professionals Program</h3>\n<p>One Acre Fund’s Young Professionals Program offers high-performing African graduates meaningful internships and training opportunities at a high-performing, mission-driven organization. Our internships are paid and all interns can expect to receive substantive work assignments working on high-impact projects that support One Acre Fund's operations.</p>\n<p>When joining, interns will participate in an onboarding program and receive training on how to design and execute projects. Over the period of your internship, you will get the opportunity to work with like-minded individuals and receive learning opportunities to build strong foundations for your future career.&nbsp;</p>\n<h3>About the Role</h3>\n<p>Seeking a highly motivated and detail-oriented legal professional or recent LL.B graduate to gain hands-on experience in legal research, investigations, evidence review, and professional drafting within a fast-paced and dynamic operational environment.</p>\n<h3>Responsibilities</h3>\n<p>Case Assessment &amp; Evidence Management</p>\n<ul>\n<li>Case Evaluation: Support the review of new and ongoing cases to identify the nature of allegations, establi",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.6,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-22T15:59:05.091144+00:00"
+    },
+    {
       "id": "gh-7953975",
       "title": "Global Investor Relations Manager",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7953975",
@@ -1977,31 +2002,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-26T16:54:12.604252+00:00"
-    },
-    {
-      "id": "gh-7953271",
-      "title": "Rwanda Legal and Investigations Intern",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7953271",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Kigali, Rwanda",
-      "job_type": "LGL - Legal",
-      "category": "LGL - Legal",
-      "posted": "2026-05-22T09:26:10-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Young Professionals Program</h3>\n<p>One Acre Fund’s Young Professionals Program offers high-performing African graduates meaningful internships and training opportunities at a high-performing, mission-driven organization. Our internships are paid and all interns can expect to receive substantive work assignments working on high-impact projects that support One Acre Fund's operations.</p>\n<p>When joining, interns will participate in an onboarding program and receive training on how to design and execute projects. Over the period of your internship, you will get the opportunity to work with like-minded individuals and receive learning opportunities to build strong foundations for your future career.&nbsp;</p>\n<h3>About the Role</h3>\n<p>Seeking a highly motivated and detail-oriented legal professional or recent LL.B graduate to gain hands-on experience in legal research, investigations, evidence review, and professional drafting within a fast-paced and dynamic operational environment.</p>\n<h3>Responsibilities</h3>\n<p>Case Assessment &amp; Evidence Management</p>\n<ul>\n<li>Case Evaluation: Support the review of new and ongoing cases to identify the nature of allegations, establi",
-      "scores": {
-        "A_BlendedCatalyticFinance": 3,
-        "B_DealStructuring": 1,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.6,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-05-22T15:59:05.091144+00:00"
     },
     {
       "id": "gh-7896592",
@@ -2480,14 +2480,14 @@
     },
     {
       "id": "gh-7822853",
-      "title": "MEL Intern",
+      "title": "MEL Data Automation officer",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7822853",
       "source": "Greenhouse",
       "publisher": "One Acre Fund",
       "country": "Ethiopia",
       "job_type": "MNE - Monitoring, Evaluation, & Learning",
       "category": "MNE - Monitoring, Evaluation, & Learning",
-      "posted": "2026-05-29T06:13:48-04:00",
+      "posted": "2026-05-29T09:58:02-04:00",
       "closing": null,
       "description": "<p><strong>About One Acre Fund</strong></p>\n<p>Founded in 2006, One Acre Fund equips more than 4 million smallholder farmers to make their farms more productive. Across ten countries that together are home to more than two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase her income and assets on supported land by more than 40 percent, while permanently improving her climate resilience. This is all made possible by our team of 8,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;</p>\n<p>To learn more, please see our Why Work Here blog post.</p>\n<p><strong>About our Internship Program</strong></p>\n<p>Join the One Acre Fund 2026 Monitoring, Evaluation, and Learning (MEL) Internship Program to jump-start your career. We empower you as you grow in this program which is especially designed for motivated young professionals.</p>\n<p>When joining, you will participate in an onboarding program and receive training on how to accomplish your assigned projects. Over the period of your internship, you will also receive opportunities to learn directly from inspiring leaders to build foundations for your future career.</p>\n<p><strong>About the Role</strong></p>\n<p>We are seeking <strong>One</strong> MEL Data Automation officer for <strong>6</strong> month internships to support our Monitoring, Evaluation, and Learning (MEL) team. As an intern, you will contribute to impactful projects aimed at enhancing One Acre Fund’s ability to serve farmers and improve agricultural productivity and incomes. You will gain exposure to real-world data challenges and opportunities to generate actionable insights. You will work as a part of our dynamic MEL team and will directly report to the MEL Leads.</p>\n<p>This is a JL3 internship position with a 6-month fixed-term contract. No extension will ",
       "scores": {
@@ -9154,6 +9154,31 @@
       "first_seen": "2026-04-28T10:07:22.044744+00:00"
     },
     {
+      "id": "rw-4214078",
+      "title": "Director Product Development and Commercialization",
+      "url": "https://reliefweb.int/node/4214078",
+      "source": "ReliefWeb",
+      "publisher": "11.11.11, African Agricultural Technology Foundation",
+      "country": "Kenya",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-05-29T11:10:46+00:00",
+      "closing": "2026-06-26T00:00:00+00:00",
+      "description": "<p>Adelko Consulting Services, a global Executive Search firm, has been retained by AATF, to source outstanding candidates for the Director Product Development and Commercialization (DPDC) position.</p>\n<h2>ABOUT AFRICA AGRICULTURAL TECHNOLOGY FOUNDATION</h2>\n<p>AATF is an international not-for-profit organization that facilitates, and promotes public/private partnerships to access, develop, adapt and deliver appropriate agricultural technologies for sustainable use by smallholder farmers in Sub Saharan Africa.</p>\n<p>AATF works with African governments, private and public technology owners and developers, NGOs, seed companies and African farmers to identify and access technologies that will address farmers’ key problems and enhance their productivity. AATF is a registered charity under the laws of England and Wales and has host country status with the Government of Kenya. The Foundation depends on the ongoing support and collaboration of different partners and investors to meet its objectives.</p>\n<p>Please visit the AATF website at <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.aatf-africa.org/\">https://www.aatf-africa.org/</a> for further details.</p>\n<h2>DIRECTOR PRODUCT DEVELOPMENT AND COMMERCIALIZATION</h2>\n<p>Under the direct supervision of the Executive Director, the DPDC will lead the strategic design, development, and commercialization of agricultural technology programs and products, ensuring innovations move efficiently from research to farmer adoption and deliver measurable impact across Africa.</p>\n<p>The DPDC will assist and advise the Executive Director in achieving the organization’s strategic objectives by providing leadership in the operational management, market deployment and sustainable commercialization of agricultural technologies and products. The DPDC will ensure effective transition of innovations from development to market, driving scale, impact and long-term sustainability.</p>\n<h2>KEY RESPONSIBILITIES</h2>\n<p><strong>Program Strategy and Development</strong></p>\n<ul>\n<li>Scout and identify new agricultural technologies and initiate the drafting of relevant concept notes.</li>\n<li>Provide technical leadership in Ag Biotech product development, regulatory compliance, biosafety, and stewardship.</li>\n<li>Ensure efficient monitoring and implementation of AATF’s interventions and projects.</li>\n<li>Ensure effective and efficient strategic direction toward the access and delivery of appropriate innovative agricultural technologies.</li>\n<li>Provide technical backstopping so that staff can better identify technical problems and assist project partners in solving them.</li>\n</ul>\n<h2>Commercialization &amp; Scaling</h2>\n<ul>\n<li>Lead the design and execution of AATF commercialization strategy aligned to institutional goals.</li>\n<li>Provide strategic oversight for transitioning technologies from research and development to market deployment.</li>\n<li>Provide strategic leadership in the design, execution, and scaling of commercially sustainable models across multiple African countries to drive rapid market penetration, ensure long-term adoption of technologies and products, and deliver measurable development impact.</li>\n<li>Identify, develop, and manage strategic technical partnerships with seed companies, private sector actors, governments, and development partners to collaboratively drive the commercialization, scaling, and sustainable uptake of agricultural technologies and products.</li>\n</ul>\n<p><strong>Partnership &amp; Stakeholder Management</strong></p>\n<ul>\n<li>Develop, foster and maintain liaison with partners and stakeholders (advanced technology providers in the private and public sectors and AATF’s network of partners).</li>\n<li>Strengthen coordination and alignment across multidisciplinary teams and strategic partnerships to enhance collaboration, efficiency, and results delivery.</li>\n<li>Promote a high-performance culture focused on results, accountability, and collaboration.</li>\n</ul>\n<p><strong>Portfolio &amp; Performance Management</strong></p>\n<ul>\n<li>Provide technical backstopping to the Executive Director by advising him/her on new opportunities and representing him/her if required, in the technical working groups and networking forums.</li>\n<li>Support the design and strategic development of the projects by providing technical backstopping, capacity building and guidance to the Projects Managers on project implementation.</li>\n<li>Provide technical backstopping to the Board of Trustees by preparing and presenting technical reports, advising on priority areas and new technologies and guiding on new projects ideas.</li>\n</ul>\n<p><strong>Leadership &amp; Organizational Contribution</strong></p>\n<ul>\n<li>Providing overall leadership and technical supervision in implementing and reviewing the AATF’s project portfolio, the project’s strategic planning and project cycle fulfilling, including the establishment of the priority activities required, coordination with stakeholders &amp; partners, the elaboration of guidelines, if necessary.</li>\n<li>Represent AATF in high-level strategic engagements with governments, private sector partners, donors, regional and international institutions to advance agricultural technology development and commercialization objectives and strengthen institutional partnerships.</li>\n</ul>\n<p><strong>Resource Mobilization</strong></p>\n<ul>\n<li>Provide strategic leadership for resource mobilization to support the development, scale up, and commercialization of agricultural technology programs, aligning funding strategies with organizational priorities and impact goals.</li>\n<li>Lead the identification, cultivation, and stewardship of high-value funding partners, positioning the organization as a credible, results-driven partner for large-scale, multi-year investments.</li>\n<li>Integrate commercialization and sustainability pathways into funding models, ensuring programs progress toward financial viability and long-term impact beyond donor funding.</li>\n</ul>\n<h2>KEY RESULT AREAS WITHIN 24 MONTHS</h2>\n<ul>\n<li>Effective management of human resources and strengthening of the workforce.</li>\n<li>Advancement of product development through theintroduction of new technologies.</li>\n<li>Increased funding and successful mobilization of additional resources from funders and partners.</li>\n</ul>\n<h2>QUALIFICATIONS</h2>\n<ul>\n<li>PhD. Degree in Agricultural Sciences, Natural resources management, Biotechnology or closely related discipline.</li>\n<li>Strong understanding of markets, value chains, adoption drivers, and economic viability.</li>\n<li>Directly focused on moving research to market, scaling technologies, and managing product portfolios.</li>\n<li>Highest relevance for commercialization strategy, partnerships, and business model development.</li>\n</ul>\n<h2>EXPERIENCE AND SKILLS</h2>\n<p><strong>Essential</strong></p>\n<ul>\n<li>Minimum of 10 years of progressively senior leadership experience in research, agricultural technology development, deployment, and/or commercialization within reputable international organizations across the public and/or private sectors.</li>\n<li>Demonstrated executive leadership capability, with a proven track record of building and leading high-performing, multidisciplinary teams, managing organizational change, and resolving complex operational and interpersonal challenges.</li>\n<li>Proven ability to set and execute organizational and programmatic strategy, including oversight of results-based management systems, performance measurement, and impact reporting across multi-country portfolios.</li>\n<li>Deep expertise in program, project, and portfolio governance, including operational oversight, business process optimization, risk management, and accountability for results.</li>\n<li>Strong stakeholder engagement and partnership-building capability, with the ability to influence and collaborate effectively at senior levels across governments, donors, private sector partners, research institutions, and development actors.</li>\n<li>Recognized authority in agricultural technology, with significant experience leading product development and/or deployment initiatives and serving as a senior technical representative across internal and external platforms.</li>\n<li>Exceptional executive communication and representation skills, with the ability to articulate complex technical and strategic issues clearly and persuasively in high-level written, oral, and public-facing forums.</li>\n<li>Comprehensive understanding of established and emerging agricultural technologies, including regulatory, policy, and biosafety considerations.</li>\n<li>Fluency in written and spoken English.</li>\n</ul>\n<p><strong>Desirable</strong></p>\n<ul>\n<li>Results/detail-orientation and the ability to work with a sense of urgency in a multicultural and diverse environment.</li>\n<li>Publishes in technical journals, writes white papers on chosen technical expertise, or speaks at agricultural events.</li>\n<li>Fluency in written and spoken French with a working knowledge of Portuguese would be an added advantage.</li>\n<li>Ability to suggest alternative technical solutions to meet client requirements.</li>\n</ul>\n<h2>WHY JOIN AATF AS DIRECTOR PRODUCT DEVELOPMENT AND COMMERCIALIZATION?</h2>\n<p>The new AATF strategy (2023 – 2027) empowers staff to reach and impact 8 million farmers in Africa directly through tailored technologies. AATF's reputation spans 24 countries, where it has already achieved significant results. The organisation offers an appealing salary and benefits package, fostering individual growth and success. AATF's culture is collaborative, results-oriented, and purpose-driven, facilitating collective achievement. Employees work together to reach as many smallholder farmers as possible, supported by a collegial environment. AATF provides a conducive setting where individuals thrive and contribute to its mission of agricultural advancement in Africa.</p>\n<h2>LOCATION AND CONTRACT TERMS</h2>\n<p>The position's holder will be stationed in Nairobi, Kenya. The contract length for this position is three years, renewable pending annual performance assessment and availability of funds. AATF provides a competitive salary package and promotes a multicultural workplace that supports gender parity, teamwork, and respect for diversity.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 3,
+      "overall_score": 3.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-29T16:54:40.141199+00:00"
+    },
+    {
       "id": "rw-4213834",
       "title": "Request for Quotations to Provide Equipment for Training Centre Room and Demo Sites - Vilanculos, Mozambique",
       "url": "https://reliefweb.int/node/4213834",
@@ -10702,6 +10727,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
+    },
+    {
+      "id": "rw-4214102",
+      "title": "Head of Business Development - Sudan",
+      "url": "https://reliefweb.int/node/4214102",
+      "source": "ReliefWeb",
+      "publisher": "Plan International",
+      "country": "Sudan",
+      "job_type": "Job",
+      "category": "Donor Relations/Grants Management",
+      "posted": "2026-05-29T12:33:56+00:00",
+      "closing": "2026-06-14T00:00:00+00:00",
+      "description": "<p><strong>Role Purpose</strong></p>\n<p>Head of Business Development, you will lead the Business Development Unit (BDU), driving fundraising, proposal development, and donor engagement to grow Plan International Sudan’s funding portfolio in line with the Country Strategic Plan and Humanitarian Response Plan.</p>\n<p>You will play a key role in securing new grants, strengthening donor relationships, and ensuring high-quality proposal development, grant management, and compliance.</p>\n<p>This is a senior leadership role in a complex and fast-paced environment. You will need strong strategic thinking, sound judgement, and the ability to solve problems in a dynamic context.</p>\n<p>In this role, you will directly contribute to strengthening funding, performance, and impact for children, particularly girls.</p>\n<p><strong>What You’ll Be Doing</strong></p>\n<ul>\n<li>Develop and implement a resource mobilisation strategy to expand and diversify funding.</li>\n<li>Build and manage relationships with institutional donors, UN agencies, National Offices, and partners.</li>\n<li>Identify funding opportunities and lead the development of high-quality proposals and concept notes.</li>\n<li>Manage the proposal pipeline, funding trackers, and reporting calendars.</li>\n<li>Ensure strong coordination across programme, finance, and support teams.</li>\n<li>Lead consortium bids and support meaningful partner engagement.</li>\n<li>Ensure compliance with donor requirements and internal policies, including cost recovery.</li>\n<li>Capture and share learning to strengthen proposal quality and success rates.</li>\n<li>Integrate gender equality and humanitarian standards across all submissions.</li>\n<li>Manage and develop a team of grants and business development specialists.</li>\n<li>Contribute to Country Management Team (CMT) leadership and overall programme performance.</li>\n</ul>\n<p><strong>What We’re Looking For</strong></p>\n<ul>\n<li>A proven track record of securing grants and developing successful donor proposals</li>\n<li>Significant experience in resource mobilisation within humanitarian and/or development settings, particularly in an emergency context</li>\n<li>Strong knowledge of donor requirements, consortium bids, and project cycle management</li>\n<li>A Master’s degree in a relevant field or experience of working in a related field for an extended period of time.</li>\n<li>Excellent coordination, communication, and stakeholder management skills</li>\n<li>Strong written and spoken English</li>\n<li>Arabic language skills highly desirable</li>\n<li>Experience working in the region is highly desirable</li>\n</ul>\n<p>Please respond to the requirements of the role in your cover letter.</p>\n<p>Only CVs and cover letters in English will be accepted.</p>\n<p><strong>Location: Port Sudan, Sudan. With 30% travel to communities in Sudan. This is a mandatory unaccompanied assignment.</strong></p>\n<p>This is a global recruitment search and support with relocation is available if required.</p>\n<p><strong>Type of Role: 12 month Fixed term contract</strong></p>\n<p><strong>Reports to: Country Director</strong></p>\n<p><strong>Closing Date: 14th June 2026</strong></p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-29T16:54:40.141197+00:00"
     },
     {
       "id": "rw-4213977",
@@ -14879,6 +14929,31 @@
       "first_seen": "2026-04-28T10:07:22.044913+00:00"
     },
     {
+      "id": "rw-4214073",
+      "title": "Consultant - 4th Independent Review of Safeguarding Practice and Culture",
+      "url": "https://reliefweb.int/node/4214073",
+      "source": "ReliefWeb",
+      "publisher": "Mines Advisory Group",
+      "country": "",
+      "job_type": "Consultancy",
+      "category": "Monitoring and Evaluation",
+      "posted": "2026-05-29T11:11:23+00:00",
+      "closing": "2026-06-22T00:00:00+00:00",
+      "description": "<p>MAG is seeking an experienced consultant or consultancy group to undertake a review of its safeguarding practice and culture by September 2026.</p>\n<p><strong>ABOUT MAG</strong></p>\n<p>MAG (Mines Advisory Group) is an international humanitarian organisation based in Manchester, UK, and working in 32 countries. We remove landmines and unexploded ordnance to release safe and productive land for communities, and work to reduce the threat of armed violence by supporting governments to safely manage weapons and ammunition. In 1997, MAG was a co-recipient of the Nobel Peace Prize for our work campaigning for the Anti-Personnel Mine Ban Convention.</p>\n<p><strong>BACKGROUND</strong></p>\n<p>MAG is committed to safeguarding staff, partners, and the communities who we work alongside. We strive to provide a safe and trusted environment for anyone who comes into contact with our work.</p>\n<p>In 2018, MAG commissioned its first independent review of safeguarding practice and culture.</p>\n<p>Subsequently a 2nd desk-based review took place in 2020, and a 3rd 2023. All reviews were undertaken by a consultancy group (with different consultants), recommendations were approved by MAG’s Leadership Team and then incorporated into an organisational Safeguarding work plan.</p>\n<p>MAG has invested in Safeguarding by establishing the role of Safeguarding Lead who was appointed in October 2018 and was supported by a global safeguarding team between January 2020 to May 2025. The role of safeguarding trustee focal point was also established in January 2019.</p>\n<p>In line with the review period (every 3 years) set by the Health, Safety, Security and Safeguarding Committee, MAG now wishes to commission a 4th review that is to be conducted and completed by September 2026 - see timeframe below.</p>\n<p>The purpose of conducting the safeguarding external reviews are:</p>\n<ul>\n<li>to assess awareness, understanding, attitude, approaches, and progress to date on safeguarding work across MAG</li>\n<li>to recommend how MAG can continue to build a culture and amend its processes and procedures and activities, to ensure a high standard of safeguarding culture and practice, whilst also taking account of other sector wide (humanitarian development sector) and sector specific (mines clearance) initiatives.</li>\n</ul>\n<p><strong>SCOPE OF THE REVIEW</strong></p>\n<p>The 4th independent review, encourages general observations, but rather than focusing on the broad remit of the implementation of safeguarding across the organisation will this time be focused on:</p>\n<ul>\n<li>strengthening our safeguarding practice, in relation to our work with partners and alongside communities</li>\n<li>assessing our safeguarding self-assessment tool to ensure it is fit for purpose in relation to organisational strategy, policy and external obligations.</li>\n</ul>\n<p><strong>OBJECTIVES AND OUTPUTS</strong></p>\n<p>The consultant is expected to produce a report that measures progress and highlights areas of gaps and will include:</p>\n<ul>\n<li>a broad assessment of MAG’s current safeguarding culture and practice and recommendations for how MAG may strengthen the organisation’s safeguarding culture, policies and practice</li>\n<li>recommendations for strengthening our safeguarding practice, in relation to our work with partners and alongside communities</li>\n<li>an assessment of our safeguarding self-assessment tool with recommendation for changes to ensure it is fit for purpose in relation to organisational strategy, policy and external obligations.</li>\n</ul>\n<p><strong>METHODOLOGY</strong></p>\n<p>The consultant is asked to submit a scope of work and action plan for agreement before substantive work begins. The following is a proposed outline:</p>\n<ul>\n<li>clarify the scope of the review with the Safeguarding Lead, Director of People and Culture, CEO and Safeguarding Trustee focal point.</li>\n<li>conduct a desk review of relevant documentation – policies, training plans, lessons learnt exercises, case management and reporting.</li>\n<li>conduct online interviews and focus group discussions with key staff across MAG – at different levels, roles and locations.</li>\n</ul>\n<p>If information comes to light about historical, specific unreported incidents or current safeguarding incidents the consultant will document and recommend action to be taken. Final decision making on follow up rests within the MAG management line.</p>\n<p><strong>REPORTING</strong></p>\n<p>The consultant will report to the CEO, Director of People and Culture and the Safeguarding Trustee Focal Point. The MAG Safeguarding Lead will provide administrative support and documents for review.</p>\n<p><strong>TIMING</strong></p>\n<p>The Review should be completed by mid-August 2026 at the latest with a view to finalising the report by end-August 2026.</p>\n<p><strong>CIRCULATION</strong></p>\n<p>It is our intention that as part of our accountability to all stakeholders in MAG, communities with whom we work, supporters and donors we will publish a summary of recommendations and a management response setting out a proportionate approach for the future.</p>\n<p><strong>PROFILE OF CONSULTANT</strong></p>\n<ul>\n<li>The consultant must be demonstrably independent of MAG, independent minded and authoritative in terms of safeguarding expertise.</li>\n<li>The consultant will have a wide breadth of experience and knowledge of safeguarding practise across the humanitarian and international development sector.</li>\n<li>The consultant will be experienced in conducting organisational reviews.</li>\n</ul>\n<p>Please note that as part of MAG's commitment to safeguarding, this post is subject to background checks before an offer of consultancy is confirmed. For more information on MAG’s approach to safeguarding and background checks please see our website**.**</p>\n<p>MAG is committed to the principles of diversity, equality and inclusion. If you think you would be suited to one of our roles we would welcome your application regardless of your background. We strive to provide an inclusive and supportive working environment where all feel respected and supported in fulfilling their potential.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-29T16:54:40.141155+00:00"
+    },
+    {
       "id": "rw-4213895",
       "title": "Provision of Clinical Abstraction and Case Summary Development Services",
       "url": "https://reliefweb.int/node/4213895",
@@ -17977,6 +18052,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
+    },
+    {
+      "id": "rw-4214097",
+      "title": "Business Development Coordinator",
+      "url": "https://reliefweb.int/node/4214097",
+      "source": "ReliefWeb",
+      "publisher": "Mokoro",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-05-29T15:00:49+00:00",
+      "closing": "2026-06-08T00:00:00+00:00",
+      "description": "<p>Location: Oxford/Hybrid</p>\n<p>The Business Development Coordinator is part of Mokoro’s small, collaborative Business Support team, with responsibility for leading business development activities across the consultancy portfolio.</p>\n<p>The role requires strong coordination, writing and relationship management skills, alongside the<br />\nability to identify opportunities, develop high-quality proposals, and strengthen Mokoro’s<br />\nnetworks and partnerships.</p>\n<p>Duties:</p>\n<ul>\n<li>Coordinate the identification and pursuit of relevant business opportunities aligned with Mokoro’s strategic priorities</li>\n<li>Coordinate the preparation of competitive tenders and proposals, including drafting high quality submissions and coordinating inputs from colleagues and partners</li>\n<li>Develop assignment budgets as part of proposal preparation, ensuring alignment with company practice and financial targets</li>\n<li>Build and maintain Mokoro’s network of consultants, including identifying and engaging with new consultants and nurturing relationships with existing Principal Consultants and Associates to support current and future opportunities</li>\n<li>Develop and manage relationships with clients and delivery partners, including existing consortium partners, to support successful bids and ongoing collaboration</li>\n<li>Represent Mokoro in external meetings, events and engagements with partners and clients</li>\n<li>Maintain and improve business development systems and processes, including the<br />\nconsultant database</li>\n<li>Promote effective use of tools and innovation to enhance proposal development<br />\nprocesses</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-05-29T16:54:40.141192+00:00"
     },
     {
       "id": "rw-4214020",
@@ -21554,6 +21654,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 18,
-  "last_updated": 325
+  "last_added": 4,
+  "last_updated": 341
 }
