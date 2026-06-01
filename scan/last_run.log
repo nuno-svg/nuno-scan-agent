@@ -1,31 +1,31 @@
-=== Run start: 2026-05-31T14:57:05.185273+00:00 ===
+=== Run start: 2026-06-01T12:10:43.170818+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 26 returned
-[ReliefWeb] q='results-based' → 30 returned
+[ReliefWeb] q='blended finance' → 24 returned
+[ReliefWeb] q='results-based' → 21 returned
 [ReliefWeb] q='innovative financing' → 3 returned
 [ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 43 returned
+[ReliefWeb] q='investment advisor' → 31 returned
 [ReliefWeb] q='structuring' → 0 returned
 [ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 42 returned
-[ReliefWeb] q='capacity building' → 8 returned
-[ReliefWeb] q='executive training' → 12 returned
+[ReliefWeb] q='transaction advisor' → 30 returned
+[ReliefWeb] q='capacity building' → 6 returned
+[ReliefWeb] q='executive training' → 8 returned
 [ReliefWeb] q='budget planning' → 3 returned
-[ReliefWeb] q='finance consultant' → 50 returned
-[ReliefWeb] q='development finance' → 50 returned
+[ReliefWeb] q='finance consultant' → 45 returned
+[ReliefWeb] q='development finance' → 45 returned
 [ReliefWeb] q='PPP' → 0 returned
 [ReliefWeb] q='concessional' → 0 returned
 [ReliefWeb] q='DFI' → 0 returned
 [ReliefWeb] q='Lusophone' → 0 returned
 [ReliefWeb] q='Angola' → 0 returned
-[ReliefWeb] q='Mozambique' → 9 returned
-[ReliefWeb] q='advisor Africa' → 50 returned
-[ReliefWeb] q='financial advisor' → 49 returned
+[ReliefWeb] q='Mozambique' → 6 returned
+[ReliefWeb] q='advisor Africa' → 37 returned
+[ReliefWeb] q='financial advisor' → 37 returned
 [ReliefWeb] q='feasibility' → 0 returned
 [ReliefWeb] q='investment memorandum' → 1 returned
-[ReliefWeb] q='climate finance' → 35 returned
-[ReliefWeb] unique total: 265
+[ReliefWeb] q='climate finance' → 31 returned
+[ReliefWeb] unique total: 222
 [Greenhouse] Instiglio (instiglio) → 6 jobs
 [Greenhouse] Acumen (acumen) → 9 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 41 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 66
-Raw new opportunities: 331
-Pipeline: 872 total (+0 new, 331 updated)
+Raw new opportunities: 288
+Pipeline: 878 total (+6 new, 282 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-05-31T14:57:14.732657+00:00 ===
+=== Run end: 2026-06-01T12:11:07.775364+00:00 ===
