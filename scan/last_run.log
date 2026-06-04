@@ -1,31 +1,31 @@
-=== Run start: 2026-06-03T18:05:05.241997+00:00 ===
+=== Run start: 2026-06-04T10:12:53.506038+00:00 ===
 Keywords loaded: 4 archetypes
-[ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 25 returned
-[ReliefWeb] q='results-based' → 19 returned
-[ReliefWeb] q='innovative financing' → 4 returned
-[ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 31 returned
-[ReliefWeb] q='structuring' → 0 returned
-[ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 30 returned
-[ReliefWeb] q='capacity building' → 6 returned
-[ReliefWeb] q='executive training' → 9 returned
-[ReliefWeb] q='budget planning' → 3 returned
-[ReliefWeb] q='finance consultant' → 47 returned
-[ReliefWeb] q='development finance' → 50 returned
-[ReliefWeb] q='PPP' → 0 returned
-[ReliefWeb] q='concessional' → 0 returned
-[ReliefWeb] q='DFI' → 0 returned
-[ReliefWeb] q='Lusophone' → 0 returned
-[ReliefWeb] q='Angola' → 0 returned
-[ReliefWeb] q='Mozambique' → 6 returned
-[ReliefWeb] q='advisor Africa' → 38 returned
-[ReliefWeb] q='financial advisor' → 38 returned
-[ReliefWeb] q='feasibility' → 0 returned
-[ReliefWeb] q='investment memorandum' → 1 returned
-[ReliefWeb] q='climate finance' → 32 returned
-[ReliefWeb] unique total: 232
+[ReliefWeb] q='catalytic' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='blended finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='results-based' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='innovative financing' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='investment officer' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='investment advisor' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='structuring' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='project finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='transaction advisor' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='capacity building' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='executive training' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='budget planning' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='finance consultant' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='development finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='PPP' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='concessional' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='DFI' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='Lusophone' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='Angola' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='Mozambique' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='advisor Africa' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='financial advisor' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='feasibility' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='investment memorandum' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='climate finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] unique total: 0
 [Greenhouse] Instiglio (instiglio) → 6 jobs
 [Greenhouse] Acumen (acumen) → 9 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 41 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 64
-Raw new opportunities: 296
-Pipeline: 928 total (+6 new, 290 updated)
+Raw new opportunities: 64
+Pipeline: 928 total (+0 new, 64 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-06-03T18:05:18.607070+00:00 ===
+=== Run end: 2026-06-04T10:13:01.423707+00:00 ===

@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-03T18:05:18.470252+00:00",
-  "last_run_local": "2026-06-03 18:05 UTC",
-  "runs_count": 88,
+  "last_run_iso": "2026-06-04T10:13:01.286730+00:00",
+  "last_run_local": "2026-06-04 10:13 UTC",
+  "runs_count": 89,
   "opportunities": [
     {
       "id": "rw-4213982",
@@ -2304,6 +2304,31 @@
       "first_seen": "2026-04-28T10:07:22.044710+00:00"
     },
     {
+      "id": "gh-7975752",
+      "title": "Recruitment Intern",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7975752",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Nairobi, Kenya",
+      "job_type": "POP - Recruitment",
+      "category": "POP - Recruitment",
+      "posted": "2026-06-03T20:28:21-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Young Professionals Program</h3>\n<p>One Acre Fund’s Young Professionals Program offers high-performing African graduates meaningful internships and training opportunities at a high-performing, mission-driven organization. Our internships are paid and all interns can expect to receive substantive work assignments working on high-impact projects that support One Acre Fund's operations.</p>\n<p>When joining, interns will participate in an onboarding program and receive training on how to design and execute projects. Over the period of your internship, you will get the opportunity to work with like-minded individuals and receive learning opportunities to build strong foundations for your future career.&nbsp;</p>\n<h3>About the Role</h3>\n<p>The Global Recruitment Intern will be a member of our Global Recruitment Team. You will support the Operations sub-team. You will report to the Recruitment Senior Coordinator, and you will also collaboratively work with others on the global team.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>You will complete recurring tasks to keep our recruitment operations running with minimal errors.</li>\n<li>You will oversee the candidate screening and selection ",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-02T10:56:35.925582+00:00"
+    },
+    {
       "id": "rw-4214170",
       "title": "Monitoring, Evaluation, Research and Learning (MERL) Officer",
       "url": "https://reliefweb.int/node/4214170",
@@ -2327,31 +2352,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-02T10:56:35.925317+00:00"
-    },
-    {
-      "id": "gh-7975752",
-      "title": "Recruitment Intern",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7975752",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Nairobi, Kenya",
-      "job_type": "POP - Recruitment",
-      "category": "POP - Recruitment",
-      "posted": "2026-06-02T01:38:50-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Young Professionals Program</h3>\n<p>One Acre Fund’s Young Professionals Program offers high-performing African graduates meaningful internships and training opportunities at a high-performing, mission-driven organization. Our internships are paid and all interns can expect to receive substantive work assignments working on high-impact projects that support One Acre Fund's operations.</p>\n<p>When joining, interns will participate in an onboarding program and receive training on how to design and execute projects. Over the period of your internship, you will get the opportunity to work with like-minded individuals and receive learning opportunities to build strong foundations for your future career.&nbsp;</p>\n<h3>About the Role</h3>\n<p>The Global Recruitment Intern will be a member of our Global Recruitment Team. You will support the Operations sub-team. You will report to the Recruitment Senior Coordinator, and you will also collaboratively work with others on the global team.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>You will complete recurring tasks to keep our recruitment operations running with minimal errors.</li>\n<li>You will oversee the candidate screening and selection ",
-      "scores": {
-        "A_BlendedCatalyticFinance": 3,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.5,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-02T10:56:35.925582+00:00"
     },
     {
       "id": "rw-4212248",
@@ -23204,6 +23204,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 6,
-  "last_updated": 290
+  "last_added": 0,
+  "last_updated": 64
 }
