@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-10T16:45:20.523635+00:00",
-  "last_run_local": "2026-06-10 16:45 UTC",
-  "runs_count": 102,
+  "last_run_iso": "2026-06-11T10:59:18.299765+00:00",
+  "last_run_local": "2026-06-11 10:59 UTC",
+  "runs_count": 103,
   "opportunities": [
     {
       "id": "rw-4215237",
@@ -2954,6 +2954,31 @@
       "first_seen": "2026-04-28T10:07:22.044784+00:00"
     },
     {
+      "id": "gh-7597968",
+      "title": "Tupande MEL Manager",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7597968",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Kakamega, Kenya",
+      "job_type": "BOS - Back Office Systems",
+      "category": "BOS - Back Office Systems",
+      "posted": "2026-06-11T05:11:10-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<p>Our Kenya program, founded in 2006, operates under the local brand Tupande. Close to 500 staff in our Kakamega headquarters support 1,747 field staff and serve more than 1 million farmers. In Nairobi, around 50 staff support global functions like procurement, recruitment, government relations, and communications</p>\n<h3>About the Role</h3>\n<p>The Tupande MEL Manager will be responsible for overseeing all Monitoring, Evaluation and Learning (MEL) functions within Tupande. This includes managing and overseeing all ongoing and future MEL projects in the country, ensuring they meet the needs of various stakeholders, including in-country teams, Global MEL and other global teams, and various donors. Additionally, the Tupande MEL Manager will play a key role in contributing to thought leadership within Tupande, particularly focusing on data quality initiatives that support and advance Tupande’s vision as well as the Tupande Impact Plan.</p>\n<h3>Responsibilities</h3>\n<p><strong>Directly Oversees MEL Strategy and Execution within Tupande</strong></p>\n<ul>\n<li>Independently lead in-country or program-level impact evaluation and studies of interest to the program. Represent MEL work within Tupan",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.2,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725479+00:00"
+    },
+    {
       "id": "rw-4215176",
       "title": "Field Officer (MHPSS) - BARMM/Region XII (Filipino Nationals Only)",
       "url": "https://reliefweb.int/node/4215176",
@@ -3429,31 +3454,6 @@
       "first_seen": "2026-04-24T14:54:25.725488+00:00"
     },
     {
-      "id": "gh-7597968",
-      "title": "Tupande MEL Manager",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7597968",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Kakamega, Kenya",
-      "job_type": "BOS - Back Office Systems",
-      "category": "BOS - Back Office Systems",
-      "posted": "2026-03-05T07:25:32-05:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<p>Our Kenya program, founded in 2006, operates under the local brand Tupande. Close to 500 staff in our Kakamega headquarters support 1,747 field staff and serve more than 1 million farmers. In Nairobi, around 50 staff support global functions like procurement, recruitment, government relations, and communications</p>\n<h3>About the Role</h3>\n<p>The Tupande MEL Manager will be responsible for overseeing all Monitoring, Evaluation and Learning (MEL) functions within Tupande. This includes managing and overseeing all ongoing and future MEL projects in the country, ensuring they meet the needs of various stakeholders, including in-country teams, Global MEL and other global teams, and various donors. Additionally, the Tupande MEL Manager will play a key role in contributing to thought leadership within Tupande, particularly focusing on data quality initiatives that support and advance Tupande’s vision as well as the Tupande Impact Plan.</p>\n<h3>Responsibilities</h3>\n<p><strong>Directly Oversees MEL Strategy and Execution within Tupande</strong></p>\n<ul>\n<li>Independently lead in-country or program-level impact evaluation and studies of interest to the program. Represent MEL work within Tupan",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 1,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.2,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725479+00:00"
-    },
-    {
       "id": "gh-7297242",
       "title": "Burundi Impact Lead",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7297242",
@@ -3477,6 +3477,56 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
+    },
+    {
+      "id": "gh-7760636",
+      "title": "Global Safety Nets and Microinsurance Senior Associate (Fixed-Term)",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7760636",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Nairobi, Kenya or Kigali, Rwanda",
+      "job_type": "INN - Product Innovations",
+      "category": "INN - Product Innovations",
+      "posted": "2026-06-11T03:59:38-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.</p>\n<p>To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>The Global Safety Nets and Microinsurance Senior Associate is a high-agility role responsible for the end-to-end design, piloting, and initial setup of household microinsurance and safety net products. This role bridges the gap between high-level strategy and ground-level execution, conducting field research, managing external partners, and leading pilots during the critical innovation phase.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li><strong>Lead Market Entry &amp; Opportunity Scoping</strong></li>\n<ul>\n<li>Conduct deep-dive market assessments and farmer needs analyses to evaluate the viability of microinsurance and safety net interventions in new markets.</li>\n<li>Identify high-impact opportunities and define entry strategies for pre-scale programs.</li>\n</ul>\n<li><strong>Drive Product Innovation &amp; Design</strong></li>\n<ul>\n<li>Lead end-to-end design of innovative financial protection products, translating complex risk and insurance concepts into simple, farmer-centric solutions.</li>\n<li>Rapidly prototype, test, and iterate products based on field insights and user feedback.</li>\n</ul>\n<li><strong>Own Pilot Execution &amp; Program Delivery</strong></li>\n<u",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725407+00:00"
+    },
+    {
+      "id": "gh-7958003",
+      "title": "Creative Lead",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7958003",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Flexible, Countries of Operations",
+      "job_type": "COM - Communications",
+      "category": "COM - Communications",
+      "posted": "2026-06-11T00:51:09-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Our Creative Lead will work as a deputy to our Creative Director on our Global Communications team, and will manage the Global Comms team support request systems and oversee all incoming creative requests, delegating those out to team units and helping ensure the team is upkeeping our SLAs and quality. They will be a strong contributor to creative brainstorms and ideation, will support the organization’s brand management, and will review all creative content for quality, holding last line creative reviews for Tier 2 and Tier 3 content.<br>This position will also manage and be responsible for the professional development of a creative team of ~5 people working on graphic design and video, directly managing ~3 reports.</p>\n<h3>Responsibilities</h3>\n<p>Creative Content Quality Review &amp; Brand Management</p>\n<ul>\n<li>Hold quality bar and last line reviews for Tier 2 and Tier 3 creative content running through Global Comms</li>\n<ul>\n<li>Review and give feedback to improve quality on writing, design, photography, and video</li>\n<li>Accountable for final sign off on Tier 2 and Tier 3 content before it’s published</li>\n<li>Engage in brand building and advising for n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-11T10:59:18.299716+00:00"
     },
     {
       "id": "gh-7984655",
@@ -4727,31 +4777,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725438+00:00"
-    },
-    {
-      "id": "gh-7760636",
-      "title": "Global Safety Nets and Microinsurance Senior Associate (Fixed-Term)",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7760636",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Nairobi, Kenya or Kigali, Rwanda",
-      "job_type": "INN - Product Innovations",
-      "category": "INN - Product Innovations",
-      "posted": "2026-03-27T07:47:38-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.</p>\n<p>To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>The Global Safety Nets and Microinsurance Senior Associate is a high-agility role responsible for the end-to-end design, piloting, and initial setup of household microinsurance and safety net products. This role bridges the gap between high-level strategy and ground-level execution, conducting field research, managing external partners, and leading pilots during the critical innovation phase.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li><strong>Lead Market Entry &amp; Opportunity Scoping</strong></li>\n<ul>\n<li>Conduct deep-dive market assessments and farmer needs analyses to evaluate the viability of microinsurance and safety net interventions in new markets.</li>\n<li>Identify high-impact opportunities and define entry strategies for pre-scale programs.</li>\n</ul>\n<li><strong>Drive Product Innovation &amp; Design</strong></li>\n<ul>\n<li>Lead end-to-end design of innovative financial protection products, translating complex risk and insurance concepts into simple, farmer-centric solutions.</li>\n<li>Rapidly prototype, test, and iterate products based on field insights and user feedback.</li>\n</ul>\n<li><strong>Own Pilot Execution &amp; Program Delivery</strong></li>\n<u",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725407+00:00"
     },
     {
       "id": "gh-7737980",
@@ -10252,6 +10277,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.045074+00:00"
+    },
+    {
+      "id": "rw-4215773",
+      "title": "Administration & Procurement Officer, Solomon Islands",
+      "url": "https://reliefweb.int/node/4215773",
+      "source": "ReliefWeb",
+      "publisher": "DT Global",
+      "country": "Solomon Islands",
+      "job_type": "Job",
+      "category": "Logistics/Procurement",
+      "posted": "2026-06-10T22:53:32+00:00",
+      "closing": "2026-06-24T00:00:00+00:00",
+      "description": "<p><strong>Program Background</strong></p>\n<p>Pacific Australia Skills is a significant Australian investment which stands to make a major contribution to supporting social and economic growth in the region through strengthening the skills and training sector across the Pacific and Timor-Leste. Pacific Australia Skills builds on the achievements of 17 years of Australian Government support for skills and training in the Pacific.</p>\n<p><strong>About DT Global Asia Pacific</strong></p>\n<p>At DT Global Asia Pacific, we aim to positively impact people’s lives through delivery excellence. As a leading implementing partner across Asia and the Pacific, we co-create locally led solutions in partnership with governments, communities, and stakeholders. We bring together talented teams and deep regional expertise to deliver initiatives that promote inclusive economic growth, essential services, and resilient, secure communities. With over 1,500 staff, experts in 22+ countries and more than 60 years of development experience, we tackle complex community, national and transnational challenges — from governance and justice systems to climate resilience, infrastructure and social equity — with innovative thinking and a commitment to long-term impact.</p>\n<p>For more information, please see <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.dt-global.com/\">www.dt-global.com</a></p>\n<p><strong>The Role</strong></p>\n<p>The Administration and Procurement Officer play a key role in delivering efficient and comprehensive administrative and procurement support to the Solomon Islands Country Office staff and Learners of the Pacific Australia Skills program.</p>\n<p>This position is responsible for a broad range of functions, including administrative support services, sourcing and procurement activities, and records management. The role ensures that all operations are carried out in compliance with Pacific Australia Skills policies, procedures, and work instructions, while contributing to a well-organised, responsive, and effective office environment.</p>\n<p><strong>Responsibilities will include:</strong></p>\n<ul>\n<li>Administer office operations, including records management, staff amenities, stationery, and office supplies.</li>\n<li>Maintain efficient filing and document management systems.</li>\n<li>Prepare correspondence, reports, and administrative documentation.</li>\n<li>Support human resource administration, including onboarding and leave tracking.</li>\n<li>Coordinate travel arrangements, visas, and accommodation for staff and consultants.</li>\n<li>Provide logistical and administrative support for meetings, workshops, graduations, and other events.</li>\n<li>Undertake general administrative and clerical duties to support office operations.</li>\n<li>Implement procurement activities in accordance with DFAT and DT Global policies and procedures.</li>\n<li>Prepare procurement documentation, including RFQs, RFPs, bid evaluations, and purchase requisitions.</li>\n<li>Source suitable suppliers, obtain and evaluate quotations, and select vendors based on best value for money.</li>\n<li>Support contract administration and generate purchase orders.</li>\n<li>Maintain supplier databases and effectively manage vendor relationships.</li>\n<li>Monitor procurement activities and maintain complete and accurate records.</li>\n<li>Manage assets by maintaining an accurate asset register, tracking distribution, and supporting regular audits to ensure accountability and compliance.</li>\n<li>Ensure proper receipt, secure storage, and timely distribution of training materials to meet operational needs.</li>\n<li>Arrange shipping and customs clearance of program materials where require.</li>\n<li>Review and replenish first aid and emergency kits.</li>\n<li>Support office insurance and security arrangements.</li>\n<li>Coordinate classroom and venue bookings and provide administrative support to training activities.</li>\n<li>Assist with the procurement and distribution of stationery, uniforms, and PPE to learners.</li>\n<li>Coordinate the set-up of equipment and resources for training and events.</li>\n<li>Provide responsive operational support to technical and program teams.</li>\n<li>Liaise with staff, consultants, suppliers, and service providers.</li>\n<li>Contribute to continuous improvement of administrative and procurement systems and processes.</li>\n<li>Comply with relevant Pacific Australia Skills codes of conduct and report workplace health and safety (WHS) incidents and arrange first aid treatment when necessary.</li>\n</ul>\n<p><strong>Selection Criteria</strong></p>\n<ul>\n<li>Post-secondary qualification in finance, business administration, or related field.</li>\n<li>Demonstrated experience in finance or administration roles in a busy organisational environment.</li>\n<li>Strong organisational and time-management skills, with ability to prioritise and meet deadlines.</li>\n<li>Demonstrated ability to work collaboratively as part of a small team and provide cross-functional support.</li>\n<li>Experience working with financial systems and/or asset management systems.</li>\n<li>Understanding of procurement principles processed and best practises.</li>\n<li>Proficiency in Microsoft Office (Word, Excel, Outlook, PowerPoint).</li>\n<li>Experience working in a donor funded program.</li>\n<li>Understanding of and commitment to Gender Equality, Disability and Social Inclusion (GEDSI), Child Protection, Prevention of Sexual Exploitation, Abuse and Harassment (PSEAH), prevention of human trafficking, environmental protection, anti-corruption and other DFAT safeguarding policies.</li>\n</ul>\n<p><em><strong>Essential Experience and Knowledge</strong></em></p>\n<ul>\n<li>Experience working in the education, training, or development sector.</li>\n<li>DT Global strongly encourages applications from individuals with diverse backgrounds including first nations, diverse SOGIESC and people with disabilities.</li>\n</ul>\n<p>Click on the link or copy paste it to access the full Terms of Reference for this position: <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://tinyurl.com/2fwm8eyk\">https://tinyurl.com/2fwm8eyk</a></p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.3,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-11T10:59:18.299518+00:00"
     },
     {
       "id": "rw-4215743",
@@ -18354,6 +18404,56 @@
       "first_seen": "2026-04-28T10:07:22.044913+00:00"
     },
     {
+      "id": "rw-4215811",
+      "title": "Call for Application-Consultant for Conducting Counselling Sessions for Potential and Return Migrants",
+      "url": "https://reliefweb.int/node/4215811",
+      "source": "ReliefWeb",
+      "publisher": "International Organization for Migration",
+      "country": "Pakistan",
+      "job_type": "Consultancy",
+      "category": "Program/Project Management",
+      "posted": "2026-06-11T06:51:25+00:00",
+      "closing": "2026-06-22T00:00:00+00:00",
+      "description": "<p>Pakistan remains one of the major labour-sending countries globally, with a significant number of Pakistani nationals seeking overseas employment opportunities every year. Most migration from Pakistan is driven by the search for decent work and improved economic opportunities. However, limited awareness regarding available skills development opportunities, regular migration pathways, entrepreneurship support, and financial services continues to affect potential and returning migrants, particularly youth from vulnerable communities.</p>\n<p>To support safe, orderly, and regular migration, the International Organization for Migration (IOM), under the project “Improving Access to Skills Development and Employment Opportunities for Labour Migrants from Pakistan”, is implementing interventions aimed at strengthening access to skills development and employability opportunities for returning and potential migrants. The project is implemented under the broader TVET Sector Support Programme.</p>\n<p>As part of Outcome 2 of the project, IOM is conducting career counselling sessions to improve awareness among potential and returning migrants regarding technical and vocational training opportunities, entrepreneurship support, micro-finance schemes, and regular migration pathways for skilled workers.</p>\n<p>The counselling sessions are intended to support participants in making informed decisions related to skills development, employability, and overseas employment opportunities through regular channels. The sessions also aim to strengthen understanding of labour market requirements, available government and private sector training programmes, and pathways for skill-based migration.</p>\n<h2><strong>Responsibilities</strong></h2>\n<p><strong>S.No</strong></p>\n<p><strong>Deliverable</strong></p>\n<p><strong>Timeline</strong></p>\n<ol>\n<li>Develop session plans, presentations, and counselling materials for career counselling sessions.</li>\n</ol>\n<p>1st week after the signing of the contract</p>\n<p>2. Conduct eight counselling sessions. Submit pre and post evaluation, attendance sheets and session report</p>\n<p>2 months after the signing of the contract</p>\n<p>3.Conduct seven counselling sessions. Submit pre and post evaluation, attendance sheets and final report.</p>\n<p>4 months after the signing of contract</p>\n<h2><strong>Qualifications</strong></h2>\n<ul>\n<li>At least 3–5 years of professional experience in career counselling, labour migration, skills development, youth engagement, or related fields.</li>\n<li>Demonstrated experience in conducting trainings, counselling sessions, or community outreach activities.</li>\n<li>Strong understanding of labour migration dynamics, skills development systems, and overseas employment processes in Pakistan.</li>\n<li>Familiarity with TVET programmes, employability initiatives, and entrepreneurship support mechanisms.</li>\n<li>Excellent communication, facilitation, and reporting skills.</li>\n<li>Experience working with government institutions, migrants, youth, and vulnerable communities will be an asset.</li>\n<li><strong>Languages</strong></li>\n<li>For this consultancy, English and Urdu are required.</li>\n<li>Proficiency of language(s) required will be specifically evaluated during the selection process, which may include written and/or oral assessments.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-11T10:59:18.299620+00:00"
+    },
+    {
+      "id": "rw-4215806",
+      "title": "21360 Resources Management Officer (P) - Call for Expression of Interest",
+      "url": "https://reliefweb.int/node/4215806",
+      "source": "ReliefWeb",
+      "publisher": "International Organization for Migration",
+      "country": "Guyana",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-06-11T06:12:01+00:00",
+      "closing": "2026-06-16T00:00:00+00:00",
+      "description": "<p><strong>Organizational Context and Scope</strong></p>\n<p>Under the direct supervision of the Chief of Mission (COM) and in close coordination with the Senior Regional Resources Management Officer (SRRMO) in the Regional Office (RO), the Department of Financial and Administrative Management (DFM) at Headquarters (HQ) and the Global Shared Services Centre (GSSC), the Resources Management Officer will be responsible and accountable for supervising and managing the budgetary, financial, human resources and other administrative functions of Guyana Country Office and/or Sub-Office(s) and providing support in these areas to staff.</p>\n<p><strong>Responsibilities</strong></p>\n<p>1. Monitor and oversee the financial management for all activities in the Country Office (CO), including the oversight of financial expenditure and accountability. In coordination with the CoM and the SRRMO, undertake financial analysis of all CO activities.</p>\n<p>2. Supervise the management of the treasury by forecasting cash flows according to CO and Sub-Office activities. Monitor and control funds disbursed; validate that funding is received and disbursed in accordance with donor agreements.</p>\n<p>3. Prepare programme and budget reports in accordance with IOM regulations and established procedures. Review monthly accounts of the Country Office.</p>\n<p>4. Prepare relevant financial analysis of projects, oversee the budget control process, and analyse variances between budget and actual expenditures. Take proactive action to prevent projects from going into deficit.</p>\n<p>5. Assist the CoM and Project Managers in the preparation of budgets for new projects and programmes.</p>\n<p>6. Provide technical support to project managers throughout the cycle to ensure compliance with the general instructions of the International Organization for Migration (IOM) and relevant permanent instructions for the whole CO, namely in the areas of general administration, finance, and human resources.</p>\n<p>7. Maintain and further strengthen appropriate internal controls to safeguard the Organization’s assets, cash, and prevent fraud.</p>\n<p>8. Inspect payroll versus budgets, validate that salaries are correctly allocated to projects consistent with IOM’s projectization criteria.</p>\n<p>9. Review existing systems and procedures and, if necessary, recommend possible improvements to strengthen internal monitoring, evaluation, and control systems and improve efficiency and effectiveness.</p>\n<p>10. Manage the Human Resources function and make recommendations on recruitment and personnel administration of staff in the Country Office. Correctly apply Human Resources (HR) policies, rules, and regulations and make recommendations for resolving difficult or sensitive cases in consultation with the CoM and SRRMO.</p>\n<p>11. Oversee the Supply Chain services, including contracts with suppliers of goods and services and related administrative authorities; oversee the management of the fleet of vehicles and the maintenance of the premises, as well as the functioning of all support services at the Country Office.</p>\n<p>12. Liaise and coordinate with The Office of Legal Affairs (LEG) and Global Procurement Supply Unit (GPSU) as needed for the review and approval of agreements and Purchase Orders (POs) (lease, construction, service, and agreements with implementing partners (IPs)) before signature, and make sure IOM procedures are followed in the selection of partners and service providers.</p>\n<p>13. Supervise Information and Communications Technology (ICT) staff to ensure compliance with relevant IOM standards, processes, rules, and regulations.</p>\n<p>14. Supervise and train local staff on IOM's administrative/financial policies and procedures.</p>\n<p>15. Participate in United Nations (UN) meetings such as the UN Operations Management Team (OMT) or ONE UN working groups when required.</p>\n<p>16. Serve as Officer-in-Charge (OiC) of the Country Office in the absence of the CoM.</p>\n<p>17. Perform such other duties as may be assigned.</p>\n<p><strong>Qualifications</strong></p>\n<p><strong>Required Qualifications and Experience</strong></p>\n<p><strong>Education</strong></p>\n<ul>\n<li>Master’s degree in Finance, Accounting, Business Administration, Management, or a related field from an accredited academic institution with five years of relevant professional experience; or,</li>\n<li>University degree in the above fields with seven years of relevant professional experience.</li>\n<li>Professional certification as a Chartered Accountant (CA) or Certified Public Accountant (CPA), Chartered Institute of Management Accountants (CIMA), or Association of Chartered Certified Accountants (ACCA) is an advantage.</li>\n</ul>\n<p>Accredited Universities are those listed in the <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://whed.net/home.php\">UNESCO World Higher Education Database.</a></p>\n<p><strong>Experience</strong></p>\n<ul>\n<li>Experience in Financial and Human Resources Management at the international level;</li>\n<li>Field experience, including coordination and cooperation with international institutions and coordination bodies;</li>\n<li>Experience in supervising the development and implementation of administrative control procedures, coordinating external auditing exercises; and,</li>\n<li>Experience using corporate IT systems and software.</li>\n</ul>\n<p><strong>Skills</strong></p>\n<ul>\n<li>Knowledge of IOM/UN Finance, Supply Chain, and HR procedures and rules;</li>\n<li>Advanced knowledge of Microsoft Office, especially Excel;</li>\n<li>Knowledge of International Public Sector Accounting Standards (IPSAS); and,</li>\n<li>Knowledge of Oracle is highly desirable.</li>\n</ul>\n<p><strong>Languages</strong></p>\n<p>All IOM staff members in all categories are required to be fluent in one of the IOM's official languages (English, French, Spanish).</p>\n<p>For this position, fluency in English is required (oral and written).</p>\n<p>Working knowledge of another official UN language (Arabic, Chinese, French, Russian, and Spanish) is an advantage.</p>\n<p>Proficiency of language(s) required will be specifically evaluated during the selection process, which may include written and/or oral assessments.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-11T10:59:18.299484+00:00"
+    },
+    {
       "id": "rw-4215625",
       "title": "Senior HR Officer - National Post",
       "url": "https://reliefweb.int/node/4215625",
@@ -23188,7 +23288,7 @@
       "job_type": "Job",
       "category": "Program/Project Management",
       "posted": "2026-05-29T15:00:49+00:00",
-      "closing": "2026-06-08T00:00:00+00:00",
+      "closing": "2026-06-17T00:00:00+00:00",
       "description": "<p>Location: Oxford/Hybrid</p>\n<p>The Business Development Coordinator is part of Mokoro’s small, collaborative Business Support team, with responsibility for leading business development activities across the consultancy portfolio.</p>\n<p>The role requires strong coordination, writing and relationship management skills, alongside the<br />\nability to identify opportunities, develop high-quality proposals, and strengthen Mokoro’s<br />\nnetworks and partnerships.</p>\n<p>Duties:</p>\n<ul>\n<li>Coordinate the identification and pursuit of relevant business opportunities aligned with Mokoro’s strategic priorities</li>\n<li>Coordinate the preparation of competitive tenders and proposals, including drafting high quality submissions and coordinating inputs from colleagues and partners</li>\n<li>Develop assignment budgets as part of proposal preparation, ensuring alignment with company practice and financial targets</li>\n<li>Build and maintain Mokoro’s network of consultants, including identifying and engaging with new consultants and nurturing relationships with existing Principal Consultants and Associates to support current and future opportunities</li>\n<li>Develop and manage relationships with clients and delivery partners, including existing consortium partners, to support successful bids and ongoing collaboration</li>\n<li>Represent Mokoro in external meetings, events and engagements with partners and clients</li>\n<li>Maintain and improve business development systems and processes, including the<br />\nconsultant database</li>\n<li>Promote effective use of tools and innovation to enhance proposal development<br />\nprocesses</li>\n</ul>\n",
       "scores": {
         "A_BlendedCatalyticFinance": 0,
@@ -26804,6 +26904,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 16,
-  "last_updated": 291
+  "last_added": 4,
+  "last_updated": 302
 }
