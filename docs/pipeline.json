@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-12T10:41:11.833526+00:00",
-  "last_run_local": "2026-06-12 10:41 UTC",
-  "runs_count": 105,
+  "last_run_iso": "2026-06-12T16:28:53.173442+00:00",
+  "last_run_local": "2026-06-12 16:28 UTC",
+  "runs_count": 106,
   "opportunities": [
     {
       "id": "rw-4215237",
@@ -3529,6 +3529,31 @@
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
     },
     {
+      "id": "gh-7957990",
+      "title": "Video Editor",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7957990",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Flexible, Countries of Operations",
+      "job_type": "COM - Communications",
+      "category": "COM - Communications",
+      "posted": "2026-06-12T10:44:43-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>This role is a combination video editor and videographer who will produce professional quality videos for One Acre Fund’s training programs, marketing, fundraising, and brand campaigns all of which will focus on driving impact for farmers, especially youth and women. This work will combine storytelling, social behavior change, and marketing skillsets to support One Acre Fund to share compelling impact stories. Your focus will be to capture farmer stories that demonstrate the impact of One Acre Fund’s work both on an individual and generational level.</p>\n<h3>Responsibilities</h3>\n<p>Professional Quality, On Brand, Storytelling Film Production</p>\n<ul>\n<li>Capture high quality, engaging and emotive video and audio using DSLR and phone cameras</li>\n<li>Coordinating and directing video shoots in all countries of operation, working with local teams</li>\n</ul>\n<p>Professional Quality, On Brand, Storytelling Video Editing</p>\n<ul>\n<li>Building storyboards and scripts to match a brief after a shoot</li>\n<li>Subtitling videos in 7 or more different languages</li>\n<li>Re-cuttng videos to serve multiple purposes</li>\n<li>On-brand, bespoke motion graphics work</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-12T10:41:11.833514+00:00"
+    },
+    {
       "id": "gh-7725455",
       "title": "Global Procurement Senior Associate",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7725455",
@@ -3552,31 +3577,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725403+00:00"
-    },
-    {
-      "id": "gh-7957990",
-      "title": "Video Editor",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7957990",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Flexible, Countries of Operations",
-      "job_type": "COM - Communications",
-      "category": "COM - Communications",
-      "posted": "2026-06-11T19:30:28-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>This role is a combination video editor and videographer who will produce professional quality videos for One Acre Fund’s training programs, marketing, fundraising, and brand campaigns all of which will focus on driving impact for farmers, especially youth and women. This work will combine storytelling, social behavior change, and marketing skillsets to support One Acre Fund to share compelling impact stories. Your focus will be to capture farmer stories that demonstrate the impact of One Acre Fund’s work both on an individual and generational level.</p>\n<h3>Responsibilities</h3>\n<p>Professional Quality, On Brand, Storytelling Film Production</p>\n<ul>\n<li>Capture high quality, engaging and emotive video and audio using DSLR and phone cameras</li>\n<li>Coordinating and directing video shoots in all countries of operation, working with local teams</li>\n</ul>\n<p>Professional Quality, On Brand, Storytelling Video Editing</p>\n<ul>\n<li>Building storyboards and scripts to match a brief after a shoot</li>\n<li>Subtitling videos in 7 or more different languages</li>\n<li>Re-cuttng videos to serve multiple purposes</li>\n<li>On-brand, bespoke motion graphics work</li>\n</ul>\n",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-12T10:41:11.833514+00:00"
     },
     {
       "id": "gh-7992768",
@@ -11454,6 +11454,31 @@
       "first_seen": "2026-06-01T12:11:07.641537+00:00"
     },
     {
+      "id": "gh-7771630003",
+      "title": "Staff Software Engineer, Platform",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7771630003",
+      "source": "Greenhouse",
+      "publisher": "Branch International",
+      "country": "Remote, US",
+      "job_type": "Engineering",
+      "category": "Engineering",
+      "posted": "2026-06-12T09:59:36-04:00",
+      "closing": null,
+      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\"><span class=\"fabric-text-color-mark\" data-renderer-mark=\"true\" data-text-custom-color=\"#1b1c1d\">About the role:</span></strong></p>\n<p data-renderer-start-pos=\"18\"><span class=\"fabric-text-color-mark\" data-renderer-mark=\"true\" data-text-custom-color=\"#1b1c1d\">The Staff Software Engineer will play a critical role in designing, developing, and maintaining Branch’s core components on our Payouts team. This senior technical leader will be responsible for driving engineering excellence, solidifying architectural direction, and mentoring other engineers. The Staff Software Engineer will work on complex problems, influence technical decisions across teams, and ensure our systems are scalable, reliable, and performant.</span></p>\n<p data-renderer-start-pos=\"454\"><strong data-",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-12T16:28:53.173438+00:00"
+    },
+    {
       "id": "rw-4215651",
       "title": "WASH Project Manager – Syria / Yemen",
       "url": "https://reliefweb.int/node/4215651",
@@ -13452,6 +13477,56 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
+    },
+    {
+      "id": "rw-4216077",
+      "title": "South Sudan : Country Finance Manager – Juba",
+      "url": "https://reliefweb.int/node/4216077",
+      "source": "ReliefWeb",
+      "publisher": "Agency for Technical Cooperation and Development",
+      "country": "South Sudan",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-06-12T14:52:58+00:00",
+      "closing": "2026-07-12T00:00:00+00:00",
+      "description": "<p><strong>Fixed term | 6 months | August 2026</strong></p>\n<h2>Acted</h2>\n<p><em><strong>Who we are</strong></em></p>\n<p>Acted works with 19 million people across 43 countries at the intersection of humanitarian, development, climate and environmental programming. We draw on deep contextual knowledge and embrace emerging technologies to save lives, alleviate suffering, and protect and restore our planet. Working in collaboration with a growing ecosystem of local, national and international partners, we pursue one shared objective: a 3Zero World – Zero Exclusion, Zero Carbon and Zero Poverty.</p>\n<p><em><strong>Who we are looking for</strong></em></p>\n<p>You bring the core competencies required for classical humanitarian and development work, alongside an active climate and environmental conscience, and you can navigate the challenges that arise when human and environmental suffering intersect. You have an entrepreneurial mindset: you see opportunities, connect dots, adapt your approach to different environments, and take measured risks in pursuit of results. You balance principles with pragmatism, and ambition with humility.</p>\n<h2>Acted South Sudan</h2>\n<p>Acted has operated in South Sudan since 2007 and currently implements multi-sector programmes across Western Bahr el Ghazal, Northern Bahr el Ghazal, Upper Nile, and the Greater Equatoria region. Acted’s portfolio balances life-saving humanitarian response with resilience and recovery programming, aligned with the Humanitarian–Development–Peace (HDP) nexus.</p>\n<p>Key pillars include:</p>\n<ul>\n<li>Emergencyresponse:WASH, shelter, and protection services in displacement-affected and return areas.</li>\n<li>Camp coordination &amp; border monitoringlinkedto regional displacement dynamics.</li>\n<li>Earlyrecovery&amp; resilience: climate-smart agriculture, Farmer Field Schools, natural resource management, and community-based savings mechanisms.</li>\n<li>Foodsecurity&amp; livelihoods through market-oriented and climate-adaptive approaches.</li>\n<li>Infrastructure &amp; servicerehabilitationto strengthen local systems.</li>\n<li>Community-ledgovernance&amp; social cohesion as cross-cutting approaches.</li>\n</ul>\n<p>Through its THRIVE framework, Acted strengthens household and community resilience by linking immediate needs with long-term adaptive capacity, while ensuring strong community participation and local capacity building.</p>\n<h2>You will be in charge of</h2>\n<p>The Country Finance Manager (CFM) is a key member of the Management Team at country level. He/she will be responsible for Acted financial management in-country under the authority of the Country Director and Finance &amp; Administrative Director in HQ. The CFM ensures that national legislation is adhered to, and that Acted’s financial standards are applied in terms of accounting, financial control systems, internal / external reporting processes, in order to ensure an efficient use of resources. He/She leads, provides technical support and capacity building to the country finance and administrative staff. The CFM shall alert the Country Director and Finance Director in case some major problems arise with a potential financial impact on the mission.</p>\n<p><em><strong>Main duties</strong></em></p>\n<p>1. Accounting and treasury Management</p>\n<ul>\n<li><em>Accounting management – supervise the accounting cycle for the mission</em></li>\n<li><em>Treasury management – ensure a controlled and smooth cash management</em></li>\n</ul>\n<p>2. Commitment of expenditures, budget control, &amp; Financial Management</p>\n<ul>\n<li><em>Commitment of expenditure – guaranty budget availability and compliance to Acted and donor’s procedures before releasing payments</em></li>\n<li><em>Project budget follow-up, mission’s cost control, internal &amp; external audits – anticipate and mitigate financial risks ensuring operations are run in a compliant and cost-efficient manner</em></li>\n</ul>\n<p>3. Project financial cycle management</p>\n<ul>\n<li><em>Develop project budgets and reports – ensure the financial feasibility of projects, respecting Acted and donors’ rules and deadlines</em></li>\n</ul>\n<p>4. Team leadership &amp; other tasks</p>\n<h2>Expected skills and qualifications</h2>\n<ul>\n<li>Msc in Finance, Audit, Business Management, Economics or equivalent;</li>\n<li>3+ years of solid experience in financial &amp; budget management;</li>\n<li>Excellent financial and analytical skills;</li>\n<li>Excellent communication and drafting skills for effective reporting on programme financial performance;</li>\n<li>Ability to manage a financial team and demonstrate leadership;</li>\n<li>Ability to monitor and evaluate financial skills of teams through capacity-building efforts;</li>\n<li>Ability to undertake serious responsibilities and to manage stress efficiently;</li>\n<li>Ability to operate in a cross-cultural environment requiring flexibility;</li>\n<li>Prior knowledge of the region an asset.</li>\n</ul>\n<h2>Terms of reference</h2>\n<p>For more information about the position, <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.acted.org/wp-content/uploads/2026/06/cfm-ssd-2026.pdf\">click here </a>.</p>\n<h2>Conditions</h2>\n<ul>\n<li>Salary between 3700 and 3900€ monthly (before income tax), depending on the level of education, security level, etc as well as a monthly living allowance of $300</li>\n<li>Accommodation and food provided in Acted guesthouse</li>\n<li>Pension, health insurance, life insurance and repatriation assistance (&amp; unemployment insurance for EU citizens)</li>\n<li>Flight tickets every 6 months &amp; visa fees covered</li>\n<li>Contribution to the luggage transportation: up to 100 kgs, depending on the length of the contract</li>\n<li>R&amp;R every 3 months, flight tickets covered up to $500 and allowance of $200</li>\n<li>Annual leave of 25 to 43 days per year</li>\n<li>One week pre-departure training in Acted HQ, including a 4-days in situ security training</li>\n<li>Tax advice (free 30-minute call with a tax consultant)</li>\n<li>Psychological assistance</li>\n<li>This position is classified as an <strong>international staff position</strong> under Acted’s recruitment framework. Eligibility for an international contract is therefore required.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-12T16:28:53.173047+00:00"
+    },
+    {
+      "id": "gh-7771615003",
+      "title": "Senior Software Engineer, Platform",
+      "url": "https://job-boards.greenhouse.io/branch/jobs/7771615003",
+      "source": "Greenhouse",
+      "publisher": "Branch International",
+      "country": "Remote, US",
+      "job_type": "Engineering",
+      "category": "Engineering",
+      "posted": "2026-06-12T10:00:02-04:00",
+      "closing": null,
+      "description": "<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About us:</strong></p>\n<p data-renderer-start-pos=\"12\">Branch is on a mission to empower workers with financial freedom. We do this by helping companies accelerate payments and providing working Americans with accessible, free financial services. We’re committed to building and delivering more inclusive, transparent, and frictionless financial products.</p>\n<p data-renderer-start-pos=\"314\">Our goal of empowerment extends to our own employees, too. Have a great idea? Share it today and it might just get implemented tomorrow. As a member of our team, your voice and creativity matter—and they can directly impact our products, company, and culture.&nbsp;</p>\n<p data-renderer-start-pos=\"576\">We not only focus on attracting great talent from across the country, but also on building teams that help that talent thrive. That means valuing a diversity of opinions and working styles, while creating a shared belief in innovation, initiative, and winning together.</p>\n<p data-renderer-start-pos=\"847\">Come join our team as we develop new ways to improve the lives of working Americans.</p>\n<p data-renderer-start-pos=\"1\"><strong data-renderer-mark=\"true\">About the role:</strong></p>\n<p data-renderer-start-pos=\"18\">In this Senior Software Engineer role at Branch, you will be responsible for developing core components on one of our Engineering pods.&nbsp; The ideal candidate will have strong experience in Java and microservices, with a focus on designing and optimizing scalable backend services and RESTful APIs. This position requires a soli d foundation in computer science and a passion for upholding high engineering standards through code reviews and collaborative teamwork. &nbsp;</p>\n<p data-renderer-start-pos=\"475\"><strong data-renderer-mark=\"true\">Responsibilities include, but are not limited to:</strong></p>\n<ul>\n<li data-renderer-start-pos=\"528\">Measure and optimize the performance, scalability, and uptime of bac",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-12T16:28:53.173431+00:00"
     },
     {
       "id": "rw-4215915",
@@ -18805,7 +18880,7 @@
     },
     {
       "id": "rw-4215997",
-      "title": "Finance Manager Accounting and Partnership",
+      "title": "Finance Manager Accounting and Partnership (Responsable Financier – Comptabilité & Partenariats)",
       "url": "https://reliefweb.int/node/4215997",
       "source": "ReliefWeb",
       "publisher": "International Rescue Committee",
@@ -22811,7 +22886,7 @@
       "publisher": "Agency for Technical Cooperation and Development",
       "country": "Chad",
       "job_type": "Job",
-      "category": "",
+      "category": "Administration/Finance",
       "posted": "2026-06-12T10:35:23+00:00",
       "closing": "2026-07-12T00:00:00+00:00",
       "description": "<p><strong>Volontariat (CEV) | 6 mois | Août 2026</strong></p>\n<h2>Acted</h2>\n<p><em><strong>Qui sommes-nous</strong></em></p>\n<p>Acted travaille avec 19 millions de personnes dans 43 pays au carrefour de l’humanitaire, du développement, et des programmes climatiques et environnementaux. Grâce à une connaissance poussée des contextes et l’adoption de technologies émergentes, nous sauvons des vies, allégeons les souffrances, et protégeons et restaurons notre planète. Travaillant avec un écosystème croissant de partenaires locaux, nationaux et internationaux, nous poursuivons un objectif commun : un monde 3Zéro : Zéro Exclusion, Zéro Carbone, Zéro Pauvreté.</p>\n<p><em><strong>Qui cherchons-nous</strong></em></p>\n<p>Vous apportez les compétences clefs attendues d’un travailleur humanitaire et de développement, mais également une conscience climatique et environnementale active, et vous pouvez naviguez les défis qui émergent lorsque les souffrances environnementale et humaine se rencontrent. Vous avez l’esprit entrepreneurial : vous décelez les opportunités, connectez les points, adaptez votre approche aux différents environnements, et vous prenez des risques mesurés dans la poursuite de résultats. Vous alliez les principes au pragmatisme, et l’ambition à l’humilité.</p>\n<h2>Acted Tchad</h2>\n<p>Présente au Tchad, Acted intervient en faveur des populations vulnérables des Provinces du Lac et du Ouaddai, et à Ndjamena. En 2025, l’organisation a mis en oeuvre 11 projets pour un budget de 10.5 millions d’euros. Ses opérations sont coordonnées depuis NDjamena et implémentées à travers 4 bases terrain à Bol et Daboua au Lac, Adré et Chokoyan au Ouaddai.</p>\n<p>Au Lac, Acted soutient les personnes déplacées internes suite aux attaques des groupes armés à travers le mécanisme RRM, dont elle est co-lead, et assure l’assistance en sécurité alimentaire. Elle participe aussi à renforcer la résilience des populations dans le cadre de projets d’éducation, d’eau hygiène assainissement ou de moyens d’existence.</p>\n<p>Au Ouaddai, Acted s’est redéployée dès avril 2023 pour répondre à l’afflux sans précédent de réfugiés soudanais et retournés tchadiens fuyant les combats au Soudan. A travers une approche multisectorielle d’urgence en abris/AME, CCCM et Protection, Acted répond aux besoins vitaux des déplacés sur les sites informels et les camps d’accueil. Depuis 2025, Acted participe à renforcer la résilience économique des réfugiés Soudanais avec l’aide des communautés hôtes dans la préfecture de Chokoyan.</p>\n<p>Les actions d’Acted au Tchad reposent sur une expertise technique multisectorielle reconnue, une capacité de déploiement rapide, une approche basée sur les données, une forte acceptance locale, et la participation accrue des communautés.</p>\n<p>Au Ouaddai, Acted s’est redéployée dès avril 2023 pour répondre à l’afflux sans précédent de réfugiés soudanais et retournés tchadiens fuyant les combats au Soudan. A travers une approche multisectorielle d’urgence en abris/AME, CCCM et Protection, Acted répond aux besoins vitaux des déplacés sur les sites informels et les camps d’accueil.</p>\n<p>Enfin, Acted intervient régulièrement en réponse aux chocs cycliques, tels que la soudure et les inondations, particulièrement dévastatrices.</p>\n<p>Les actions d’Acted au Tchad reposent sur une expertise technique multisectorielle reconnue, une capacité de déploiement rapide, une approche basée sur les données, une forte acceptance locale, et la participation accrue des communautés.</p>\n<h2>Rôle et responsabilités principales</h2>\n<p>Sous l’autorité du responsable finances pays, le volontaire finances sera chargé d’assister l’équipe pays finances sur le contrôle financier interne de la mission. Plus spécifiquement il sera en charge de la vérification et du recoupement des données comptables (PRATIC), de la gestion financière et des outils de contrôle des données (TITANIC).</p>\n<p><em><strong>Principales responsabilités</strong></em></p>\n<p>1. Contribuer à la conformité comptable d’Acted</p>\n<p>2. Contrôle des outils mensuels de reporting</p>\n<ul>\n<li><em>Révision comptable</em></li>\n<li><em>Revue finances</em></li>\n<li><em>Contrôle des coûts</em></li>\n<li><em>RH suivi</em></li>\n</ul>\n<p>3. Apporter son aide aux tâches quotidiennes</p>\n<h2>Qualifications et compétences requises</h2>\n<ul>\n<li>Master en Finance, Audit, Business Management ou équivalent ;</li>\n<li>Compétences en finance et comptabilité ;</li>\n<li>Maîtrise de Microsoft Office, en particulier de Microsoft Excel (maîtrise des principales formules de gestion de base de données) ;</li>\n<li>Capacités à prendre des responsabilités et à travailler sous pression ;</li>\n<li>Excellentes qualités de communication, excellentes qualités rédactionnelles en français et en anglais ;</li>\n<li>Maîtrise totale du Pack Office.</li>\n</ul>\n<h2>Termes de référence</h2>\n<p>Pour plus d'informations sur le poste, <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.acted.org/wp-content/uploads/2026/06/cfv-tcd-2026.pdf\">cliquez ici </a>.</p>\n<h2>Conditions</h2>\n<p>Statut : volontaire (convention de stage non obligatoire)</p>\n<ul>\n<li>Living allowance de 300 USD</li>\n<li>Logement en guesthouse et nourriture pris en charge par Acted</li>\n<li>Sécurité sociale, mutuelle (MSH) et assistance rapatriement (SOS International) pris en charge par Acted</li>\n<li>Transport vers la mission et billet retour totalement pris en charge (vers l’adresse spécifiée sur le contrat de travail)</li>\n<li>Frais de visa pris en charge par Acted</li>\n<li>Une semaine de préparation au départ comprenant 4 jours de formation sécurité en immersion</li>\n<li>Soutien psychologique (rendez-vous avec un.e professionnel.le)</li>\n<li>Ce poste est classé comme un poste international dans la grille de recrutement d’Acted. L’éligibilité à un contrat international est donc requise.</li>\n</ul>\n",
@@ -27629,6 +27704,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 16,
-  "last_updated": 292
+  "last_added": 3,
+  "last_updated": 307
 }
