@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-17T11:18:19.618702+00:00",
-  "last_run_local": "2026-06-17 11:18 UTC",
-  "runs_count": 115,
+  "last_run_iso": "2026-06-17T16:44:23.444937+00:00",
+  "last_run_local": "2026-06-17 16:44 UTC",
+  "runs_count": 116,
   "opportunities": [
     {
       "id": "rw-4216560",
@@ -3854,6 +3854,31 @@
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
     },
     {
+      "id": "gh-7945276",
+      "title": "Burundi Inventory and Warehouse Operations Specialist",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7945276",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Burundi",
+      "job_type": "LOG - Logistics",
+      "category": "LOG - Logistics",
+      "posted": "2026-06-17T09:48:46-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<p>Our Burundi program, founded in 2011, operates under the local brand Tubura. 1662 staff serve close to 400,000 hard-working farmers. Our Burundi headquarters in Muramvya is supported by two regional offices in Gitega and Ngozi, and a small support office in Bujumbura. One Acre Fund works in the center and north of Burundi, in the provinces of Muramvya, Gitega, Ngozi, Kayanza, and Mwaro.</p>\n<h3>About the Role</h3>\n<p>Seeking a strategic logistics leader to design and scale inventory systems. Drive operational excellence and risk mitigation to increase impact per farmer and support nationwide growth through efficient warehouse operations.</p>\n<h3>Responsibilities</h3>\n<p>Inventory Management &amp; Controls</p>\n<ul>\n<li>Oversee inventory storage, handling, and control processes across all warehouses nationwide.</li>\n<li>Ensure warehouses are adequately equipped, resourced, and compliant with OAF operational and safety standards.</li>\n<li>Enforce and monitor 5S compliance across all warehouses, using 5S scores as a core performance metric.</li>\n<li>Monitor inventory quality and lead corrective actions to maintain product standards.</li>\n<li>Own inventory data accuracy by ensuring timely ",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-09T10:04:21.680123+00:00"
+    },
+    {
       "id": "gh-7978473",
       "title": "Networks Administrator",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7978473",
@@ -4052,31 +4077,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-10T10:35:17.609654+00:00"
-    },
-    {
-      "id": "gh-7945276",
-      "title": "Burundi Inventory and Warehouse Operations Specialist",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7945276",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Burundi",
-      "job_type": "LOG - Logistics",
-      "category": "LOG - Logistics",
-      "posted": "2026-06-16T06:01:38-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<p>Our Burundi program, founded in 2011, operates under the local brand Tubura. 1662 staff serve close to 400,000 hard-working farmers. Our Burundi headquarters in Muramvya is supported by two regional offices in Gitega and Ngozi, and a small support office in Bujumbura. One Acre Fund works in the center and north of Burundi, in the provinces of Muramvya, Gitega, Ngozi, Kayanza, and Mwaro.</p>\n<h3>About the Role</h3>\n<p>Seeking a strategic logistics leader to design and scale inventory systems. Drive operational excellence and risk mitigation to increase impact per farmer and support nationwide growth through efficient warehouse operations.</p>\n<h3>Responsibilities</h3>\n<p>Inventory Management &amp; Controls</p>\n<ul>\n<li>Oversee inventory storage, handling, and control processes across all warehouses nationwide.</li>\n<li>Ensure warehouses are adequately equipped, resourced, and compliant with OAF operational and safety standards.</li>\n<li>Enforce and monitor 5S compliance across all warehouses, using 5S scores as a core performance metric.</li>\n<li>Monitor inventory quality and lead corrective actions to maintain product standards.</li>\n<li>Own inventory data accuracy by ensuring timely ",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-09T10:04:21.680123+00:00"
     },
     {
       "id": "gh-7566356",
@@ -29504,6 +29504,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 19,
-  "last_updated": 285
+  "last_added": 0,
+  "last_updated": 62
 }
