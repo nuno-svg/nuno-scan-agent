@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-18T16:44:03.484243+00:00",
-  "last_run_local": "2026-06-18 16:44 UTC",
-  "runs_count": 118,
+  "last_run_iso": "2026-06-19T10:58:35.039979+00:00",
+  "last_run_local": "2026-06-19 10:58 UTC",
+  "runs_count": 119,
   "opportunities": [
     {
       "id": "rw-4216560",
@@ -3904,6 +3904,31 @@
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
     },
     {
+      "id": "gh-7958003",
+      "title": "Creative Lead",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7958003",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Flexible, Countries of Operations",
+      "job_type": "COM - Communications",
+      "category": "COM - Communications",
+      "posted": "2026-06-19T01:33:34-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Our Creative Lead will work as a deputy to our Creative Director on our Global Communications team, and will manage the Global Comms team support request systems and oversee all incoming creative requests, delegating those out to team units and helping ensure the team is upkeeping our Service Level Agreements on timelines, production processes, and quality. They will be a strong contributor to creative brainstorms and ideation, will support the organization’s brand management, and will review all creative content for quality, holding last line creative reviews.<br>This position will also manage and be responsible for the professional development of a creative team of ~5 people working on graphic design and video, directly managing ~3 reports.</p>\n<h3>Responsibilities</h3>\n<p>Creative Content Quality Review &amp; Brand Management</p>\n<ul>\n<li>Hold quality bar and last line reviews for some creative content by reviewing and give feedback to improve quality on writing, design, photography, and video</li>\n<li>Engage in brand building and advising for new affiliates within the org’s brand families</li>\n<li>Drive brand guideline expansions and evolutions to better se",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-11T10:59:18.299716+00:00"
+    },
+    {
       "id": "gh-7992176",
       "title": "Fertilizer Procurement Associate",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7992176",
@@ -4127,31 +4152,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725407+00:00"
-    },
-    {
-      "id": "gh-7958003",
-      "title": "Creative Lead",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7958003",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Flexible, Countries of Operations",
-      "job_type": "COM - Communications",
-      "category": "COM - Communications",
-      "posted": "2026-06-16T06:01:38-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Our Creative Lead will work as a deputy to our Creative Director on our Global Communications team, and will manage the Global Comms team support request systems and oversee all incoming creative requests, delegating those out to team units and helping ensure the team is upkeeping our SLAs and quality. They will be a strong contributor to creative brainstorms and ideation, will support the organization’s brand management, and will review all creative content for quality, holding last line creative reviews for Tier 2 and Tier 3 content.<br>This position will also manage and be responsible for the professional development of a creative team of ~5 people working on graphic design and video, directly managing ~3 reports.</p>\n<h3>Responsibilities</h3>\n<p>Creative Content Quality Review &amp; Brand Management</p>\n<ul>\n<li>Hold quality bar and last line reviews for Tier 2 and Tier 3 creative content running through Global Comms</li>\n<ul>\n<li>Review and give feedback to improve quality on writing, design, photography, and video</li>\n<li>Accountable for final sign off on Tier 2 and Tier 3 content before it’s published</li>\n<li>Engage in brand building and advising for n",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-11T10:59:18.299716+00:00"
     },
     {
       "id": "gh-7984655",
@@ -12329,6 +12329,31 @@
       "first_seen": "2026-06-01T12:11:07.641537+00:00"
     },
     {
+      "id": "rw-4216959",
+      "title": "Short-Term Adviser (STA) for Key Performance Indicator (KPI) Development and Standardization",
+      "url": "https://reliefweb.int/node/4216959",
+      "source": "ReliefWeb",
+      "publisher": "DT Global",
+      "country": "Indonesia",
+      "job_type": "Job",
+      "category": "Human Resources",
+      "posted": "2026-06-19T07:29:45+00:00",
+      "closing": "2026-07-02T00:00:00+00:00",
+      "description": "<p><strong>Program Background</strong></p>\n<p>The Australia Indonesia Partnership for Justice Phase 3 (AIPJ3) is a five-year, A$63 million investment by the Australian Department of Foreign Affairs and Trade (DFAT) to work in partnership with the Government of Indonesia (GOI) to support advancement of its priority law and justice reforms. Building on previous phases, AIPJ3 will support partners to deliver activities against agreed policy priorities, while maintaining flexibility to respond to emerging needs and opportunities. The program focuses on seven policy priorities that are important to Australia and Indonesia: accountability and transparency, criminal justice reform, preventing violent extremism, transnational crime cooperation, commercial law, access to justice, and women’s leadership.</p>\n<p><strong>About DT Global Asia Pacific</strong></p>\n<p>At DT Global Asia Pacific, we aim to positively impact people’s lives through delivery excellence. As a leading implementing partner across Asia and the Pacific, we co-create locally led solutions in partnership with governments, communities, and stakeholders. We bring together talented teams and deep regional expertise to deliver initiatives that promote inclusive economic growth, essential services, and resilient, secure communities. With over 1,500 staff, experts in 22+ countries and more than 60 years of development experience, we tackle complex community, national and transnational challenges — from governance and justice systems to climate resilience, infrastructure and social equity — with innovative thinking and a commitment to long-term impact.</p>\n<p>For more information, please see <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.dt-global.com/\"><strong>www.dt-global.com</strong></a></p>\n<p><strong>The Role</strong><br />\nThe primary purpose of this consultancy is to design, develop, and propose a comprehensive and standardized Key Performance Indicator (KPI) framework for all positions within the organization, structured by job grades to improve efficiency for AIPJ3 to deliver people objectives. This framework will ensure consistent and measurable performance expectations, facilitate objective evaluation, and align individual and team contributions with the organization's strategic objectives.</p>\n<p>Under direct supervision of the HR &amp; Office Manager, this position will be based in Jakarta with a flexible working arrangement.</p>\n<p>Click on the link or copy paste it to access the full Terms of Reference for this position:</p>\n<p><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://tinyurl.com/STA-KPI-AIPJ3\"><strong>https://tinyurl.com/STA-KPI-AIPJ3</strong></a></p>\n<p><strong>About You</strong></p>\n<p><strong>Roles and Responsibilities</strong></p>\n<p>Stage 1:</p>\n<ul>\n<li>Conduct a thorough review of current Terms of Reference (TORs), organizational charts, grading structures, and strategic plans to understand the current state and identify gaps.</li>\n<li>Conduct interviews with key stakeholders, including DT Global Contractor Representative, AIPJ3 Team Leader, Leads, line managers, and a representative sample of employees from various job grades, to gather insights on roles, responsibilities, and current performance measurement practices.</li>\n<li>Analyse collected data to identify common responsibilities, required skills, and relevant discrepancies across similar positions and grades.</li>\n</ul>\n<p>Stage 2:</p>\n<ul>\n<li>Develop a comprehensive set of standardized KPIs for each defined job grade and job families, ensuring they are Specific, Measurable, Achievable, Relevant, Time-bound (SMART).</li>\n<li>Define a clear measurement methodologies, data sources, and reporting frequency.</li>\n<li>Ensure all proposed KPIs clearly link to and support the organization's overarching strategic goals and mission.</li>\n<li>Create clear guidelines and definitions for the interpretation and application of the standardized KPIs.</li>\n<li>Develop a model for monitoring and evaluating KPIs to support effective performance reviews.</li>\n</ul>\n<p>Stage 3:</p>\n<ul>\n<li>Present the draft standardized KPI framework for feedback and validation.</li>\n<li>Revise the framework based on feedback received, ensuring practicality and buy-in.</li>\n<li>Prepare final documentation, a comprehensive document detailing the standardized KPI framework, matrix, measurement guidelines, and implementation recommendations.</li>\n</ul>\n<p><strong>Expected Outcomes</strong></p>\n<ul>\n<li>Detailed work plan, methodology, and timeline for the consultancy.</li>\n<li>Comprehensive analysis of existing Terms of Reference (TORs), highlighting inconsistencies, commonalities, and areas for standardization.</li>\n<li>Recommendations for KPI categories and structure.</li>\n<li>Final KPI matrix by job grades with clear definitions and measurement methodologies.</li>\n<li>Guidelines for KPI implementation, monitoring, and review.</li>\n<li>Recommendations for integrating the new KPIs into existing performance management systems.</li>\n<li>Final report on summary of the consultancy process, findings, and recommendations.</li>\n</ul>\n<p><strong>Selection Criteria</strong></p>\n<p><strong>Essential Experience and Knowledge</strong></p>\n<ul>\n<li>Bachelor’s degree in human resources management, organizational development, business administration, or a related field.</li>\n<li>Minimum of 5-8 years of demonstrated experience in HR consultancy work specifically in designing and implementing performance management systems and KPI frameworks.</li>\n<li>Experience in conducting comprehensive needs assessments, stakeholder consultations, and data analysis related to HR and performance.</li>\n<li>Good analytical and problem-solving skills.</li>\n<li>Strong communication and facilitation skills (both written and verbal).</li>\n<li>Proficiency in project management to ensure timely and high-quality delivery of consultancy outputs.</li>\n<li>Proficient in Bahasa Indonesia and English (both written and spoken) is required.</li>\n<li>High level of professionalism, integrity, attention to detail, and ability to work independently and collaboratively.</li>\n<li>This position is for Indonesian only.</li>\n</ul>\n<p><strong>Desirable</strong></p>\n<ul>\n<li>Proven experience working with non-profit or development sector.</li>\n<li>Familiarity with HR Information System (HRIS) and performance management software is an advantage.</li>\n</ul>\n<p><strong>Why join AIPJ3?</strong></p>\n<p>By joining the Australia Indonesia Partnership for Justice Phase 3 (AIPJ3), you will be part of a dynamic and collaborative program that supports Indonesia’s priority law and justice reforms. Working alongside experts from government, civil society, academia, and the private sector, you will have the opportunity to contribute to meaningful change in areas such as accountability and transparency, criminal justice reform, preventing violent extremism, transnational crime cooperation, commercial law, access to justice, and women’s leadership.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 3,
+      "overall_score": 3.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-19T10:58:35.039864+00:00"
+    },
+    {
       "id": "rw-4216637",
       "title": "Finance Coordinator",
       "url": "https://reliefweb.int/node/4216637",
@@ -18579,6 +18604,31 @@
       "first_seen": "2026-04-28T10:07:22.044705+00:00"
     },
     {
+      "id": "rw-4216971",
+      "title": "Safety Advisor – Syria (national staff only)",
+      "url": "https://reliefweb.int/node/4216971",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Monitoring and Evaluation",
+      "posted": "2026-06-19T08:37:03+00:00",
+      "closing": "2026-06-29T00:00:00+00:00",
+      "description": "<p><strong>Organisation Background</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>INSO Syria</strong></p>\n<p>The Syria program supports more than 290 NGOs to deliver vitally needed aid and assistance to an estimated 13.1 million people in need across the country. First launched as an emergency response operation in 2014, INSO Syria has grown to become a program covering all Syrian governorates, with a Country Office in Damascus. The Syria conflict is unique and complex: you will find that every day is different and there is always more to learn.</p>\n<p><strong>Job Summary</strong></p>\n<p>You will lead INSO’s operations in Raqqa and serve as the primary liaison with humanitarian actors. The role focuses on monitoring the security environment, producing high‑quality analysis, offering operational advice, and ensuring the effective running of the field office. The position combines security analysis, NGO engagement, and management of a multi‑disciplinary team to ensure the relevance, accuracy, and consistency of INSO services.</p>\n<p><strong>Main Responsibilities</strong></p>\n<p><em>Security Analysis and Advisory Services</em></p>\n<ul>\n<li>Monitor and interpret security developments affecting humanitarian operations in the Central-East region of Syria.</li>\n<li>Produce information products, including alerts, incident reports, briefs, and thematic reports.</li>\n<li>Provide contextual and operational advice to NGOs.</li>\n<li>Deliver security briefings.</li>\n<li>Identify trends and communicate implications for humanitarian actors.</li>\n</ul>\n<p><em>Base Leadership and Management (Head of Base)</em></p>\n<ul>\n<li>Oversee daily operations of the Raqqa field office.</li>\n<li>Supervise and mentor national team staff.</li>\n<li>Maintain the quality and consistency of INSO analytical products.</li>\n<li>Ensure strong SOPs, verification protocols, and M&amp;E systems.</li>\n<li>Coordinate with senior management.</li>\n<li>Promote staff wellbeing and principled engagement.</li>\n</ul>\n<p><em>NGO Engagement and Coordination</em></p>\n<ul>\n<li>Maintain a broad and active network of contacts, including NGOs, UN agencies, local authorities, community representatives and other relevant actors.</li>\n<li>Facilitate regular security coordination meetings and roundtables for the NGO community.</li>\n<li>Ensure that INSO services respond to the operational needs and priorities of humanitarian organisations in the area.</li>\n<li>Represent INSO and uphold the organisation’s principles of independence, neutrality and impartiality in all engagements.</li>\n</ul>\n<p><em>Support to Humanitarian Operations</em></p>\n<ul>\n<li>Provide NGOs with contextual insights related to operational access constraints and security developments affecting humanitarian programming.</li>\n<li>Conduct field visits to maintain situational awareness and support the accuracy of INSO analysis and reporting.</li>\n<li>Provide support to NGOs during security incidents when requested, including information sharing and coordination support.</li>\n<li>On occasion, provide NGOS with reviews of safety and security policies and reviews of NGO‑managed facilities; provide written recommendations and best‑practice guidance.</li>\n</ul>\n<p><strong>Knowledge, Skills, and Experience</strong></p>\n<ul>\n<li>5+ years of professional experience in the humanitarian sector, including work with international NGOs</li>\n<li>Proven writing, editing, and analytical skills and the keenest eye for detail.</li>\n<li>Working proficiency in English, both written and spoken.</li>\n<li>Demonstrated experience working in conflict or high-risk environments.</li>\n<li>Previous experience in senior field-level humanitarian roles, such as: Field Coordinator, Security Manager / Security Advisor, Head of Base, Programme Manager with operational responsibilities</li>\n<li>Proven experience managing teams in field operations.</li>\n<li>Strong understanding of humanitarian access challenges, operational risk environments and duty of care considerations.</li>\n<li>Graduate-level education in a relevant field or equivalent work experience.</li>\n</ul>\n<p><em>Nice to Have:</em></p>\n<ul>\n<li>Understanding of Arabic or Kurdish</li>\n</ul>\n<p><strong>Core Competencies</strong></p>\n<ul>\n<li>Professionalism – Demonstrates neutrality, integrity, and ethical conduct in all interactions and responsibilities.</li>\n<li>Organisation – Manages time, priorities, and workloads effectively to ensure efficient task delivery.</li>\n<li>Resilience – Maintains performance and composure while working under pressure and tight deadlines.</li>\n<li>Accuracy – Ensures close attention to detail and precision in work, documentation, and processes.</li>\n<li>Communication – Builds positive relationships and communicates clearly and effectively with diverse stakeholders.</li>\n</ul>\n<p>The successful candidate must demonstrate:</p>\n<ul>\n<li>Commitment to humanitarian principles.</li>\n<li>Political neutrality and impartiality.</li>\n<li>Integrity and professionalism.</li>\n<li>Respectful engagement with colleagues and partners.</li>\n</ul>\n<p><strong>Diversity Statement</strong></p>\n<p>INSO is committed to promoting diversity, equity and inclusion within its workforce. We strongly encourage qualified female candidates to apply. Candidates from diverse backgrounds are encouraged to join our team</p>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>12-month renewable fixed-term contract,1.75 working days annual leave per month, private health insurance coverage, or allowance.</p>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-19T10:58:35.039613+00:00"
+    },
+    {
       "id": "rw-4216850",
       "title": "Senior Integrated Protection Officer / Chargé/e principale de protection intégrée",
       "url": "https://reliefweb.int/node/4216850",
@@ -20352,6 +20402,56 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.044913+00:00"
+    },
+    {
+      "id": "rw-4216966",
+      "title": "Technical Expert to Support the Development of the Compendium of Best Practices on Disaster Management: Commemorating 20 Years of AADMER(Consultancy)",
+      "url": "https://reliefweb.int/node/4216966",
+      "source": "ReliefWeb",
+      "publisher": "International Organization for Migration",
+      "country": "",
+      "job_type": "Consultancy",
+      "category": "Monitoring and Evaluation",
+      "posted": "2026-06-19T06:59:41+00:00",
+      "closing": "2026-06-23T00:00:00+00:00",
+      "description": "<p>Position Title <strong>: Technical Expert to Support the Development of the Compendium of Best Practices on Disaster Management: Commemorating 20 Years of ASEAN Agreement on Disaster Management and Emergency Response (AADMER)</strong><br />\nDuty Station <strong>: Home-based</strong><br />\nDuration of Contract <strong>: 11 months (with possibility of extension)</strong><br />\nType of Appointment <strong>: Consultancy</strong><br />\nEstimated Start Date <strong>: July 2026 or as soon as possible</strong></p>\n<p><strong>Organizational Context</strong></p>\n<p>The International Organization for Migration (IOM), through its Deployment Roster, is seeking to identify qualified technical experts to support the development of the <em>Compendium of Best Practices on Disaster Management: Commemorating 20 Years of AADMER</em>.</p>\n<p>The Deployment Roster is a global mechanism through which pre-vetted experts are identified and mobilized to support humanitarian and development operations. Selected candidates may be considered for current and future deployment opportunities.</p>\n<p><strong>Objective of the Consultancy</strong></p>\n<p>This consultancy will support the development of a strategic knowledge product documenting ASEAN’s progress, best practices, and key lessons in disaster management at both the regional and national levels over the past two decades.</p>\n<p>The Compendium will consolidate contributions from ASEAN Member States, ASEAN entities, UN agencies, development partners, academia, and other relevant stakeholders, to capture the region’s collective knowledge and experience in disaster management. It will also identify key lessons, emerging opportunities, and actionable recommendations to strengthen regional coordination, institutional resilience, and future disaster management efforts across ASEAN.</p>\n<p>The technical expert will undertake a desk review, develop the Compendium outline, consolidate stakeholder contributions, and prepare draft and final versions of the Compendium for review and finalization.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-19T10:58:35.039868+00:00"
+    },
+    {
+      "id": "rw-4216874",
+      "title": "ESC Refugees Welcome Project Assistant",
+      "url": "https://reliefweb.int/node/4216874",
+      "source": "ReliefWeb",
+      "publisher": "Open Cultural Center",
+      "country": "Spain",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-06-19T06:50:17+00:00",
+      "closing": "2026-08-11T00:00:00+00:00",
+      "description": "<p><strong>Refugees Welcome España (Refugiados Bienvenidos)</strong> is a non-profit association that promotes a Culture of Welcome through housing solutions for displaced people (applicants for International Protection, refugees, migrants, etc.). Its objective is to create stories of intercultural coexistence based on horizontality, equality, and mutual respect, facilitating access to decent housing and promoting social inclusion. It is part of the international Refugees Welcome network, present in 12 countries, and develops projects in different territories across Spain, including Barcelona, Rubí, Sant Cugat del Vallès, Sabadell, Valldoreix, and other municipalities in Catalonia.</p>\n<p>As an ESC volunteer at RW, the main focus will be to provide operational, administrative, and documentary support to the Project Officer in managing the organization’s projects in Catalonia. Your role will be to support the monitoring, data collection, and reporting of projects, contributing to the success of the initiatives promoting a Culture of Welcome and decent housing for displaced people.</p>\n<p>We are looking for someone who wants to gain experience in administration and project management, documentation, and event management.</p>\n<h2><strong>Main tasks</strong></h2>\n<ul>\n<li>Support in the collection, organization, and filing of invoices, receipts, and financial documentation required for Justification Reports (public and private).</li>\n<li>Collaborate in the preliminary drafting and review of intermediate and final technical reports under the supervision of the Project Officer.</li>\n<li>Maintain the digital and physical archive of the projects organized (entering operational and impact data, indicators, calls for proposals databases, forms, correction requests, etc.).</li>\n<li>Assist in the search for information and documentation required for the preparation of new funding proposals and grants.</li>\n<li>Enter operational and impact data reported by other departments to ensure project indicators are up to date.</li>\n<li>Help prepare materials, meeting minutes, and presentations for the spaces in which the organization participates.</li>\n<li>Support, facilitate, and participate in the organization and implementation of events, activities, and training/workshops, manage logistics, and present the project when necessary.</li>\n<li>Participate in ESC activities (organizing team-building activities, awareness-raising in schools, etc.).</li>\n<li>Provide support to the rest of the team when needed and actively participate in the general activities of the organization.</li>\n</ul>\n<h2><strong>Requirements</strong></h2>\n<ul>\n<li>A sociable, proactive person with a vocation for helping others; comfortable initiating contact with unknown people and networking.</li>\n<li>Independent and creative, with the ability to contribute ideas, find new ways of doing things, and suggest improvements.</li>\n<li>Proactivity and teamwork orientation.</li>\n<li>Good level of Spanish.</li>\n<li>Flexibility in working hours (to attend activities on Saturdays or events in the afternoons/evenings during the week). Overtime will always be compensated.</li>\n<li>Previous experience as a volunteer in third-sector organizations.</li>\n<li>Ability to manage deadlines, plan ahead, and anticipate problems.</li>\n<li>Familiarity with software tools and interest in learning to use new systems such as Slack, Airtable, and Notion.</li>\n<li>Writing skills (for example, writing engaging texts for event promotion and communicating with different key stakeholders).</li>\n<li>Enthusiasm and commitment to promoting diversity and social inclusion.</li>\n<li>Feminist and intersectional perspective.</li>\n</ul>\n<h2><strong>Nice to have</strong></h2>\n<ul>\n<li>University degree or higher vocational training in Social Sciences (Social Work, Cooperation, Political Science, Sociology), Project Management, Administration, or similar.</li>\n<li>Knowledge of administrative project management or grant support in the third sector (NGOs/Associations).</li>\n<li>Interest in the field of Diversity, Equity, and Inclusion (DEI).</li>\n<li>Interest in migration, refugees, and asylum.</li>\n<li>Knowledge of other languages (Catalan, English, Darija, French, etc.).</li>\n</ul>\n<h2><strong>Eligibility criteria</strong></h2>\n<p>To participate in the European Solidarity Corps (ESC) volunteering program, it is mandatory to meet the following criteria:</p>\n<ul>\n<li>Be between 18 and 30 years old.</li>\n<li>Be a resident of the EU or one of the partner countries mentioned (neighboring countries of the EU).</li>\n<li>Be available for 12 months.</li>\n<li>Not have previously participated in a long-term ESC volunteering program.</li>\n</ul>\n<h2><strong>What do we offer?</strong></h2>\n<p>Our volunteering program is funded by the European Commission through the European Solidarity Corps program. This means that the volunteering includes:</p>\n<ul>\n<li><strong>Travel expenses coverage:</strong> Up to the limits established in the distance calculator of the Erasmus+ Guide from the volunteer’s region of residence to our center.</li>\n<li><strong>Free accommodation (shared room):</strong> Provided in the center of Barcelona. The apartment is fully equipped (kitchen, bathrooms, washing machine, Wi-Fi, etc.).</li>\n<li><strong>Monthly allowance (pocket money):</strong> €330 per month.</li>\n<li><strong>Health insurance:</strong> Henner.</li>\n<li><strong>Free language courses:</strong> Online</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-19T10:58:35.039662+00:00"
     },
     {
       "id": "rw-4216839",
@@ -30054,6 +30154,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 5,
+  "last_added": 4,
   "last_updated": 293
 }
