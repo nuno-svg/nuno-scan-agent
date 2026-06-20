@@ -1,4 +1,4 @@
-=== Run start: 2026-06-20T09:44:12.813702+00:00 ===
+=== Run start: 2026-06-20T15:16:45.396888+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
 [ReliefWeb] q='blended finance' → 34 returned
@@ -40,4 +40,4 @@ Keywords loaded: 4 archetypes
 Raw new opportunities: 297
 Pipeline: 1233 total (+0 new, 297 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-06-20T09:44:26.597422+00:00 ===
+=== Run end: 2026-06-20T15:17:09.290113+00:00 ===
