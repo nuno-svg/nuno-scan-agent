@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-22T17:54:57.219975+00:00",
-  "last_run_local": "2026-06-22 17:54 UTC",
-  "runs_count": 126,
+  "last_run_iso": "2026-06-23T10:04:45.095982+00:00",
+  "last_run_local": "2026-06-23 10:04 UTC",
+  "runs_count": 127,
   "opportunities": [
     {
       "id": "rw-4216560",
@@ -4204,6 +4204,56 @@
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
     },
     {
+      "id": "gh-7756991",
+      "title": "Rwanda Civil Engineer (Fixed-Term)",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7756991",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Bugesera, Rwanda",
+      "job_type": "SIC - Seed Innovation Center ",
+      "category": "SIC - Seed Innovation Center ",
+      "posted": "2026-06-23T04:15:06-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.</p>\n<p>To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Looking for an experienced Civil Engineer (Project Engineer) to work at the RICA Seed Centre’s physical infrastructure for the implementation of the project, overseeing the civil engineering aspect of the project.</p>\n<h3>Responsibilities</h3>\n<p><strong>Lead Civil Design Review &amp; Technical Oversight</strong></p>\n<ul>\n<li>Review and validate civil and structural designs (roads, drainage, foundations and external infrastructure) for accuracy, compliance, and constructability.</li>\n<li>Develop and refine engineering solutions, including structural analysis and modelling, to meet project requirements.</li>\n<li>Ensure coordination of civil designs with architectural and MEP disciplines for seamless implementation.</li>\n</ul>\n<p><strong>Oversee Construction Execution &amp; Site Delivery</strong></p>\n<ul>\n<li>Supervise civil works across earthworks, concrete structures, roads, drainage systems, and utilities infrastructure.</li>\n<li>Conduct site inspections, monitor contractor performance and ensure adherence to drawings, specifications, and BoQs.</li>\n<li>Resolve on-site engineering challenges and provide timely technical guidance to maintain project progress.",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725438+00:00"
+    },
+    {
+      "id": "gh-7992176",
+      "title": "Fertilizer Procurement Associate",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7992176",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Nairobi, Kenya",
+      "job_type": "PRO - Sourcing",
+      "category": "PRO - Sourcing",
+      "posted": "2026-06-23T03:25:40-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Seeking an exceptional Supply Chain professional to lead fertilizer procurement, ensuring cost-efficient sourcing and reliable on-time delivery. Drive strong individual execution and contribute to team success through data-driven insights, cross-functional collaboration, and impactful project support.</p>\n<h3>Responsibilities</h3>\n<p>Execute Procurement with Excellence</p>\n<ul>\n<li>Strategy &amp; Delivery: Support the creation and execution of seasonal procurement strategies to deliver +90% OTIF (On-Time, In-Full) delivery, market-competitive costs, and 5% year-on-year cost savings.</li>\n<li>Quality Assurance: Ensure absolute quality control, achieving 0 quality issues reaching the farmer, and maintain an +80% on-time payment rate for suppliers.</li>\n<li>Supply Chain Reliability: Proactively address future supply gaps by evaluating farmer needs against global market trends, supplier capacity, and current inventory levels.</li>\n<li>Process Optimization: Drive lead-time improvements through streamlined delivery and process automation. Regularly improve key operations like the goods receipt process and loading quality control.</li>\n<li>Data &amp; Analytics: Develo",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-18T16:44:03.484200+00:00"
+    },
+    {
       "id": "gh-7760636",
       "title": "Global Safety Nets and Microinsurance Senior Associate (Fixed-Term)",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7760636",
@@ -4252,31 +4302,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-11T10:59:18.299716+00:00"
-    },
-    {
-      "id": "gh-7992176",
-      "title": "Fertilizer Procurement Associate",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7992176",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Nairobi, Kenya",
-      "job_type": "PRO - Sourcing",
-      "category": "PRO - Sourcing",
-      "posted": "2026-06-18T07:17:59-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Seeking an exceptional Supply Chain professional to lead fertilizer procurement ensuring cost-efficient sourcing and reliable on-time delivery. Drive execution excellence and lead a high-performing team through data-driven decisions and impactful projects</p>\n<h3>Responsibilities</h3>\n<p>Execute Procurement with Excellence</p>\n<ul>\n<li>Strategy &amp; Delivery: Support the creation and execution of seasonal procurement strategies to deliver +90% OTIF (On-Time, In-Full) delivery, market-competitive costs, and 5% year-on-year cost savings.</li>\n<li>Quality Assurance: Ensure absolute quality control, achieving 0 quality issues reaching the farmer, and maintain an +80% on-time payment rate for suppliers.</li>\n<li>Supply Chain Reliability: Proactively address future supply gaps by evaluating farmer needs against global market trends, supplier capacity, and current inventory levels.</li>\n<li>Process Optimization: Drive lead-time improvements through streamlined delivery and process automation. Regularly improve key operations like the goods receipt process and loading quality control.</li>\n<li>Data &amp; Analytics: Maintain and update accurate landing cost benefit ana",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-18T16:44:03.484200+00:00"
     },
     {
       "id": "gh-7896953",
@@ -4877,31 +4902,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:54:25.725440+00:00"
-    },
-    {
-      "id": "gh-7756991",
-      "title": "Rwanda Civil Engineer (Fixed-Term)",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7756991",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Bugesera, Rwanda",
-      "job_type": "SIC - Seed Innovation Center ",
-      "category": "SIC - Seed Innovation Center ",
-      "posted": "2026-06-16T06:01:38-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.</p>\n<p>To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Looking for an experienced Civil Engineer (Project Engineer) to work at the RICA Seed Centre’s physical infrastructure for the implementation of the project, overseeing the civil engineering aspect of the project.</p>\n<h3>Responsibilities</h3>\n<p><strong>Lead Civil Design Review &amp; Technical Oversight</strong></p>\n<ul>\n<li>Review and validate civil and structural designs (roads, drainage, foundations and external infrastructure) for accuracy, compliance, and constructability.</li>\n<li>Develop and refine engineering solutions, including structural analysis and modelling, to meet project requirements.</li>\n<li>Ensure coordination of civil designs with architectural and MEP disciplines for seamless implementation.</li>\n</ul>\n<p><strong>Oversee Construction Execution &amp; Site Delivery</strong></p>\n<ul>\n<li>Supervise civil works across earthworks, concrete structures, roads, drainage systems, and utilities infrastructure.</li>\n<li>Conduct site inspections, monitor contractor performance and ensure adherence to drawings, specifications, and BoQs.</li>\n<li>Resolve on-site engineering challenges and provide timely technical guidance to maintain project progress.",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725438+00:00"
     },
     {
       "id": "gh-7737980",
@@ -19279,6 +19279,31 @@
       "first_seen": "2026-04-28T10:07:22.044705+00:00"
     },
     {
+      "id": "rw-4217404",
+      "title": "Association Engagement and Communication officer",
+      "url": "https://reliefweb.int/node/4217404",
+      "source": "ReliefWeb",
+      "publisher": "Médecins Sans Frontières",
+      "country": "Kenya, Rwanda",
+      "job_type": "Job",
+      "category": "Advocacy/Communications",
+      "posted": "2026-06-23T07:53:03+00:00",
+      "closing": "2026-07-07T00:00:00+00:00",
+      "description": "<h2><strong>MSF Eastern Africa is looking for an Association Engagement and Communication officer</strong></h2>\n<p><em>Do your skills and experience not precisely match the requirements? At MSF EA, we strive to create a safe, diverse and inclusive workplace, recognizing the need to increase access to professional opportunities for historically underrepresented groups. If you're interested in this position but your experience doesn't align perfectly with the selection criteria, we encourage you to apply anyway. You might be the ideal candidate for this or other positions.</em></p>\n<p><em>Firmly committed to safeguarding patients, community members, staff, and all those in contact with the organization from all forms of abuse, including sexual exploitation, abuse, and harassment (SEAH), we will take all necessary steps, through rigorous vetting processes, to ensure that confirmed perpetrators of abuse do not join the organization.</em></p>\n<p><em>For this position, contact level with patients and children is categorized as <strong>Low Risk</strong> and will be monitored with this in regard.</em></p>\n<h2><em><strong>Introduction</strong></em></h2>\n<p>Médecins Sans Frontières/Doctors Without Borders (MSF) is an international independent medical humanitarian organisation that provides assistance to people affected by conflicts, epidemics, and natural or human-made disasters and excluded from healthcare. We provide this assistance without discrimination, irrespective of race, religion, creed or political affiliation.</p>\n<h2><em><strong>About MSF Eastern Africa</strong></em></h2>\n<p>MSF Eastern Africa is the regional institutional office of MSF. It focuses on representation and networking, recruiting and supporting staff from the region, communications and fundraising, as well as working on other dossiers of importance to MSF such as Diversity, Equity and Inclusion (DEI), Data Protection, mutualization, training, medical operational support and environmental health.</p>\n<h2><em><strong>About MSF Eastern Africa Association</strong></em></h2>\n<p>MSF East Africa Association (EAA) is an association of MSF established with the aim of improving the participation of its members in the greater MSF movement and in the Eastern Africa home societies. EAA received official recognition from the International General Assembly in December 2011 of MSF EAA as an Associative entity within its movement. Our area of focus is primarily the Eastern Africa region of Somalia, Ethiopia, Eritrea, Djibouti, South Sudan, Sudan, Uganda, Rwanda, Burundi, Tanzania and Kenya but membership is open to anyone around the world. MSF Eastern Africa is a Section, approved by MSF IGA in November 2020 and is the new regional MSF entity in the Eastern Africa (EA) region.</p>\n<h2><em><strong>Rationale/Objective for Position</strong></em></h2>\n<p>The Association Engagement and Communication Officer is responsible for developing and implementing strategic approaches to support the associative-governance goals of the MSF EA Board by driving member engagement, coordinating associative activities, managing communications and fostering a dialogue between the Board, the MSF Eastern Africa, and the Association members. This dialogue should ensure continuous lines of information, exchange, and accountability remain open and functional.</p>\n<p>This position will be <strong>hierarchically</strong> and <strong>functionally</strong> accountable to the <strong>Head of Association</strong>.</p>\n<h2><em><strong>Tasks &amp; Responsibilities</strong></em></h2>\n<p><strong>Technical and Operational Responsibilities</strong></p>\n<p><em><strong>Support engagement within MSF Eastern Africa Association</strong></em></p>\n<ul>\n<li>Develop engagement strategies that promote an active, inclusive, and well-informed MSF EA Association (EAA).</li>\n<li>Facilitate engagement between the MSF EA Board and Association members.</li>\n<li>Cultivate the development of a collective associative identity and shared understanding of MSF principles.</li>\n<li>Support in the Organization and facilitation of EAA debates and associative events across the region, including the General Assembly (GA), ensuring broad and strong participation of EAA and other members.</li>\n<li>Liaise with other departments at the MSF EA office and the MSF Missions in the region on associative activities.</li>\n<li>Support in recruiting new members, administer the EAA membership, managing applications and keeping the Database up to date.</li>\n</ul>\n<p><em><strong>Support Associative engagement in countries of operations</strong></em></p>\n<ul>\n<li>Support in the stimulation of associative life in the field and successful organization of planned associative activities.</li>\n<li>Support the network of Associative Focal Persons and members in countries of operations</li>\n<li>Learn and work with other Associations to develop trainings in collaboration with MSF EA Learning &amp; Development Unit.</li>\n<li>Support in the Organization and facilitation of Field Associative Debates (FADs)</li>\n<li>Engage with Heads of mission towards ALF and any board priorities</li>\n</ul>\n<p><em><strong>Manage inclusive, qualitative, regular and engaging Association Communications</strong></em></p>\n<ul>\n<li>Develop and implement a communications plan and strategic approaches to cultivate a well informed and engaged membership, ensuring inclusion of and adaptation to different audiences</li>\n<li>Coordinate timely and accurate communication about associative news, events and topics (national/international) between and towards association members and volunteers</li>\n<li>Assist in the production of EAA monthly newsletter and other identified tools of communication for the Eastern Africa Association, providing necessary content adapted to the target audience(s)</li>\n<li>Coordinate the development of upcoming EAA websites and stimulate and moderate discussions on online and social media platforms.</li>\n<li>Facilitate information flow and engagement between members, staff and the board as necessary.</li>\n<li>Ensure the preparation, editing, compilation and dissemination of Associative events and the GA minutes/outcomes/reports</li>\n<li>Develop the content, material/resource needs and the logistics of events, including Mini GAs, Pre and Post GA, -International General Assembly (IGA), End Year Events with close collaboration with country responsible board members and Associative Focal Points.</li>\n</ul>\n<p><strong>Other Responsibilities</strong></p>\n<ul>\n<li>Participating in International Projects/Coordinate and implement new initiatives as agreed by the EAA board e.g. planning and implementation of the urban space’s initiative in EA.</li>\n<li>Ensure accurate integration of EDI &amp; Safeguarding aspects into all policies and practices within the MSF EA Association.</li>\n<li>Compliance Assurance - Ensure that all data processing activities within the MSF EA Association comply with relevant data protection laws and regulations, including the Data Protection Act, 2019 and support your team to receive necessary training in this area.</li>\n<li>Policy Adherence - Enforce data protection policies, procedures, and guidelines within the MSF EA Association, ensuring that all team members are aware of and adhere to these protocols.</li>\n<li>Supervision of additional part-time volunteers or members for specific projects and events.</li>\n<li>Work closely with the MSF EAA/EA Board Officer on common issues/activities as directed by the Board/President.</li>\n<li>Replace the Board Officer in all kinds of matters his/her absence.</li>\n<li>Participate in annual plans and budget preparation in collaboration with the Association Office staff and the Board as per the EA calendar.</li>\n<li>Participate in the review, monitoring and evaluation of MSF EAA annual and strategic plans and budget as per the agreed/set timelines.</li>\n</ul>\n<h2><em><strong>Qualifications</strong></em></h2>\n<p><strong>Education</strong></p>\n<ul>\n<li>Undergraduate Degree in Business administration, International Relations, Social Sciences or other related disciplines.</li>\n<li>Knowledge of the Eastern Africa Context as well as of global humanitarian affairs</li>\n<li>Strong written and oral communication skills as well as presentation skills.</li>\n<li>Knowledge of MS Office applications such as Outlook, MSF Word, MS Excel, SharePoint</li>\n<li>Knowledge of ERP, CRM,</li>\n<li>Knowledge of MSF organizational structure, communication guidelines, and engagement strategies is highly desirable.</li>\n<li>Previous experience with MSF Association or executive work is desirable.</li>\n</ul>\n<p><strong>Experience</strong></p>\n<ul>\n<li>Previous MSF experience in countries of operations, headquarters or the association a pre-requisite.</li>\n<li>At least 2 years’ experience in Strategic Communications / Event Planning / L&amp;D</li>\n</ul>\n<p><strong>Competencies</strong></p>\n<ul>\n<li><strong>Technical Competencies</strong>\n<ul>\n<li>Fluent/proficiency in English (reading and writing). French, Arabic and Swahili are an added advantage.</li>\n<li>Excellent analytical skills and ability to synthesize and effectively present information</li>\n<li>Computer literacy with excellent MS Office, Outlook, power point and excel with ability to effectively navigate through social media and interactive platforms</li>\n</ul>\n</li>\n<li><strong>Behavioral/General Competencies</strong>\n<ul>\n<li>Full adherence and commitment to the principles, values and goals of MSF.</li>\n<li>Strong leadership and decision-making capacity (strong team-leading and team-working skills).</li>\n<li>Strong negotiation skills.</li>\n<li>Respect and understanding of confidentiality.</li>\n<li>Able to work successfully under pressure within short deadlines; maintaining appropriate priorities, adequate detail, flexibility, and positivity.</li>\n<li>Willingness and personal flexibility to travel across the region and beyond with short notices as may be required</li>\n<li>Proactive, highly motivated and responsible, able to work with limited supervision, accountable and honest.</li>\n<li>Strong interpersonal and communication skills.</li>\n<li>Proven experience in conflicts resolution</li>\n<li>Time management and organization skills</li>\n<li>Stress management ability</li>\n<li>Cross-cultural awareness and flexibility</li>\n</ul>\n</li>\n</ul>\n<h2><em><strong>Conditions and Benefits:</strong></em></h2>\n<ul>\n<li><strong>Job Location</strong>: MSF Eastern Africa HQ office in Nairobi (Kenya) or Kigali (Rwanda)</li>\n<li><strong>Contract</strong>: Full-time, 2-years contract renewable</li>\n<li><strong>Start date</strong>: ASAP.</li>\n<li><strong>Salary:</strong> An annual salary of <strong>EUR 18,476 at HQ Grade 6</strong> based on a full-time appointment with an annual increment of 2% every year up to a maximum of 10 years.</li>\n<li><strong>Work-life balance financial benefit;</strong> ranging between <strong>EUR 247 to 295/month</strong> based on individual &amp; administrative status. This amount may be used to cover accommodation and utilities, transportation, etc.</li>\n<li><strong>Other benefits include;</strong> 25 days of annual leave, Employer Pension contribution and medical insurance cover (staff and family) based on MSF EA terms/conditions.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-23T10:04:45.095682+00:00"
+    },
+    {
       "id": "rw-4217273",
       "title": "Programme & Planning Specialist, P-3, TA (6Months), #137387, Bunia, Democratic Republic of Congo - WCAR",
       "url": "https://reliefweb.int/node/4217273",
@@ -26888,7 +26913,7 @@
       "job_type": "Job",
       "category": "Administration/Finance",
       "posted": "2026-06-09T09:03:46+00:00",
-      "closing": "2026-06-24T00:00:00+00:00",
+      "closing": "2026-07-01T00:00:00+00:00",
       "description": "<p>INTERSOS is an independent humanitarian organization that assists the victims of natural disasters, armed conflicts and exclusion. Its activities are based on the principles of solidarity, justice, human dignity, equality of rights and opportunities, respect for diversity and coexistence, paying special attention to the most vulnerable people.</p>\n<p><strong>Terms of reference</strong></p>\n<p><strong>Job Title:</strong> Finance Manager</p>\n<p><strong>Code:</strong> SR-60-10209</p>\n<p><strong>Duty station:</strong> Odesa with visits to Kiev, Mykolaiv</p>\n<p><strong>Starting date:</strong> 16/09/2026</p>\n<p><strong>Contract duration:</strong> 6 months</p>\n<p><strong>Reporting to:</strong> Finance Coordinator</p>\n<p><strong>Functional Supervisor:</strong></p>\n<p><strong>Supervision of:</strong> Finance Officer</p>\n<p><strong>Type of Duty Station:</strong> According to the country of assignment</p>\n<p><strong>General context of the project</strong></p>\n<p>The war in Ukraine, which started on the 24th of February 2022, shows no signs of abating, and continues to drive increasing humanitarian needs across the country. Access concerns and humanitarian needs are particularly high in eastern Kharkivska, Sumska oblasts and south Khersonska oblast where the conflict is intensifying and critical infrastructure damages prevent civilians from accessing basic services.</p>\n<p>Today INTERSOS is present in Odeska, Mykolaivska, Khersonska and Kharkivska Oblasts with bases of operations in Kharkiv, Kherson, Mykolaiv and Odesa, allowing a wide geographical coverage. Moreover, INTERSOS is currently implementing Health, Protection, and NFIs interventions, funded by OCHA, AICS, GFFO and ECHO encompassing several components: distribution of medicines to Regional Health Departments and shelters and equipment for clinics, Cash for Health, mobilisation of Protection mobile teams, establishment of community-based protection mechanisms, case management for CP/PWSN cases, psychosocial support (PSS), Protection Monitoring (PM), and distribution of material assistance to vulnerable individuals and households.</p>\n<p><strong>General purpose of the position</strong></p>\n<p>Manage and supervise the economic and financial management of the mission (accounting, treasury, audit procedures, etc.) in compliance with legal obligations and INTERSOS standards and protocols in order to provide quality, reliable and transparent information on the use and allocation of resources in the mission.</p>\n<p><strong>Main responsibilities and tasks:</strong></p>\n<p><strong>Accounting and budget</strong></p>\n<ul>\n<li>In case there is no Accounting Manager in the Mission, Is responsible for quality and timely accounting for the whole mission e.g. cash procedures, bank accounts transactions, receipts and supporting administrative and financial documents, electronic data entry, consolidation of overall mission accounting, grants, monthly closing process, bank reconciliation and documents, ensuring strict respect of deadlines and compliance to INTERSOS and donors guidelines, financial standards and procedures</li>\n<li>Is the technical reference for any financial management-related issue: budgeting, direct and indirect cost allocation, Donors’ financial reporting, tax compliance, statutory annual audit and donors’ audit.</li>\n<li>In collaboration with the Finance Coordinator, supports the preparation of the annual budget of the mission in line with financial and economic forecast and INTERSOS applicable requirements (protocols, guidelines, SoPs…), ensuring the collaboration</li>\n<li>Support the Project / Programme Manager in preparing no-cost extension and budget revision</li>\n<li>Supervise the liquidity level of the mission (cash and bank) and report promptly cash-book discrepancies to the Country Finance Coordinator</li>\n</ul>\n<p><strong>Compliance</strong></p>\n<ul>\n<li>Is responsible for supporting the Country Finance Coordinator in monitoring the economic and financial KPIs of the mission.</li>\n<li>Is responsible for the financial management of donor contracts preparing and verifying the adequacy of the information and documentation of financial reports (interim and final) and following up and analysing the needs for amendments. Ensure reporting requirements are met.</li>\n<li>Assess the adequacy of supporting documentation for audit (both internal and external).</li>\n<li>In case the Organogram does not foresee the Accounting Manager, coordinate and supervise the conduct of local audits relating to accounting, tax, labour, stock and asset management.</li>\n<li>Guarantee the correct costs allocation onto the grants by using the relevant templates of the protocols.</li>\n</ul>\n<p><strong>Liquidity</strong></p>\n<ul>\n<li>Verify the installments’ release according to the Contract and follow up in case of delays</li>\n<li>Collaborate with Project/Program Managers in updating the Financial Plan</li>\n</ul>\n<p><strong>Administration</strong></p>\n<ul>\n<li>Process the payment guaranteeing the timely monthly transfer of staff’s salaries</li>\n<li>Supervise and process the payment of tax liabilities and social security</li>\n<li>Supervise the archiving of supporting documents and the reception of the hard copies at the Country office level</li>\n</ul>\n<p><strong>People management</strong></p>\n<ul>\n<li>Responsible for ensuring the adequacy in terms of attitude and competence of the staff under his/her supervision, by guaranteeing the correct application and effectiveness of the processes in which they are involved.</li>\n</ul>\n<p><strong>Required profile and experience:</strong></p>\n<ul>\n<li>Desirable degree in accounting, finance or business administration</li>\n<li>Minimum three years’ relevant work experience in Finance positions, preferably within INGOs, and with AICS Donor</li>\n<li>Essential solid accountancy training and experience-professional accounting qualification</li>\n<li>Essential computer literacy (word, excel, finance DB and internet)</li>\n<li>Previous experience with UN donors desirable</li>\n<li>Mission working language essential.</li>\n<li>Local language desirable</li>\n<li>People management and development</li>\n<li>Service orientation</li>\n<li>Results and quality orientation</li>\n<li>Behavioural flexibility</li>\n<li>Commitment to INTERSOS and humanitarian principles</li>\n</ul>\n<p><strong>General conditions and benefits:</strong></p>\n<ul>\n<li><strong>Salary range: 09 - 3.172€ - 3.577€ monthly gross</strong></li>\n<li><strong>Accommodation: Shared Guesthouse</strong></li>\n<li><strong>R&amp;R:</strong> 7 days of psycho-physical recovery every 8 weeks + 1000€ allowance.</li>\n<li><strong>Annual Leave:</strong> 2.5 days per month</li>\n<li><strong>Medical insurance</strong> for the staff</li>\n<li><strong>Transportation and visa:</strong> Round-trip flights. For missions lasting at <em>least 9 months,</em> an additional flight ticket to the Country of residence and return to the mission will also be provided.</li>\n<li><strong>Induction: one week of online induction before the deployment</strong></li>\n</ul>\n",
       "scores": {
         "A_BlendedCatalyticFinance": 0,
@@ -27088,7 +27113,7 @@
       "job_type": "Job",
       "category": "Program/Project Management",
       "posted": "2026-06-05T01:13:41+00:00",
-      "closing": "2026-06-25T00:00:00+00:00",
+      "closing": "2026-07-02T00:00:00+00:00",
       "description": "<p>Full time role based in Canberra</p>\n<p><strong>Program Background</strong></p>\n<p>Climate Resilient Communities (CRC) supports implementation of the Australian Government's climate change commitments under <em>Australia's International Development Policy</em>, in line with partner government priorities.</p>\n<p>CRC supports the Department of Foreign Affairs and Trade (DFAT) to increase climate investments, drive climate integration, and better address climate change and disaster risk across Australia’s development portfolio.</p>\n<p>CRC incentivises funding towards gender-responsive, inclusive climate and disaster resilience programming, particularly in the water, food, nature-based solutions, and energy sectors.</p>\n<p>DFAT has engaged DT Global to support the implementation of CRC through a Support Unit.</p>\n<p>For further information about CRC, visit the <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.dfat.gov.au/international-relations/themes/climate-change/supporting-indo-pacific-tackle-climate-change/climate-resilient-communities\"><strong>DFAT website</strong></a>.</p>\n<p><strong>About DT Global Asia Pacific</strong></p>\n<p>At DT Global Asia Pacific, we aim to positively impact people’s lives through delivery excellence. As a leading implementing partner across Asia and the Pacific, we co-create locally led solutions in partnership with governments, communities, and stakeholders. We bring together talented teams and deep regional expertise to deliver initiatives that promote inclusive economic growth, essential services, and resilient, secure communities. With over 1,500 staff, experts in 22+ countries and more than 60 years of development experience, we tackle complex community, national and transnational challenges — from governance and justice systems to climate resilience, infrastructure and social equity — with innovative thinking and a commitment to long-term impact.</p>\n<p>For more information, please see <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.dt-global.com/\"><strong>www.dt-global.com</strong></a></p>\n<p><strong>The Role</strong></p>\n<p>The Climate Integration Adviser will be based at the Climate Integration and Water team (CIP) DFAT Canberra office and will provide and coordinate advice and guidance to DFAT to strengthen climate integration across Australia’s development portfolio.</p>\n<p>Click on the link or copy paste it to access the full Terms of Reference for this position:</p>\n<p><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://tinyurl.com/m7d2ukvr\"><strong>https://tinyurl.com/m7d2ukvr</strong></a></p>\n<p><strong>About You</strong></p>\n<p>You are a passionate and proactive climate change champion at a mid-career stage, bringing both depth of expertise and a strong commitment to supporting others. You excel at translating climate knowledge into practical guidance, enabling colleagues in generalist roles to confidently integrate climate resilience considerations into their everyday work.</p>\n<p>Embedded within the DFAT Climate Integration &amp; Water section in Canberra, you will thrive as a connector, building strong relationships across DFAT teams, programs, and the CRC Support Unit. You are highly collaborative and possess outstanding stakeholder engagement skills, with the ability to influence, support, and align diverse groups toward shared climate objectives.</p>\n<p>With prior experience working within or alongside government, you understand public sector processes and can navigate complex environments effectively. You are adaptable and perform well in fast-paced, evolving settings, demonstrating initiative, flexibility, and sound judgment.</p>\n<p>Based in Canberra, or willing to relocate, you are motivated by impact and driven to embed climate resilience across programs through partnership, communication, and practical action.</p>\n<p><strong>Other Information</strong></p>\n<p>This position is to be based in Canberra, Australia.</p>\n<p>· <strong>Candidates must hold Australian citizenship and have or be willing to obtain a baseline or higher security clearance.</strong></p>\n<p><strong>Why join CRC?</strong></p>\n<p>By joining the DFAT-funded Climate Resilient Communities (CRC) program, managed by DT Global, as a Climate Integration Adviser embedded within DFAT, you will be at the forefront of integrating climate resilience into strategic policy and program delivery. In this role, you will collaborate closely with DFAT teams, technical specialists, and regional partners to embed climate considerations across development investments and support evidence-based decision-making. You will help strengthen institutional capacity, guide the design of climate-responsive programs, and ensure alignment with global and national priorities. The position offers a unique opportunity apply your expertise in a dynamic government environment, and contribute to sustainable, climate-resilient outcomes across diverse contexts, while working within a collaborative, purpose-driven ecosystem.</p>\n",
       "scores": {
         "A_BlendedCatalyticFinance": 0,
@@ -31254,6 +31279,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 6,
-  "last_updated": 286
+  "last_added": 1,
+  "last_updated": 283
 }
