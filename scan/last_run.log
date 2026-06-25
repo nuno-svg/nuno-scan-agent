@@ -1,17 +1,17 @@
-=== Run start: 2026-06-25T09:45:42.734854+00:00 ===
+=== Run start: 2026-06-25T15:47:06.631201+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 34 returned
+[ReliefWeb] q='blended finance' → 35 returned
 [ReliefWeb] q='results-based' → 24 returned
 [ReliefWeb] q='innovative financing' → 4 returned
 [ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 31 returned
+[ReliefWeb] q='investment advisor' → 32 returned
 [ReliefWeb] q='structuring' → 0 returned
 [ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 29 returned
+[ReliefWeb] q='transaction advisor' → 30 returned
 [ReliefWeb] q='capacity building' → 5 returned
-[ReliefWeb] q='executive training' → 18 returned
-[ReliefWeb] q='budget planning' → 3 returned
+[ReliefWeb] q='executive training' → 19 returned
+[ReliefWeb] q='budget planning' → 4 returned
 [ReliefWeb] q='finance consultant' → 50 returned
 [ReliefWeb] q='development finance' → 50 returned
 [ReliefWeb] q='PPP' → 0 returned
@@ -19,17 +19,17 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='DFI' → 0 returned
 [ReliefWeb] q='Lusophone' → 0 returned
 [ReliefWeb] q='Angola' → 0 returned
-[ReliefWeb] q='Mozambique' → 9 returned
-[ReliefWeb] q='advisor Africa' → 31 returned
-[ReliefWeb] q='financial advisor' → 35 returned
-[ReliefWeb] q='feasibility' → 1 returned
+[ReliefWeb] q='Mozambique' → 10 returned
+[ReliefWeb] q='advisor Africa' → 33 returned
+[ReliefWeb] q='financial advisor' → 37 returned
+[ReliefWeb] q='feasibility' → 2 returned
 [ReliefWeb] q='investment memorandum' → 2 returned
-[ReliefWeb] q='climate finance' → 42 returned
-[ReliefWeb] unique total: 242
+[ReliefWeb] q='climate finance' → 43 returned
+[ReliefWeb] unique total: 247
 [Greenhouse] Instiglio (instiglio) → 3 jobs
 [Greenhouse] Acumen (acumen) → 7 jobs
-[Greenhouse] One Acre Fund (oneacrefund) → 37 jobs
-[Greenhouse] Branch International (branch) → 12 jobs
+[Greenhouse] One Acre Fund (oneacrefund) → 38 jobs
+[Greenhouse] Branch International (branch) → 11 jobs
 [Greenhouse] Kiva (kivamicrofunds) SKIP: GET https://boards-api.greenhouse.io/v1/boards/kivamicrofunds/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Bridgespan Group (bridgespan) SKIP: GET https://boards-api.greenhouse.io/v1/boards/bridgespan/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] The END Fund (endfund) SKIP: GET https://boards-api.greenhouse.io/v1/boards/endfund/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 59
-Raw new opportunities: 301
-Pipeline: 1307 total (+11 new, 290 updated)
+Raw new opportunities: 306
+Pipeline: 1317 total (+10 new, 296 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-06-25T09:46:07.076485+00:00 ===
+=== Run end: 2026-06-25T15:47:11.472113+00:00 ===
