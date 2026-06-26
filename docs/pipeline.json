@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-26T09:52:54.922811+00:00",
-  "last_run_local": "2026-06-26 09:52 UTC",
-  "runs_count": 133,
+  "last_run_iso": "2026-06-26T15:32:23.711801+00:00",
+  "last_run_local": "2026-06-26 15:32 UTC",
+  "runs_count": 134,
   "opportunities": [
     {
       "id": "rw-4216560",
@@ -1729,6 +1729,31 @@
       "first_seen": "2026-04-29T18:05:35.649602+00:00"
     },
     {
+      "id": "rw-4218160",
+      "title": "Grants Officer",
+      "url": "https://reliefweb.int/node/4218160",
+      "source": "ReliefWeb",
+      "publisher": "International NGO Safety Organisation",
+      "country": "Netherlands",
+      "job_type": "Job",
+      "category": "Donor Relations/Grants Management",
+      "posted": "2026-06-26T13:49:33+00:00",
+      "closing": "2026-07-18T00:00:00+00:00",
+      "description": "<p><strong>About INSO</strong></p>\n<p>Founded in 2011, the International NGO Safety Organization (INSO) is an international NGO that supports humanitarian aid workers by establishing safety coordination platforms in insecure contexts. INSO provides registered NGOs with a range of free services, including real-time incident tracking, analytical reports, safety-related data and mapping, crisis management support, staff orientations, and training. INSO provides daily support to more than 1,500 NGOs operating in 24 of the world’s most insecure countries. INSO is registered in the Netherlands, with its headquarters located in The Hague, a city renowned for its international focus on peace and justice.</p>\n<p><strong>Job Summary</strong></p>\n<p>Are you ready to embark on an exciting journey with a new and vibrant team? The INSO Grants team is forming, and we are looking for passionate and enthusiastic Grants Officers to join us at our headquarters in The Hague, Netherlands.</p>\n<p>As a Grants Officer, you will be the focal point for 6-8 of our INSO country offices, playing a pivotal role in supporting them with grants management, ensuring compliance with donor requirements, and fostering capacity building. This is a brand-new position where your contributions will make a significant impact from day one! As a member of the Grants team at INSO headquarters, the position will work closely with the Regional Directors, Finance Controllers, MEAL Manager, and INSO country offices. Your role will involve coordinating and centralising service and project outputs, monitoring and evaluation, and facilitating seamless communications from our country offices. To keep our grant management process running smoothly, you will assist with grant reviews, organise opening and closing meetings, and maintain meticulous records and learning processes.</p>\n<p><strong>Major Responsibilities</strong></p>\n<p><em>Grant Management</em></p>\n<ul>\n<li>Supervises the portfolio for allocated countries and supports country offices in the development of donor proposals, ensuring alignment with organisational goals and donor requirements.</li>\n<li>Review and provide feedback on project revisions to ensure compliance with donor regulations and INSO standards.</li>\n<li>Oversee the timely and accurate submission of donor reports, coordinating with country offices to gather necessary information and data.</li>\n<li>Contribute to regular monthly grant management and BvA reviews with INSO country offices and coordination with the Regional Directors and Finance Controllers</li>\n<li>Coordinate with the Grants Manager, Regional Directors, and Finance Controller to support the supervision of the donor deadlines, funding pipeline, and donor reports.</li>\n<li>Ensure proper archiving of grant documents both at the HQ and country-office levels, and maintain the workflows in the grant management system</li>\n<li>Document, analyse, and share learning for proposal development, reporting, and grant modification processes and compliance with donor rules and regulations</li>\n<li>Delivering donor mapping exercises for country offices, supporting the consolidation of the fundraising strategy/assumptions for the annual plans</li>\n<li>Lead due diligence assessments and support country offices with audits and other donor requests</li>\n<li>Act as Champion of the Grant Management system in terms of maintaining accurate records, processing workflows and training country teams</li>\n</ul>\n<p><em>Capacity Development</em></p>\n<ul>\n<li>Develop and deliver training and capacity-building initiatives for staff in country offices, enhancing their skills and knowledge in grant management and compliance.</li>\n<li>Mentor and support the INSO country office staff on quality donor engagement</li>\n</ul>\n<p><strong>Requirements</strong></p>\n<p><em>Essential</em></p>\n<ul>\n<li>4+ years’ experience in grant management</li>\n<li>Comprehensive experience with institutional donors, including DG ECHO, FCDO, SDC, Sida, and other INSO donors</li>\n<li>Experience in proposal development and reporting for institutional donors</li>\n<li>Excellent command of MS Office applications</li>\n<li>Fluent in English with excellent reading, writing, and speaking skills</li>\n<li>Must have the right to live and work in the Netherlands</li>\n<li>Master's degree in political science, international relations, or a relevant social sciences discipline</li>\n</ul>\n<p><em>Desirable</em></p>\n<ul>\n<li>Experience in capacity building (report writing, donor compliance, and proposal development</li>\n<li>Working experience in humanitarian organisations and countries currently covered by INSO, with particular focus on Sudan, South Sudan, Somalia, Kenya, and Mozambique.</li>\n</ul>\n<p><strong>INSO’s Safeguarding Policy</strong></p>\n<p>INSO is fully committed to the safe recruitment, selection, and vetting of all potential new staff, trustees, and volunteers. We ensure rigorous compliance with our Code of Conduct and Safeguarding Policy throughout the recruitment process. INSO is a member of the Misconduct Disclosure Scheme, and the selected candidate will be required to undergo the relevant misconduct disclosure checks as part of the final hiring steps.</p>\n<p><strong>Terms &amp; Conditions</strong></p>\n<p>Fixed-term (renewable) full-time contract based in The Hague, Netherlands, EUR 4,800 per month, 8% vacation pay (vakantiegeld), 2.5 days annual leave per month. INSO will provide Basic Premium ONVZ health insurance. The right to live and work in the Netherlands is required for this position. Be aware that INSO’s employment terms do not include transport and pension benefits.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 4,
+        "C_ExecutiveTraining": 7,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 7,
+      "overall_score": 8.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711558+00:00"
+    },
+    {
       "id": "rw-4206090",
       "title": "RFP for Congenital Syphilis Investment Case",
       "url": "https://reliefweb.int/node/4206090",
@@ -2537,9 +2562,9 @@
       "country": "Nairobi, Kenya",
       "job_type": "FIA - Corporate Finance",
       "category": "FIA - Corporate Finance",
-      "posted": "2026-06-26T04:32:49-04:00",
+      "posted": "2026-06-26T08:55:51-04:00",
       "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Young Professionals Program</h3>\n<p>One Acre Fund’s Young Professionals Program offers high-performing African graduates meaningful internships and training opportunities at a high-performing, mission-driven organization. Our internships are paid and all interns can expect to receive substantive work assignments working on high-impact projects that support One Acre Fund's operations.</p>\n<p>When joining, interns will participate in an onboarding program and receive training on how to design and execute projects. Over the period of your internship, you will get the opportunity to work with like-minded individuals and receive learning opportunities to build strong foundations for your future career.&nbsp;</p>\n<h3>About the Role</h3>\n<p>This role supports the execution of the loan compliance and reporting function, the&nbsp;department’s operations, lender due diligence, and one-off analytical projects.</p>\n<h3>Responsibilities</h3>\n<p>Support the Execution of loan compliance and reporting function</p>\n<ul>\n<li>Draft reports required by lenders (e.g. annual questionnaires, quarterly financial reports, ad hoc requests) with oversight of the Investor Relation Specialist for revie",
+      "description": "<h3><strong>About One Acre Fund</strong></h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions. To learn more, please see our <a href=\"https://oneacrefund.org/careers/why-work-here\">Why Work Here</a> blog post.</p>\n<h3><strong>About the Role</strong></h3>\n<p>One Acre Fund relies on grant funding to support our operations, but also takes on debt to finance our working capital needs. This role is on the Investor Relations (IR) team, which manages our debt needs, identifies and grows relationships with lenders, and advises on capital structure and liquidity management. The graduate trainee will support the IR team across loan compliance and reporting, lender due diligence, team operations, and analytical projects.</p>\n<p>The IR team is a team of 3 people, based in Kenya and the U.S. and part of the larger Finance Division. You will report to the Investor Relations Specialist.<br><br>This is a strong opportunity for someone interested in finance, impact investing, or accounting to gain hands-on experience working with global lenders and investors in a fast-paced social enterprise environment.</p>\n<h3>&nbsp;</h3>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li><strong>Loan Reporting and Compliance: </strong>You will help prepare financial and operational reports for lenders, support internal reporting for senior leadership, and assist with interest payments and reconciliations.</li>\n<li><strong>Investor Rela",
       "scores": {
         "A_BlendedCatalyticFinance": 3,
         "B_DealStructuring": 4,
@@ -3204,6 +3229,31 @@
       "first_seen": "2026-04-28T10:07:22.044710+00:00"
     },
     {
+      "id": "gh-7964113",
+      "title": "Malawi Agricultural Innovations Lead",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7964113",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Zomba, Malawi Lilongwe, Malawi",
+      "job_type": "FOP - Field Operations",
+      "category": "FOP - Field Operations",
+      "posted": "2026-06-26T06:28:12-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<p>Our Malawi program, founded in 2016, provides more than 670,000 farmers with quality farm supplies and training. Our office in Malawi is located in Zomba, in the country’s south. One Acre Fund works in Malawi’s southern region, which has the highest concentration of smallholder farmers in the country.</p>\n<h3>About the Role</h3>\n<p><span style=\"font-size: 10pt;\">Seek</span>ing a passionate professional with 5+ years of strategic and operational experience to lead Malawi's Impact team, co-define country strategy, manage R&amp;D trials, and scale market access buybacks to directly increase smallholder farmers' resilience.</p>\n<h3>Responsibilities</h3>\n<p>Management of the HQ Impact team (~25<em>% of bandwidth</em>)</p>\n<ul>\n<li>Manage 3 or 4 direct reports</li>\n<li>Conduct weekly check-ins providing them with enough feedback to help them continuously improve their overall performance, with stretching projects to expand their professional growth and meaningful contributions to our programs’ impact&nbsp;</li>\n<li>Write semi annual thorough and well-calibrated individual PDRs and goals, as well as promotion plans or performance improvement plan when appropriate</li>\n<li>Continuously review",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-09T10:04:21.680132+00:00"
+    },
+    {
       "id": "gh-7975752",
       "title": "Recruitment Intern",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=7975752",
@@ -3277,31 +3327,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-19T16:15:42.230206+00:00"
-    },
-    {
-      "id": "gh-7964113",
-      "title": "Malawi Field Operations Impact Lead",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7964113",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Zomba, Malawi Lilongwe, Malawi",
-      "job_type": "FOP - Field Operations",
-      "category": "FOP - Field Operations",
-      "posted": "2026-06-19T07:56:05-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<p>Our Malawi program, founded in 2016, provides more than 670,000 farmers with quality farm supplies and training. Our office in Malawi is located in Zomba, in the country’s south. One Acre Fund works in Malawi’s southern region, which has the highest concentration of smallholder farmers in the country.</p>\n<h3>About the Role</h3>\n<p><span style=\"font-size: 10pt;\">Seek</span>ing a passionate professional with 5+ years of strategic and operational experience to lead Malawi's Impact team, co-define country strategy, manage R&amp;D trials, and scale market access buybacks to directly increase smallholder farmers' resilience.</p>\n<h3>Responsibilities</h3>\n<p>Management of the HQ Impact team (~25<em>% of bandwidth</em>)</p>\n<ul>\n<li>Manage 3 or 4 direct reports</li>\n<li>Conduct weekly check-ins providing them with enough feedback to help them continuously improve their overall performance, with stretching projects to expand their professional growth and meaningful contributions to our programs’ impact&nbsp;</li>\n<li>Write semi annual thorough and well-calibrated individual PDRs and goals, as well as promotion plans or performance improvement plan when appropriate</li>\n<li>Continuously review",
-      "scores": {
-        "A_BlendedCatalyticFinance": 3,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.5,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-09T10:04:21.680132+00:00"
     },
     {
       "id": "gh-7992644",
@@ -3727,6 +3752,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.044784+00:00"
+    },
+    {
+      "id": "gh-7958003",
+      "title": "Creative Lead",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7958003",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Flexible, Countries of Operations",
+      "job_type": "COM - Communications",
+      "category": "COM - Communications",
+      "posted": "2026-06-26T07:22:39-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>As our Creative Lead and deputy to the Creative Director, you will sit on the Global Communications team. This role will require strong systems building and management, alongside deep creative professional experience that will allow you to review assets across many creative fields.&nbsp; Instead of heavy daily hands-on asset creation, one of your main focuses will be traffic control and workflow management, building and running a centralized request pipeline while leading and mentoring a talented team of ~5 creatives. You will be the one of the main guardians of our brand identity, ensuring everything we produce hits our high-quality bar, meets strict Service Level Agreements (SLAs) and satisfies cross-functional stakeholder needs.</p>\n<h3>Responsibilities</h3>\n<p>Creative Content Quality Review &amp; Brand Management</p>\n<ul>\n<li>Final Creative Sign-Off: Serve as one of the last line reviews for some of the organization’s public-facing assets. Provide rigorous, highly actionable quality and consistency feedback across writing, graphic design, photography and video before final production release.</li>\n<li>Engage in brand building and advising for new affiliate",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.2,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-11T10:59:18.299716+00:00"
     },
     {
       "id": "gh-7698410",
@@ -4329,6 +4379,56 @@
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
     },
     {
+      "id": "rw-4217989",
+      "title": "Programme Communication Manager (m/f/d) – Mozambique – MSF English & Portuguese speaking",
+      "url": "https://reliefweb.int/node/4217989",
+      "source": "ReliefWeb",
+      "publisher": "Médecins Sans Frontières",
+      "country": "",
+      "job_type": "Job",
+      "category": "Advocacy/Communications",
+      "posted": "2026-06-26T10:34:48+00:00",
+      "closing": "2026-07-26T00:00:00+00:00",
+      "description": "<p>MSF has been working in Mozambique since 1984. For over 40 years, our teams have responded to medical and humanitarian emergencies countrywide, including HIV, TB (Tuberculosis), malnutrition, malaria, cholera, natural disasters, COVID-19, as well as people displaced from their homes due to conflicts. In Cabo Delgado province, we respond to emergencies and help to fill gaps in healthcare, often working alongside health authorities and other partners.</p>\n<p>As <strong>Programme Communication Manager</strong> (CM) you define, implement, coordinate and supervise all operational communication activities following MSF standards, with focus on the operations in the northern province of Cabo Delgado. You are based in Pemba, and cover MSF projects in Cabo Delgado and emergencies in northern Mozambique as well as in other parts of the country, in liaison with the Country Representative in Maputo, the Country Coordinator in Pemba, Communications Advisors (CAs) at regional and Head Quarter (HQ) level and the Programme Communications Officer (CO) in Pemba. You also support and coordinate punctual activities and meetings in Maputo on a need basis. Your objective is to increase the visibility of the organization, improving awareness of its principles and work, while reinforcing information on MSF activities among communities and to support operational priorities as well as objectives.</p>\n<p><strong>MAIN PURPOSE</strong></p>\n<p>MSF uses public communications to support its medical humanitarian action, to bear witness on the crises it works in, to make its work known to the public, and to secure and sustain public support for its social mission, including through fundraising and recruitment efforts. The purpose of the Programme Communication Manager (CM) is to define, oversee and implement communications strategies in direct support of MSF's medical humanitarian programmes and social mission.</p>\n<p><strong>ACCOUNTABILITIES</strong></p>\n<p><em><strong>Strategies for operational communications and bearing witness:</strong></em></p>\n<ul>\n<li>Defines and manages communications strategies in the country, under the supervision of the Country Representative (1st line) and the Country Coordinator (final decision maker at Country level) in collaboration with the Communications Advisor (CA), staying responsive to operational needs, emergencies, and crisis situations, with effective prioritization.</li>\n<li>Alerts on unfolding situations in MSF project areas that may require public communication by MSF.</li>\n<li>Seeks opportunities to highlight underreported crises or issues.</li>\n<li>Identifies significant issues across MSF operations relevant to communications and advises on messaging and public positioning, collaborating/coordinating with humanitarian affairs managers as needed (as applicable)</li>\n<li>Develops and/or updates a Country Communications Framework (CCF) which provides an overview of context, workflows and operational communications priorities in the country in collaboration with Communications Advisors (CAs) or the Programme Communications Coordinator (as applicable.)</li>\n<li>Develops guidelines in country for crisis communications management.</li>\n<li>In emergencies, ensures timely delivery of guidance and content for MSF colleagues and media, the MSF communications network and for public release, as outlined in the MSF Emergency Communications Framework, in line with the Emergency Fundraising Policy as needed.</li>\n</ul>\n<p><em><strong>Dissemination and engagement strategies:</strong></em></p>\n<ul>\n<li>Drives and oversees national and international media management in the country, including traditional media outlets and their online versions, digital channels, influencers, and citizen media. May delegate / share responsibilities with other field communications staff in the country, such as managing media relations, pitching content, coordinating media events or visits to MSF projects, depending on the team's structure.</li>\n<li>Collaborates with MSF digital teams (in country, in the region or other) for strategic dissemination and engagement on MSF social media channels.</li>\n<li>Identifies media and/or communication training needs for staff and organizes communications sessions as needed.</li>\n<li>Acts as a spokesperson for MSF when required.</li>\n</ul>\n<p><em><strong>Content production:</strong></em></p>\n<ul>\n<li>Decides on communication tools based on agreed objectives, messages, and target audiences.</li>\n<li>Transforms operational or medical information into appropriate content relevant to the humanitarian/health situation.</li>\n<li>Collects material and produces or seeks support to produce timely content (AV, flash quotes, press releases, social media posts, or other relevant types of content,) in accordance with the strategy and budget and in response to rapidly evolving situations.</li>\n<li>Contributes to content production at headquarter level by providing material (such as information, testimonies, pictures, videos, etc.) to the Communications Advisor (CA) or other communications staff.</li>\n<li>Follows MSF communications ethical guidelines in all materials directly collected and produced, such as informed consent, DEI (diversity, equity, and inclusion) guidelines, and other relevant communications standards or guidelines.</li>\n<li>Maintains a record of communications production in the country to enhance institutional memory.</li>\n</ul>\n<p><em><strong>Digital and media monitoring:</strong></em></p>\n<ul>\n<li>Uses appropriate monitoring tools in collaboration with the Programme Communications Officer to build, update and strengthen understanding of the media landscape, audiences and public narratives of relevance to track MSF coverage and identify misinformation or reputational issues.</li>\n<li>Ensures that problematic mentions of MSF are promptly reported to operations and/or communications, advises how to address them, and supervises or leads the response.</li>\n</ul>\n<p><strong>Internal stakeholder engagement and reporting:</strong></p>\n<ul>\n<li>The CM is the primary focal point for MSF staff in the country on public communications. The CM engages with Country, Project, Medical Coordinators, Advocacy/Humanitarian Affairs and other relevant operational colleagues, to understand needs, advise on strategy and public messaging, and coordinate requests for communication support.</li>\n<li>Develops regular reporting mechanisms on planned activities and results.</li>\n<li>In case of other communications teams in the same country, communications staff are responsible of informing one another of activities and coordinating the use of common tools, such as digital channels and managing press relations.</li>\n</ul>\n<p><em><strong>Global MSF communications network:</strong></em></p>\n<ul>\n<li>Provides the MSF communications network with updates and guidance on operational and humanitarian situations, advising on communications opportunities and messaging.</li>\n<li>Responds to MSF communications network requests by providing content for international use, facilitating media visits, or contributing to specific campaigns or fundraising efforts, when possible and agreed upon.</li>\n</ul>\n<p><em><strong>Team management and budget:</strong></em></p>\n<ul>\n<li>The CM manages, supports and supervises staff under their direct responsibility.</li>\n<li>The CM produces an annual communications budget for approval to the Country Representative (1st line), the Country Coordinator (final decision maker) and communications department at HQ.</li>\n</ul>\n<p><strong>REQUIREMENTS</strong></p>\n<ul>\n<li>Essential: University degree in a relevant field, such as in journalism, communication Development, Political science or International Relations.</li>\n<li>Essential: Previous working experience of at least 4 years in communication, journalism or public relations</li>\n<li>Essential: Experience in MSF or other International NGOs working in humanitarian contexts</li>\n<li>Desirable: Team management</li>\n</ul>\n<p><strong>Languages</strong></p>\n<ul>\n<li>Fluency in written and spoken Portuguese and English is mandatory</li>\n</ul>\n<p><strong>Competencies</strong></p>\n<ul>\n<li>Strong organizational and public communications skills, with exposure to crisis communications</li>\n<li>Contributes to maintaining a positive environment and team spirit within the organization</li>\n<li>Commitment to MSF principles</li>\n<li>Strong analytical abilities with a track record in media management, social media/community engagement and disinformation</li>\n<li>Proven strong understanding of media operations and strategy implementations, applied to the context</li>\n<li>Capable of managing and delivering multiple projects simultaneously maintaining high standards under pressure</li>\n<li>Willingness and ability to travel to MSF areas of operations with very short notice, and proactivity in seeking opportunities for communications/media visits</li>\n<li>Analytical thinking and strategic vision (definition &amp; linking of objectives, audiences, channels &amp; formats),</li>\n<li>Experience in media management including monitoring trends and narratives, landscape mapping and analysis, and media engagement (pitching, dissemination, organization of press events/briefings).</li>\n<li>Willingness and ability to be a spokesperson and train other spokespersons.</li>\n<li>Ability to identify strong storylines to tell and turn them into communication products.</li>\n</ul>\n<p><strong>CONDITIONS</strong></p>\n<ul>\n<li>Expected starting date: 15 October 2026</li>\n<li>Location: Pemba (Cabo Delgado Province – Mozambique)</li>\n<li>Mobility of approximately 40%</li>\n<li>Contract type: Fixed term contract – Full time</li>\n<li>Contract duration: 12 months</li>\n<li>Salary according to MSF mobile salary grid</li>\n</ul>\n<p><em>The contractual terms, conditions and salary will be established according to the contractual MSF entity based on the candidate’s residence and in respect of MSF standard function and salary grids</em></p>\n<ul>\n<li>No family position</li>\n<li><strong>Adhere to the MSF principles and to our managerial values: Respect, Transparency, Integrity, Accountability, Trust and Empowerment</strong></li>\n<li><strong>Adhere to the MSF Behavioral Commitments</strong></li>\n</ul>\n<p>The major part of our projects are taking place in acute or chronic crisis areas and instable contexts. Learn more about security management within our organization <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=SI7MsR-helE\">here</a> and about working in acute conflict <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=oNXdGhxYDeM\">here</a>. The living conditions in the project can be challenging due to isolation, rough climate, security and set up of the living quarters. Learn more about working and living in the projects <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=Mc-njOPX-K4\">here</a>.</p>\n<p><strong>Deadline for applications: 26 July 2026 (24:00 CET)</strong></p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711726+00:00"
+    },
+    {
+      "id": "gh-7978473",
+      "title": "Networks Administrator",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7978473",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Kigali, Rwanda",
+      "job_type": "ITO - IT Operations",
+      "category": "ITO - IT Operations",
+      "posted": "2026-06-26T08:21:22-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Executes and improves networks management; pursues opportunities for automation, cost reduction and enhanced services</p>\n<h3>Responsibilities</h3>\n<p>Infrastructure and Platform Management</p>\n<ul>\n<li>Implement and administer IT Networks: LAN, WAN, network segments and Internet</li>\n<li>Network connections are stable</li>\n<li>Network connections comply with InfoSec policies</li>\n<li>High availability</li>\n<li>Install and maintain both hardware and software</li>\n<li>Work through Country ITO (i.e. via SOPs) to manage upgrades and repairs; ensure proper CITO training</li>\n<li>Update documentation</li>\n<li>Identify and pursue opportunities for improvement through automation, cost reduction, or similar</li>\n</ul>\n<p>Monitoring and Event Management</p>\n<ul>\n<li>Design and implement monitoring, alerting, and thresholds; detect potential service disruptions</li>\n<li>Manage network events and incidents</li>\n<li>Determine their significance</li>\n<li>Identify and execute the correct control action</li>\n<li>Mitigate network events and incidents</li>\n<li>Implement networking redundancies and backup</li>\n</ul>\n<p>Service Networks Requests</p>\n<ul>\n<li>Resolve Tier 2 or 3 i",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-17T11:18:19.618665+00:00"
+    },
+    {
       "id": "rw-4217912",
       "title": "Cash & Markets Project Manager - Dnipro",
       "url": "https://reliefweb.int/node/4217912",
@@ -4352,31 +4452,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-25T15:47:11.257119+00:00"
-    },
-    {
-      "id": "gh-7958003",
-      "title": "Creative Lead",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7958003",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Flexible, Countries of Operations",
-      "job_type": "COM - Communications",
-      "category": "COM - Communications",
-      "posted": "2026-06-25T08:24:14-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>As our Creative Lead and deputy to the Creative Director, you will sit on the Global Communications team. Instead of doing heavy hands-on design or video editing daily, your main focus will be managing workflow, leading a talented team of ~5 creatives, and ensuring everything we produce hits our high-quality bar and stays strictly on-brand. You will oversee incoming creative requests, manage our team support systems, and ensure we meet our Service Level Agreements (SLAs) across the finish line.</p>\n<h3>Responsibilities</h3>\n<p>Creative Content Quality Review &amp; Brand Management</p>\n<ul>\n<li>Hold quality bar and last line reviews for some creative content by reviewing and give feedback to improve quality on writing, design, photography, and video</li>\n<li>Engage in brand building and advising for new affiliates within the org’s brand families</li>\n<li>Drive brand guideline expansions and evolutions to better serve our markets as needed (example, work with the Design Lead to build out youth brand guidelines)</li>\n</ul>\n<p>Run &amp; Improve Comms Support Systems</p>\n<ul>\n<li>Build, maintain, and improve single Comms support request form</li>\n<li>Receive incomin",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-11T10:59:18.299716+00:00"
     },
     {
       "id": "gh-8020453",
@@ -4577,31 +4652,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-09T10:04:21.680123+00:00"
-    },
-    {
-      "id": "gh-7978473",
-      "title": "Networks Administrator",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7978473",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Kigali, Rwanda or Nairobi, Kenya",
-      "job_type": "ITO - IT Operations",
-      "category": "ITO - IT Operations",
-      "posted": "2026-06-17T01:35:07-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>Executes and improves networks management; pursues opportunities for automation, cost reduction and enhanced services</p>\n<h3>Responsibilities</h3>\n<p>Infrastructure and Platform Management</p>\n<ul>\n<li>Implement and administer IT Networks: LAN, WAN, network segments and Internet</li>\n<li>Network connections are stable</li>\n<li>Network connections comply with InfoSec policies</li>\n<li>High availability</li>\n<li>Install and maintain both hardware and software</li>\n<li>Work through Country ITO (i.e. via SOPs) to manage upgrades and repairs; ensure proper CITO training</li>\n<li>Update documentation</li>\n<li>Identify and pursue opportunities for improvement through automation, cost reduction, or similar</li>\n</ul>\n<p>Monitoring and Event Management</p>\n<ul>\n<li>Design and implement monitoring, alerting, and thresholds; detect potential service disruptions</li>\n<li>Manage network events and incidents</li>\n<li>Determine their significance</li>\n<li>Identify and execute the correct control action</li>\n<li>Mitigate network events and incidents</li>\n<li>Implement networking redundancies and backup</li>\n</ul>\n<p>Service Networks Requests</p>\n<ul>\n<li>Resolve Tier 2 or 3 i",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 0,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.0,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-06-17T11:18:19.618665+00:00"
     },
     {
       "id": "gh-7957990",
@@ -7902,6 +7952,56 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.045071+00:00"
+    },
+    {
+      "id": "rw-4218150",
+      "title": "Legal Adviser, Africa Unit – IHL Centre",
+      "url": "https://reliefweb.int/node/4218150",
+      "source": "ReliefWeb",
+      "publisher": "Diakonia International Humanitarian Law Centre",
+      "country": "Kenya, Uganda",
+      "job_type": "Job",
+      "category": "Other",
+      "posted": "2026-06-26T13:58:21+00:00",
+      "closing": "2026-07-05T00:00:00+00:00",
+      "description": "<p><em>We are looking for a committed individual with a passion for and strong command of international humanitarian law (IHL) to join our Africa Unit team in Nairobi, Kenya in a role central to our activities in the East and Central Africa context.</em></p>\n<p><strong>WHO WE ARE</strong></p>\n<p>The IHL Centre is an independent expert group that provides rapid and in-depth legal advice, training and advocacy on the laws of war to ensure the protection of people in conflict zones worldwide.</p>\n<p>We engage in research, advocacy, and training to foster understanding and respect for IHL and for complementary rules of international law. Our rapid and in-depth analyses enable the humanitarian sector and other stakeholders to respond to urgent needs and to promote the effective implementation of humanitarian standards.</p>\n<p>The Centre is part of the Swedish development organisation Diakonia. In addition to its Unit in Africa, the Centre has teams based in Beirut, Geneva, and Jerusalem, which cover conflicts in the Middle East, West Africa, East and Central Africa, and emerging crises worldwide.</p>\n<p>Through our progressive and inclusive approach, we aspire to secure the strongest possible protection for every person affected by armed conflict. No one should be left unprotected; no situation is beyond the law.</p>\n<p><strong>Our values and commitment to safeguarding</strong></p>\n<p>The IHL Centre is committed to promoting equality, diversity, and inclusion in the workplace, and strives to be representative of all sections of society. We know that different perspectives, experiences, and competences are key for the Centre to be a relevant, capable, and successful organization. The IHL Centre therefore strives to recruit staff with diverse backgrounds and lived experiences.</p>\n<p>The IHL Centre as part of Diakonia is committed to preventing any type of unwanted behaviour at work including sexual harassment, exploitation and abuse, lack of integrity and financial misconduct; and committed to promoting the welfare of children, young people, adults and beneficiaries with whom the IHL Centre and Diakonia engage. The IHL Centre expects all staff and volunteers to share this commitment through our code of conduct. We place a high priority on ensuring that only those who share and demonstrate our values are recruited to work for us. The post holder will undertake the appropriate level of training and is responsible for ensuring that they understand and work within the safeguarding policies of the organization. All offers of employment will be subject to satisfactory references and appropriate screening checks, which can include criminal records and terrorism finance checks. Diakonia also participates in <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://misconduct-disclosure-scheme.org/\">the Inter Agency Misconduct Disclosure Scheme.</a> In line with this Scheme, we will request information from job applicants’ previous employers about any findings of sexual exploitation, sexual abuse and/or sexual harassment during employment, or incidents under investigation when the applicant left employment. By submitting an application, the job applicant confirms his/her understanding of these recruitment procedures.</p>\n<p><strong>THE Africa Unit Team</strong></p>\n<p>The Africa Unit serves as the IHL Centre’s regional hub for legal expertise and humanitarian engagement across conflict-affected contexts on the African continent. Working throughout East, Central, and parts of West Africa, the Unit provides legal analysis, advisory support, capacity strengthening, and humanitarian policy engagement to humanitarian organizations, donors, diplomatic actors, and civil society partners.</p>\n<p>The Unit works to strengthen respect for IHL and improve protection outcomes for populations affected by armed conflict through context-specific legal guidance, training, research, and strategic engagement. Its current priority contexts include Sudan, the Democratic Republic of the Congo (DRC), Ethiopia, and Mali, alongside targeted engagement in Burkina Faso, South Sudan, Mozambique, and Niger. The Unit combines rapid-response legal support with long-term partnerships to address some of the most pressing humanitarian and protection challenges across the continent.</p>\n<p><strong>PURPOSE OF THE POSITION</strong></p>\n<p>Reporting to the Head of Unit &amp; Senior Legal Expert, the Legal Adviser will contribute to the Africa Unit’s work by providing high-quality legal analysis, advisory support, and capacity-strengthening assistance to humanitarian partners across the Unit’s priority contexts. The position will support efforts to strengthen respect for IHL and improve protection outcomes for populations affected by armed conflict through legal research, training, strategic engagement, and policy-oriented advice.</p>\n<p><strong>Key Responsibilities</strong></p>\n<p><em><strong>Legal Advice and Analysis</strong></em></p>\n<ul>\n<li>Deliver high-quality legal and policy analysis, both written and oral, to humanitarian actors operating across the Africa Unit's priority contexts on conflict-related issues, including but not limited to the classification of armed conflicts, protection of civilians, humanitarian access, counterterrorism measures and humanitarian action, forced displacement, engagement with armed actors, and the use of explosive weapons in populated areas (EWIPA).</li>\n<li>Respond to Helpdesk and advisory service requests from humanitarian partners, including protection clusters, working groups, humanitarian coordination platforms, consortiums, and donor-supported initiatives.</li>\n<li>Produce legal briefings, policy papers, protection analyses, and other knowledge products to support evidence-based humanitarian decision-making and advocacy.</li>\n</ul>\n<p><em><strong>Capacity Building and Strategic Engagement</strong></em></p>\n<ul>\n<li>Design and deliver IHL training and capacity-strengthening initiatives for humanitarian actors, civil society organizations, and other relevant stakeholders across the Africa Unit's priority contexts, with a particular focus on Ethiopia and South Sudan.</li>\n<li>Support engagement with humanitarian partners and local actors in conflict-affected contexts, including South Sudan, Ethiopia, and other countries of focus, to strengthen understanding and implementation of IHL and protection standards.</li>\n<li>Contribute to strategic engagement initiatives that facilitate dialogue between humanitarian actors and relevant stakeholders on issues relating to civilian protection, humanitarian access, and compliance with international humanitarian law.</li>\n</ul>\n<p><em><strong>Humanitarian Diplomacy, Advocacy and Policy Development</strong></em></p>\n<ul>\n<li>Identify and support opportunities for humanitarian diplomacy, advocacy, and policy engagement that advance respect for international humanitarian law and strengthen protection outcomes for conflict-affected populations.</li>\n<li>Engage with diplomatic missions, donors, United Nations entities, regional organizations, and other policy actors to promote informed dialogue on humanitarian and protection challenges in the Unit's priority contexts.</li>\n<li>Represent the Centre at national, regional, and international forums, meetings, and events, ensuring that the Centre's legal analysis, policy positions, and strategic priorities are effectively communicated.</li>\n</ul>\n<p><em><strong>Research, Partnerships and Programme Support</strong></em></p>\n<ul>\n<li>Contribute to the development of research, policy, and learning initiatives that advance the Centre's strategic objectives and support the dissemination of legal and operational lessons learned.</li>\n<li>Support the development and maintenance of partnerships with humanitarian organizations, civil society actors, academic institutions, donors, and other relevant stakeholders.</li>\n<li>Contribute to programme design, proposal development, reporting, and monitoring processes, as required.</li>\n</ul>\n<p><em><strong>Intersectional and Inclusive Approach</strong></em></p>\n<ul>\n<li>Apply a gender-responsive, inclusive, and intersectional approach across all aspects of the work, with particular attention to the age, gender, disability, and other protection dimensions of armed conflict.</li>\n<li>Ensure that legal advice, analysis, training, and engagement activities reflect the diverse experiences and needs of conflict-affected populations.</li>\n</ul>\n<p><strong>Experience and Qualifications</strong></p>\n<ul>\n<li>Proven high-level of expertise in IHL (this will be tested during the interview process)</li>\n<li>Degree in law (JD or LLM) with specialization and/or experience in international humanitarian law, international human rights law, and international criminal law.</li>\n<li>Up to 3 years of relevant experience as a researcher or legal adviser within an international governmental organization, the United Nations or non-governmental organizations.</li>\n<li>Demonstrated capacity to conduct advanced legal research and analysis independently, and draft high-quality texts in English.</li>\n<li>Strong knowledge of conflicts within the East and Horn of Africa region.</li>\n<li>Expertise in intersectionality, and the age, gender, and disability dynamics of armed conflict would be an asset.</li>\n<li>Outstanding level of English writing proficiency, other languages are an asset.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 4
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711736+00:00"
+    },
+    {
+      "id": "rw-4218148",
+      "title": "Legal Adviser (Sudan), Africa Unit – IHL Centre (2 positions)",
+      "url": "https://reliefweb.int/node/4218148",
+      "source": "ReliefWeb",
+      "publisher": "Diakonia International Humanitarian Law Centre",
+      "country": "Egypt, Kenya, South Sudan, Sudan, Uganda",
+      "job_type": "Job",
+      "category": "Other",
+      "posted": "2026-06-26T13:56:07+00:00",
+      "closing": "2026-07-05T00:00:00+00:00",
+      "description": "<p><em>We are looking for a committed individual with a passion for and strong command of international humanitarian law (IHL) to join our Africa Unit team in Nairobi, Kenya in a role central to our activities in the East and Central Africa context.</em></p>\n<p><strong>WHO WE ARE</strong></p>\n<p>The IHL Centre is an independent expert group that provides rapid and in-depth legal advice, training and advocacy on the laws of war to ensure the protection of people in conflict zones worldwide.</p>\n<p>We engage in research, advocacy, and training to foster understanding and respect for IHL and for complementary rules of international law. Our rapid and in-depth analyses enable the humanitarian sector and other stakeholders to respond to urgent needs and to promote the effective implementation of humanitarian standards.</p>\n<p>The Centre is part of the Swedish development organisation Diakonia. In addition to its Unit in Africa, the Centre has teams based in Beirut, Geneva, and Jerusalem, which cover conflicts in the Middle East, West Africa, East and Central Africa, and emerging crises worldwide.</p>\n<p>Through our progressive and inclusive approach, we aspire to secure the strongest possible protection for every person affected by armed conflict. No one should be left unprotected; no situation is beyond the law.</p>\n<p><strong>OUR VALUES AND COMMITMENT TO SAFEGUARDING</strong></p>\n<p>The IHL Centre is committed to promoting equality, diversity, and inclusion in the workplace, and strives to be representative of all sections of society. We know that different perspectives, experiences, and competences are key for the Centre to be a relevant, capable, and successful organization. The IHL Centre therefore strives to recruit staff with diverse backgrounds and lived experiences.</p>\n<p>The IHL Centre as part of Diakonia is committed to preventing any type of unwanted behaviour at work including sexual harassment, exploitation and abuse, lack of integrity and financial misconduct; and committed to promoting the welfare of children, young people, adults and beneficiaries with whom the IHL Centre and Diakonia engage. The IHL Centre expects all staff and volunteers to share this commitment through our code of conduct. We place a high priority on ensuring that only those who share and demonstrate our values are recruited to work for us. The post holder will undertake the appropriate level of training and is responsible for ensuring that they understand and work within the safeguarding policies of the organization. All offers of employment will be subject to satisfactory references and appropriate screening checks, which can include criminal records and terrorism finance checks. Diakonia also participates in <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://misconduct-disclosure-scheme.org/\">the Inter Agency Misconduct Disclosure Scheme.</a> In line with this Scheme, we will request information from job applicants’ previous employers about any findings of sexual exploitation, sexual abuse and/or sexual harassment during employment, or incidents under investigation when the applicant left employment. By submitting an application, the job applicant confirms his/her understanding of these recruitment procedures.</p>\n<p><strong>THE AFRICA UNIT TEAM</strong></p>\n<p>The Africa Unit serves as the IHL Centre’s regional hub for legal expertise and humanitarian engagement across conflict-affected contexts on the African continent. Working throughout East, Central, and parts of West Africa, the Unit provides legal analysis, advisory support, capacity strengthening, and humanitarian policy engagement to humanitarian organizations, donors, diplomatic actors, and civil society partners.</p>\n<p>The Unit works to strengthen respect for IHL and improve protection outcomes for populations affected by armed conflict through context-specific legal guidance, training, research, and strategic engagement. Its current priority contexts include Sudan, the Democratic Republic of the Congo (DRC), Ethiopia, and Mali, alongside targeted engagement in Burkina Faso, South Sudan, Mozambique, and Niger. The Unit combines rapid-response legal support with long-term partnerships to address some of the most pressing humanitarian and protection challenges across the continent.</p>\n<p><strong>PURPOSE OF THE POSITION</strong></p>\n<p>Reporting to the Head of Unit &amp; Senior Legal Expert, the Legal Adviser will contribute to the Africa Unit’s work by providing high-quality legal analysis, advisory support, and capacity-strengthening assistance to humanitarian partners across the Unit’s priority contexts, with a particular focus on Sudan. The position will play a key role in supporting the implementation of the IHL Centre’s Sudan-focused programming, including engagement with Emergency Response Rooms (ERRs), the Localisation Coordination Council (LCC), humanitarian partners, and other stakeholders, while contributing to the broader strategic objectives and work of the Africa Unit.</p>\n<p><strong>Key Responsibilities</strong></p>\n<p><em><strong>Legal Advice and Analysis</strong></em></p>\n<ul>\n<li>Deliver high-quality legal and policy analysis, both written and oral, to humanitarian actors operating across the Africa Unit's priority contexts on conflict-related issues, including but not limited to the classification of armed conflicts, protection of civilians, humanitarian access, counterterrorism measures and humanitarian action, forced displacement, engagement with armed actors, and the use of explosive weapons in populated areas (EWIPA).</li>\n<li>Respond to Helpdesk and advisory service requests from humanitarian partners, including protection clusters, working groups, humanitarian coordination platforms, consortiums, and donor-supported initiatives.</li>\n<li>Produce legal briefings, policy papers, protection analyses, and other knowledge products to support evidence-based humanitarian decision-making and advocacy.</li>\n</ul>\n<p><em><strong>Capacity Building and Strategic Engagement</strong></em></p>\n<ul>\n<li>Design and deliver IHL training and capacity-strengthening initiatives for humanitarian actors, civil society organizations, and other relevant stakeholders across the Africa Unit's priority contexts, with a particular focus on Sudan, including ERRs, LCCs members, and other locally led humanitarian actors.</li>\n<li>Support engagement with humanitarian partners and local actors in conflict-affected contexts, with a particular focus on Sudan and Sudanese-led humanitarian response structures, to strengthen understanding and implementation of IHL and protection standards.</li>\n<li>Contribute to strategic engagement initiatives that facilitate dialogue between humanitarian actors and relevant stakeholders on issues relating to civilian protection, humanitarian access, and compliance with international humanitarian law.</li>\n</ul>\n<p><em><strong>Humanitarian Diplomacy, Advocacy and Policy Development</strong></em></p>\n<ul>\n<li>Identify and support opportunities for humanitarian diplomacy, advocacy, and policy engagement that advance respect for international humanitarian law and strengthen protection outcomes for conflict-affected populations.</li>\n<li>Engage with diplomatic missions, donors, United Nations entities, regional organizations, and other policy actors to promote informed dialogue on humanitarian and protection challenges in the Unit's priority contexts.</li>\n<li>Represent the Centre at national, regional, and international forums, meetings, and events, ensuring that the Centre's legal analysis, policy positions, and strategic priorities are effectively communicated</li>\n</ul>\n<p><em><strong>Research, Partnerships and Programme Support</strong></em></p>\n<ul>\n<li>Contribute to the development of research, policy, and learning initiatives that advance the Centre's strategic objectives and support the dissemination of legal and operational lessons learned.</li>\n<li>Support the development and maintenance of partnerships with humanitarian organizations, civil society actors, academic institutions, donors, and other relevant stakeholders.</li>\n<li>Support the implementation of Sudan-focused programme activities related to legal analysis, strategic engagement, protection monitoring, and capacity strengthening.</li>\n<li>Contribute to the development of practical tools and guidance relating to humanitarian access, civilian protection, and engagement with duty bearers and armed actors.</li>\n<li>Support the documentation and dissemination of lessons learned arising from locally led humanitarian response efforts and protection-focused programming in Sudan.</li>\n<li>Contribute to coordination and engagement with consortium partners and Sudanese civil society actors involved in programme implementation.</li>\n<li>Contribute to programme design, proposal development, reporting, and monitoring processes, as required.</li>\n</ul>\n<p><em><strong>Intersectional and Inclusive Approach</strong></em></p>\n<ul>\n<li>Apply a gender-responsive, inclusive, and intersectional approach across all aspects of the work, with particular attention to the age, gender, disability, and other protection dimensions of armed conflict.</li>\n<li>Ensure that legal advice, analysis, training, and engagement activities reflect the diverse experiences and needs of conflict-affected populations.</li>\n</ul>\n<p><strong>Experience and Qualifications</strong></p>\n<ul>\n<li>Proven high-level expertise in IHL (tested during the interview process).</li>\n<li>Degree in law (JD or LLM) with specialization and/or experience in IHL, IHRL, and international criminal law.</li>\n<li>A minimum of 3 years of relevant experience as a researcher or legal adviser within an international governmental organization, the United Nations, or non-governmental organizations.</li>\n<li>Demonstrated capacity to conduct advanced legal research and analysis independently and draft high-quality texts in English.</li>\n<li>Strong knowledge of the conflict in Sudan and its humanitarian, protection, and conflict dynamics is highly desirable.</li>\n<li>Experience working with local civil society actors, humanitarian coordination mechanisms, or localization-focused initiatives would be an asset.</li>\n<li>Familiarity with humanitarian access, civilian protection, or engagement with armed actors would be an advantage.</li>\n<li>Expertise in intersectionality and the age, gender, and disability dynamics of armed conflict would be an asset.</li>\n<li>Outstanding level of English writing proficiency; high level of proficiency in Arabic will be an advantage.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 4
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711738+00:00"
     },
     {
       "id": "rw-4217781",
@@ -15829,6 +15929,31 @@
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
     },
     {
+      "id": "rw-4217958",
+      "title": "Finance Officer",
+      "url": "https://reliefweb.int/node/4217958",
+      "source": "ReliefWeb",
+      "publisher": "Welthungerhilfe",
+      "country": "Congo, Democratic Republic of the Congo",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-06-26T10:25:41+00:00",
+      "closing": "2026-07-09T00:00:00+00:00",
+      "description": "<p>The position is to be filled as soon as possible, with an initial contract duration of 12 months. There are very good prospects for an extension. Employment location will be Butembo, Congo, the Democratic Republic of the (CD).</p>\n<p>As Finance Officer you will be responsible for the financial administration of two KfW funded projects. You will ensure that the projects' financial administrative processes are efficient and correspond with Welthungerhilfe (WHH) as well as with donor standards. With your work, you will ensure that financial administrative processes are auditable by carrying out financial administrative controls at project level. In addition, you will train local WHH staff to meet the standards regarding finance, administration and HR.</p>\n<h2>Your responsibilities</h2>\n<ul>\n<li>Ensure that project funds are correctly managed according to the specifications of WHH and co-financers</li>\n<li>Ensure that documentation of data, account assignment and bookkeeping entries are carried out correctly in bookkeeping software</li>\n<li>Ensure costs are cleared internally within a project or between projects</li>\n<li>Prepare documentation that Head of Project and/or project partner organisations can assume budgetary responsibility (expenditure and budget control)</li>\n<li>Prepare annual account documents in cooperation with Head of Project and Head of Finance in Country Office</li>\n<li>Preparation of refunds/returns/final fund requests to donors</li>\n<li>Instruct, advise and supervise local administrative staff</li>\n<li>Making purchases and awarding of contracts according to valid regulations (of WHH and co-financers)</li>\n<li>Monitoring and correctly processing relief supplies and other equipment, particularly in terms of compliance with import regulations, monitoring inventory accounting, physical inventory inspections</li>\n<li>Correctly managing project inventory and vehicle fleet</li>\n<li>Support the Head of Project(s) and the Head of Finance in the preparation or revision of the project / co-financing budget in terms of formal correctness, as well as with the liquidity planning of the project</li>\n</ul>\n<h2>Your profile</h2>\n<ul>\n<li>A university or college degree in business administration, finance or economics</li>\n<li>At least 3 years experience in financial project administration of partner implemented projects</li>\n<li>International working experience, preferably in DRC</li>\n<li>Experience in collaboration with donors (BMZ, GFFO and other insitutional donors is an advantage)</li>\n<li>You recognize the growing value of data in your field and are eager to build your awareness and skills to incorporate data-informed approaches into your work.</li>\n<li>Readiness to receive necessary vaccinations for working in Welthungerhilfe's progam countries</li>\n<li>Excellent spoken and written French, good English skills</li>\n</ul>\n<h2>What we offer</h2>\n<ul>\n<li>Fair Compensation: A fair and equal remuneration based on a transparent salary scale.</li>\n<li>Commitment to Well-Being: We attach great importance to our duty of care with a focus on safety, security &amp; health.</li>\n<li>Modern &amp; Agile Work Environment: Be part of a forward thinking organization that fully embraces digitalization and innovation across all areas.</li>\n<li>Personal &amp; Professional Growth: Access diverse learning and development opportunities to advance your career.</li>\n<li>Team: Join our dedicated and diverse teams, where passion, expertise, and joy come together to create a better world.</li>\n</ul>\n<p>In addition, Welthungerhilfe offers numerous other benefits, which you can find under <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.welthungerhilfe.org/benefits-for-expatriate-employees\"><strong>Our benefits</strong></a>.</p>\n<p><em>*Welthungerhilfe values diversity and ensures an inclusive, non-discriminatory working environment. We welcome applications from suitably qualified people from all sections of the community.</em></p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711496+00:00"
+    },
+    {
       "id": "rw-4217990",
       "title": "Bangladesh : Country Project Developement Manager – Cox’s Bazar",
       "url": "https://reliefweb.int/node/4217990",
@@ -20279,6 +20404,31 @@
       "first_seen": "2026-04-28T10:07:22.044705+00:00"
     },
     {
+      "id": "rw-4218110",
+      "title": "MHPSS Project Manager - Emergency Roster",
+      "url": "https://reliefweb.int/node/4218110",
+      "source": "ReliefWeb",
+      "publisher": "Médecins du Monde - Belgique",
+      "country": "",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T10:10:32+00:00",
+      "closing": "2026-07-05T00:00:00+00:00",
+      "description": "<h2><strong>OUR MISSION</strong></h2>\n<p>Médecins du Monde is an international medical development NGO and a member of a global network. We provide medical assistance to vulnerable populations in Belgium and worldwide.</p>\n<p>We want universal health coverage where each person has access to healthcare, without obstacles (financial, cultural, geographical, etc.).</p>\n<p>To achieve our mission, we rely on three core pillars:</p>\n<ul>\n<li><strong>Care</strong>: provide real access to healthcare for populations.</li>\n<li><strong>Change</strong>: more than helping, we want to change things in the long term.</li>\n<li><strong>To bear witness:</strong> we do not remain silent. Thanks to our experience and our presence in the field, we call on authorities (local, regional, and (inter)national) with facts, figures, and realities.</li>\n</ul>\n<p>Our projects follow a series of values shared across our entire organization: Social justice, Empowerment, Independence, Commitment, Balance.</p>\n<h2><strong>THE ESSENTIAL</strong></h2>\n<p>This offer constitutes a call for external applications, designed to reinforce our Emergency Roster.</p>\n<p>By applying to this offer and subject to approval after a selection phase, you will integrate the Médecins du Monde Belgium Emergency Roster, ready to act quickly in response to health emergencies, to occasional missions or to staff absences.</p>\n<p>The interventions and deployment areas will be common to the regions in which Médecins du Monde Belgium intervenes, notably in Africa from the West, and Central (Marocco, Tunisia, Mali, Niger, Chad, Democratic Republic of Congo ….) or/and East Europe (Croatia ...).</p>\n<p>The roles, responsibilities, and profiles described in this announcement are indicative. They may be adjusted according to the specific needs of each future assignment.</p>\n<p>A personalized follow-up will be set up to optimize your engagement and to keep you informed of available missions.</p>\n<h2><strong>TASKS AND RESPONSIBILITIES</strong></h2>\n<p>As MHPSS Coordinator, you will be responsible for supervising various MHPSS programs in collaboration with colleagues and/or partners of Médecins du Monde Belgium.</p>\n<p><em>Possible tasks: (to be specified according to the assignment)</em></p>\n<ul>\n<li>Coordinate mental health and psychosocial support (MHPSS) programs</li>\n<li>Work closely with local partner NGOs and relevant government focal points for the implementation and monitoring of MHPSS projects</li>\n<li>Provide ongoing technical advice and support for trainings and supervision related to MHPSS</li>\n<li>Oversee the monitoring and evaluation of MHPSS programs, including development of M&amp;E tools and collection and analysis of program-related data</li>\n</ul>\n<h2><strong>YOUR PROFILE</strong></h2>\n<ul>\n<li>Master in psychology (Clinical)</li>\n<li>Experience abroad in a similar position of responsibility with an international NGO of minimum 5 years</li>\n<li>Previous experience within an NGO, in an emergency context and/or in a sensitive security context</li>\n<li>Proficiency in French and English; knowledge of an additional language used in MdM Belgium's countries of intervention (Arabic, Swahili, Pashto...) constitutes a major asset</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 1,
+      "overall_score": 1.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711639+00:00"
+    },
+    {
       "id": "rw-4218089",
       "title": "Project Engineer",
       "url": "https://reliefweb.int/node/4218089",
@@ -22302,6 +22452,181 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.044913+00:00"
+    },
+    {
+      "id": "rw-4218146",
+      "title": "Network Financing Mechanism (NFM) Director",
+      "url": "https://reliefweb.int/node/4218146",
+      "source": "ReliefWeb",
+      "publisher": "Adeso",
+      "country": "",
+      "job_type": "Job",
+      "category": "Other",
+      "posted": "2026-06-26T12:43:57+00:00",
+      "closing": "2026-07-03T00:00:00+00:00",
+      "description": "<p><strong>Organization:</strong> <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.near.ngo/\">NEAR</a> (Network for Empowered Aid Response), (Hosted by <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.adesoafrica.org/\">Adeso</a> – African Development Solutions)</p>\n<p><strong>Reporting To:</strong> Solutions Director</p>\n<p><strong>Duration:</strong> Design Phase: Six months with the possibility of renewal for another six</p>\n<p><strong>Starting Date:</strong> As soon as possible</p>\n<p><strong>Working with:</strong> Prototype locally led pooled fund partners, governance, technical design team, legal and financial advisors, funding partners, NEAR Secretariat and members</p>\n<p><strong>Duty Station:</strong> Remote, with a lot of travel expected</p>\n<p><strong>ABOUT NEAR</strong></p>\n<p>NEAR is a movement of local organizations with a bold ambition to shift power, resources, and decision-making to local actors across the Global South. NEAR’s vision is a world where local communities have the resources and agency to address the challenges that impact them. NEAR is a membership-based organization with more than 360 members based in four regions: Africa, Asia and the Pacific, Latin America and the Caribbean, and the Middle East.</p>\n<p><strong>POSITION PURPOSE</strong></p>\n<p>As the international aid system faces profound disruption - marked by shrinking resources, deep structural biases and political retreat - NEAR is investing in building credible and practical alternatives. The Networked Financing Mechanism (NFM) is a central component: a decentralized, interoperable, and locally governed financing architecture that connects and catalyzes autonomous locally led funds across the Global South. Rather than reforming existing aid flows from within, the NFM is designed to channel resources through systems built with, by, and for local actors.</p>\n<p>The NFM Director will lead, drive and facilitate the co-creation of a testable prototype of the NFM with selected Global South-led prototype partner funds in 2026, building toward a live pilot in 2027. This prototype design phase requires coordinated effort across eight workstreams: co-creation with partners; prototype architecture; interoperability design; legal and operational infrastructure; fundraising and donor engagement; strategy and global positioning; learning and documentation; and internal NEAR governance. The Director will ensure coherence, momentum, and values alignment across all eight workstreams.</p>\n<p>The prototype design and testing will be anchored in the principles and values that have emerged in discussions with locally led pooled funds in the development of the NFM concept to date, including equity, decentralization, local ownership, proximate leadership, interoperability, shared accountability and risk, transparency, collective learning and continuous adaptation. The Director will translate the NFM vision and principles into a practical, co-created, and test-ready prototype, while building the partnerships and donor relationships required to sustain the NFM into its pilot year.</p>\n<p><strong>CORE OBJECTIVES</strong></p>\n<p>By the end of the 2026 design phase, the NFM Director will have:</p>\n<ul>\n<li>Co-designed the prototype collaboratively with Global South-led prototype partner funds.</li>\n<li>Led and integrated all eight NFM workstreams, ensuring alignment and interdependency.</li>\n<li>Built and maintained a functional internal governance structure for the design and testing period.</li>\n<li>Established the governance, legal, and operational readiness for prototype testing in 2027.</li>\n<li>Secured donor commitments to fund prototype testing and iteration, as well as preliminary anchor funding commitments for scaling.</li>\n<li>Embedded a learning and documentation culture throughout the design and testing process.</li>\n<li>Positioned the NFM as a credible, values-aligned alternative to failing international aid architectures.</li>\n</ul>\n<p><strong>SPECIFIC ROLES AND RESPONSIBILITIES</strong></p>\n<p>1. Strategic Leadership and Workstream Integration</p>\n<ul>\n<li>Lead planning, sequencing, and oversight of all eight NFM workstreams throughout the 2026<br />\ndesign year.</li>\n<li>Ensure coherence and interdependency across prototype architecture, governance, legal,<br />\nfinancial flows, interoperability, learning, positioning, and partner<br />\nco-creation.</li>\n<li>Convene cross-workstream integration reviews to identify bottlenecks, resolve<br />\nmisalignments, and maintain progress.</li>\n<li>Identify emerging risks early and drive mitigation strategies in collaboration with workstream leads and partners.</li>\n<li>Manage the overall workplan timeline, adapting sequencing as the design process evolves including but not limited to:\n<ul>\n<li>Prototype Architecture Development</li>\n<li>Co-creation with Prototype Partners</li>\n<li>Governance, Legal and Operational Readiness</li>\n</ul>\n</li>\n</ul>\n<p>2. Fundraising and Donor Engagement</p>\n<ul>\n<li>Lead development and execution of the NFM fundraising and donor engagement strategy.</li>\n<li>Identify and cultivate relationships with donors aligned with NFM values, particularly those willing to support flexible, risk-tolerant, and locally led models.</li>\n<li>Lead sensitivity conversations with donors around risk-sharing, flexible funding, and devolved decision-making.</li>\n<li>Coordinate donor briefings and consultations, ensuring messaging is consistent with the NFM’s positioning workstream.</li>\n<li>Secure donor commitments to fund prototype testing and iteration, as well as initial commitments for anchor funding for scaling.</li>\n<li>Produce scenario planning for different levels and types of donor participation.</li>\n</ul>\n<p>3. Strategy and Global Positioning</p>\n<ul>\n<li>Lead development of the NFM’s positioning narrative, communicating it as a credible and values-aligned alternative to collapsing international aid architectures.</li>\n<li>Integrate NEAR’s decade of financing innovation and learning into the NFM’s positioning.</li>\n<li>Oversee production of messaging and analytical materials for donors, allies, and system actors.</li>\n<li>Ensure the NFM’s strategy reflects the urgency of the current aid landscape, the centrality of Global South leadership, and alignment with broader movements.</li>\n<li>Represent the NFM at strategic external moments, including conferences, convenings, and donor engagement events.</li>\n</ul>\n<p>4. Learning, Documentation, and Adaptation</p>\n<ul>\n<li>Ensure that learning and documentation are embedded into the design and testing process.</li>\n<li>Oversee development of the learning roadmap, priority learning questions, and documentation templates at the outset.</li>\n<li>Facilitate monthly or bi-monthly learning cycles and two formal learning syntheses (mid-term and end-year).</li>\n<li>Ensure the design rationale, trade-offs, tensions, partner adaptations, and contextual variations are systematically captured.</li>\n<li>Produce the 2026 learning compendium in Q4, codifying design-phase insights for replication and advocacy.</li>\n</ul>\n<p>5. Risk Management and Monitoring</p>\n<ul>\n<li>Maintain an active risk register across all workstreams, updated monthly.</li>\n<li>Lead bi-monthly cross-workstream risk reviews.</li>\n<li>Develop collaborative mitigation strategies with prototype partners for context-specific risks.</li>\n<li>Elevate monitoring for centralization drift, dilution of purpose, values misalignment, and legal or political risks to the prototype.</li>\n<li>Report to NEAR Leadership on progress against delivery indicators, participation indicators, values alignment signals, and learning indicators.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711552+00:00"
+    },
+    {
+      "id": "rw-4218129",
+      "title": "Agribusiness/Market Systems Officer",
+      "url": "https://reliefweb.int/node/4218129",
+      "source": "ReliefWeb",
+      "publisher": "Action Against Hunger",
+      "country": "Uganda",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T11:30:58+00:00",
+      "closing": "2026-07-03T00:00:00+00:00",
+      "description": "<p><strong>Purpose of the Role</strong></p>\n<p>The Agribusiness/Market Systems Officer will lead interventions in market development, business mentorship, value addition, post-harvest handling, financial linkages, aggregation, productive partnerships, and enterprise development for farmers and youth.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Conduct market assessments and identify viable market opportunities for selected value chains.</li>\n<li>Support farmer groups and youth entrepreneurs to develop business plans and market-oriented production plans.</li>\n<li>Facilitate linkages with off-takers, agro-processors, input suppliers, financial institutions, transporters, aggregation centers, and private sector actors.</li>\n<li>Support training on post-harvest handling, storage, value addition, marketing, financial literacy, and business development services.</li>\n<li>Promote bulk marketing, collective bargaining, aggregation, and quality improvement.</li>\n<li>Support development of common user facilities, value addition centers, storage facilities, or aggregation hubs where applicable.</li>\n<li>Facilitate apprenticeship and youth skilling opportunities in value addition, logistics, agri-transport, clean energy technologies, and service provision.</li>\n<li>Track market access, sales volumes, income changes, business performance, and job creation outcomes.</li>\n</ul>\n<p><strong>Minimum Qualifications and Experience.</strong></p>\n<ul>\n<li>Degree in Agribusiness, Agricultural Economics, Business Administration, Value Chain Development, Rural Development, or related field.</li>\n<li>At least 5 years of experience in value chain development, market systems, agribusiness, enterprise development, or private sector engagement.</li>\n<li>Demonstrated experience linking smallholder farmers to markets, finance, and private sector actors.</li>\n<li>Experience with youth enterprise development, post-harvest handling, value addition, or common user facilities.</li>\n<li>Experience in refugee livelihoods or host community economic inclusion is an added advantage.</li>\n</ul>\n<p><strong>Key Deliverables.</strong></p>\n<ul>\n<li>Market linkage and agribusiness development plan.</li>\n<li>Business mentorship reports.</li>\n<li>Private sector and financial linkage reports.</li>\n<li>Value addition and post-harvest handling training reports.</li>\n<li>Market performance and enterprise tracking reports.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711563+00:00"
+    },
+    {
+      "id": "rw-4218128",
+      "title": "Livestock Officer",
+      "url": "https://reliefweb.int/node/4218128",
+      "source": "ReliefWeb",
+      "publisher": "Action Against Hunger",
+      "country": "Uganda",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T11:29:00+00:00",
+      "closing": "2026-07-03T00:00:00+00:00",
+      "description": "<p><strong>Who We Are</strong></p>\n<p>Action Against Hunger leads the global movement to end hunger. We innovate solutions, advocate for change, and reach 28 million people every year with proven hunger prevention and treatment programs. As a nonprofit that works across 55 countries, our 8,990 dedicated staff members partner with communities to address the root causes of hunger, including climate change, conflict, inequity, and emergencies. We strive to create a world free from hunger, for everyone, for good.</p>\n<p>Action Against Hunger USA is part of the Action Against Hunger International network. As an independent NGO, Action Against Hunger USA currently manages operations in 8 countries: Kenya, South Sudan, Somalia, Tanzania, Uganda, Ethiopia, Zambia and Haiti.</p>\n<p><strong>UGA Livestock Officer</strong></p>\n<p><strong>Location:</strong> Nakivale/ Kyangwali</p>\n<p><strong>Purpose of the Role.</strong></p>\n<p>The Livestock Officer will lead technical support for climate-smart livestock value chains, including smallholder poultry, piggery, small ruminants, and aquaculture, where relevant, as well as feed formulation, animal housing, husbandry, disease prevention, and livestock-based livelihood resilience.</p>\n<p><strong>Key Responsibilities.</strong></p>\n<ul>\n<li>Lead design and implementation of all livestock-related interventions on the project</li>\n<li>Provide technical guidance on livestock enterprise selection, husbandry, breed suitability, housing, feeding, disease prevention, and biosecurity.</li>\n<li>Train farmer groups, youth, field teams, CBFs, and lead farmers on climate-resilient livestock production.</li>\n<li>Support planning and monitoring of livestock input distribution, including starter stock, feed materials, equipment, or related inputs where applicable.</li>\n<li>Support the establishment of livestock demonstration sites and practical learning activities.</li>\n<li>Promote integration of livestock with crop production, composting, manure management, and household nutrition.</li>\n<li>Work with district veterinary teams and relevant government structures for technical supervision and disease surveillance.</li>\n<li>Contribute to market linkage and enterprise development for livestock products.</li>\n</ul>\n<p><strong>Minimum Qualifications and Experience.</strong></p>\n<ul>\n<li>Degree in Veterinary Medicine, Animal Production, Animal Science, Livestock Production, or a related field.</li>\n<li>At least 5 years of practical experience in livestock programming, animal health, agricultural livelihoods, or refugee/host community programming.</li>\n<li>Experience supporting smallholder poultry, piggery, goats, aquaculture, or mixed farming systems.</li>\n<li>Knowledge of animal health regulations, biosecurity, disease prevention, and livestock extension.</li>\n<li>Experience working with district veterinary structures is an added advantage.</li>\n</ul>\n<p><strong>Key Deliverables.</strong></p>\n<ul>\n<li>Livestock technical implementation plan.</li>\n<li>Livestock training materials and reports.</li>\n<li>Livestock demonstration and mentoring reports.</li>\n<li>Animal health and husbandry monitoring updates.</li>\n<li>Input utilization and enterprise performance reports.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711565+00:00"
+    },
+    {
+      "id": "rw-4218125",
+      "title": "Project Manager/Team Leader",
+      "url": "https://reliefweb.int/node/4218125",
+      "source": "ReliefWeb",
+      "publisher": "Action Against Hunger",
+      "country": "Uganda",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T11:22:24+00:00",
+      "closing": "2026-07-03T00:00:00+00:00",
+      "description": "<p><strong>Who We Are</strong></p>\n<p>Action Against Hunger leads the global movement to end hunger. We innovate solutions, advocate for change, and reach 28 million people every year with proven hunger prevention and treatment programs. As a nonprofit that works across 55 countries, our 8,990 dedicated staff members partner with communities to address the root causes of hunger, including climate change, conflict, inequity, and emergencies. We strive to create a world free from hunger, for everyone, for good.</p>\n<p>Action Against Hunger USA is part of the Action Against Hunger International network. As an independent NGO, Action Against Hunger USA currently manages operations in 8 countries: Kenya, South Sudan, Somalia, Tanzania, Uganda, Ethiopia, Zambia and Haiti.</p>\n<p><strong>The Project Manager/Team Leader (Contingent upon confirmation of funding)</strong></p>\n<p><strong>Purpose of the Role:</strong></p>\n<p>The Project Manager/Team Leader will provide overall technical leadership for the project, ensuring integrated delivery across crop, livestock, beneficial insect, sustainable land management, market linkage, nutrition-sensitive agriculture, and farmer institutional development interventions. The role will coordinate technical planning, quality assurance, government engagement, and field-level technical backstopping.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Lead the technical design and implementation of climate-smart agriculture interventions across assigned refugee settlements and host communities.</li>\n<li>Coordinate technical specialists and field teams to ensure integrated delivery across all selected value chains.</li>\n<li>Ensure that Farmer Field School and Farmer Institutional Development approaches are applied consistently and effectively.</li>\n<li>Support development of workplans, technical training packages, demonstration plot plans, input distribution plans, and field supervision schedules.</li>\n<li>Provide technical oversight for farmer group formation, strengthening, cooperative development, and market-readiness.</li>\n<li>Ensure integration of cross-cutting issues, including gender, youth inclusion, disability inclusion, nutrition, environmental safeguards, conflict sensitivity, and accountability.</li>\n<li>Represent the project in technical coordination meetings with all stakeholders like local government, settlement leadership, private sector actors.</li>\n<li>Support preparation of monthly, quarterly, annual, and ad hoc technical reports.</li>\n<li>Lead technical reflection, adaptive management, documentation of lessons, and preparation for joint supervision missions.</li>\n</ul>\n<p><strong>Minimum Qualifications and Experience</strong></p>\n<ul>\n<li>Master’s degree in Agriculture, Agronomy, Agricultural Extension, Rural Development, Agribusiness, Natural Resource Management, or a related field.</li>\n<li>At least 8–10 years of progressive experience in agricultural livelihoods, climate-smart agriculture, value chain development, or refugee/host community programming.</li>\n<li>Demonstrated experience working in refugee settlements or refugee-hosting districts in Uganda.</li>\n<li>Strong experience with farmer group approaches, Farmer Field Schools, cooperative development, input systems, market linkages, and climate-resilient production.</li>\n<li>Experience managing multi-disciplinary technical teams.</li>\n<li>Prior engagement with government-led or World Bank-funded agricultural projects is an added advantage.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 1,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711634+00:00"
+    },
+    {
+      "id": "rw-4218124",
+      "title": "Finance Coordinator - Emergency Roster",
+      "url": "https://reliefweb.int/node/4218124",
+      "source": "ReliefWeb",
+      "publisher": "Médecins du Monde - Belgique",
+      "country": "",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-06-26T11:21:25+00:00",
+      "closing": "2026-07-05T00:00:00+00:00",
+      "description": "<h2><strong>OUR MISSION</strong></h2>\n<p>Médecins du Monde is an international medical development NGO and a member of a global network. We provide medical assistance to vulnerable populations in Belgium and worldwide.</p>\n<p>We want universal health coverage where each person has access to healthcare, without obstacles (financial, cultural, geographical, etc.).</p>\n<p>To achieve our mission, we rely on three core pillars:</p>\n<ul>\n<li><strong>Care</strong>: provide real access to healthcare for populations.</li>\n<li><strong>Change</strong>: more than helping, we want to change things in the long term.</li>\n<li><strong>To bear witness:</strong> we do not remain silent. Thanks to our experience and our presence in the field, we call on authorities (local, regional, and (inter)national) with facts, figures, and realities.</li>\n</ul>\n<p>Our projects follow a series of values shared across our entire organization: Social justice, Empowerment, Independence, Commitment, Balance.</p>\n<h2><strong>THE ESSENTIAL</strong></h2>\n<p>This offer constitutes a call for external applications, designed to reinforce our Emergency Roster.</p>\n<p>By applying to this offer and subject to approval after a selection phase, you will integrate the Médecins du Monde Belgium Emergency Roster, ready to act quickly in response to health emergencies, to occasional missions or to staff absences.</p>\n<p>The interventions and deployment areas will be common to the regions in which Médecins du Monde Belgium intervenes, notably in Africa from the West, and Central (Marocco, Tunisia, Mali, Niger, Chad, Democratic Republic of Congo ….) or/and East Europe (Croatia ...).</p>\n<p>The roles, responsibilities, and profiles described in this announcement are indicative. They may be adjusted according to the specific needs of each future assignment.</p>\n<p>A personalized follow-up will be set up to optimize your engagement and to keep you informed of available missions.</p>\n<h2><strong>TASKS AND RESPONSIBILITIES</strong></h2>\n<p>You will manage all financial, accounting and budgetary aspects of the project to ensure that projects are implemented through the efficient use of resources.</p>\n<p><em>Possible tasks: (to be specified according to the assignment)</em></p>\n<ul>\n<li>Carry out regular analysis of the financial data for the programme(s) (budget monitoring, etc.) and act as an early warning system for managers to mitigate financial risks</li>\n<li>Ensure compliance with and harmonisation of the internal budgetary framework (i.e. programme budgets), verify eligibility and monitor the cost centre allocation of expenditure</li>\n<li>Ensure effective communication and understanding of budgets and financial coverage across all teams</li>\n<li>Evaluate current tools, methods and processes and their application; where appropriate, make recommendations</li>\n<li>Contribute to the compilation and updating of the department’s dashboards, guides and manuals (e.g. donor database, etc.)</li>\n</ul>\n<h2><strong>YOUR PROFILE</strong></h2>\n<ul>\n<li>Master’s in financial management, economical science or similar</li>\n<li>Expatriation experience in a similar position for an International NGO of a minimum of 5 years</li>\n<li>Prior experience within an NGO, in an emergency context and/or in a sensitive security context</li>\n<li>Knowledge of the requirements of public funding bodies and financial reporting procedures</li>\n<li>Proficiency in accounting rules and standards</li>\n<li>Good command of French and English, the knowledge of an additional languages used in MdM Belgium countries of intervention (Arabic, Swahili, Pashto...) is a major asset</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711477+00:00"
+    },
+    {
+      "id": "rw-4218117",
+      "title": "WASH Project Manager - Emergency Roster",
+      "url": "https://reliefweb.int/node/4218117",
+      "source": "ReliefWeb",
+      "publisher": "Médecins du Monde - Belgique",
+      "country": "",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T11:03:16+00:00",
+      "closing": "2026-07-05T00:00:00+00:00",
+      "description": "<h2><strong>OUR MISSION</strong></h2>\n<p>Médecins du Monde is an international medical development NGO and a member of a global network. We provide medical assistance to vulnerable populations in Belgium and worldwide.</p>\n<p>We want universal health coverage where each person has access to healthcare, without obstacles (financial, cultural, geographical, etc.).</p>\n<p>To achieve our mission, we rely on three core pillars:</p>\n<ul>\n<li><strong>Care</strong>: provide real access to healthcare for populations.</li>\n<li><strong>Change</strong>: more than helping, we want to change things in the long term.</li>\n<li><strong>To bear witness:</strong> we do not remain silent. Thanks to our experience and our presence in the field, we call on authorities (local, regional, and (inter)national) with facts, figures, and realities.</li>\n</ul>\n<p>Our projects follow a series of values shared across our entire organization: Social justice, Empowerment, Independence, Commitment, Balance.</p>\n<h2><strong>THE ESSENTIAL</strong></h2>\n<p>This offer constitutes a call for external applications, designed to reinforce our Emergency Roster.</p>\n<p>By applying to this offer and subject to approval after a selection phase, you will integrate the Médecins du Monde Belgium Emergency Roster, ready to act quickly in response to health emergencies, to occasional missions or to staff absences.</p>\n<p>The interventions and deployment areas will be common to the regions in which Médecins du Monde Belgium intervenes, notably in Africa from the West, and Central (Marocco, Tunisia, Mali, Niger, Chad, Democratic Republic of Congo ….) or/and East Europe (Croatia ...).</p>\n<p>The roles, responsibilities, and profiles described in this announcement are indicative. They may be adjusted according to the specific needs of each future assignment.</p>\n<p>A personalized follow-up will be set up to optimize your engagement and to keep you informed of available missions.</p>\n<h2><strong>TASKS AND RESPONSIBILITIES</strong></h2>\n<p>As WASH Project Coordinator, you will ensure operational management of all Water, Sanitation and Hygiene (WASH) activities for the mission, according to protocols, standards and procedures.</p>\n<p><em>Possible tasks: (to be specified according to the assignment)</em></p>\n<ul>\n<li>Design, implement and supervise WASH/IPC interventions adapted to the context</li>\n<li>Conduct initial assessments or exploratory missions in collaboration with medical teams to identify WASH needs of health facilities and target communities</li>\n<li>Design, implement and supervise MdM WASH infrastructure works such as water supply systems in health centers, construction of latrine blocks, shower blocks, and waste management areas</li>\n<li>Contribute to the development and updating of tools, particularly on WASH/IPC aspects (e.g., quality control checklists for supported health structures), to ensure compliance with infection prevention and control standards</li>\n</ul>\n<h2><strong>YOUR PROFILE</strong></h2>\n<ul>\n<li>University degree in engineering or equivalent relevant training</li>\n<li>Experience abroad in a similar position of responsibility with an international NGO of minimum 5 years</li>\n<li>Previous experience within an NGO, in an emergency context and/or in a sensitive security context</li>\n<li>Experience in or familiarity with implementing and promoting the use of two or more of the following activities: patient flow setup in health centers, infection prevention and control in health centers, conducting WASH infrastructure works (latrine blocks, showers, water supply), water supply, water and wastewater management, vector control and corpse management, in two or more different contexts (conflicts, natural disasters)</li>\n<li>Proficiency in French and English; knowledge of an additional language used in MdM Belgium's countries of intervention (Arabic, Swahili, Pashto...) constitutes a major asset</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711637+00:00"
+    },
+    {
+      "id": "rw-4218020",
+      "title": "Africa Communications Consultant",
+      "url": "https://reliefweb.int/node/4218020",
+      "source": "ReliefWeb",
+      "publisher": "Earth Island",
+      "country": "",
+      "job_type": "Consultancy",
+      "category": "Advocacy/Communications",
+      "posted": "2026-06-26T10:40:08+00:00",
+      "closing": "2026-07-06T00:00:00+00:00",
+      "description": "<p><strong>Location:</strong> Remote in Africa with some travel to participate in events/meeting(s) in-person, with preference for candidates based in Kenya</p>\n<p><strong>Dates:</strong> July 2026 - June 2027</p>\n<p><strong>Contract Type</strong>: Part Time, Consultancy</p>\n<p><strong>Compensation:</strong> $2000 - $2500 USD per month, depending on experience, location and agreed working hours</p>\n<p>Applications will be reviewed as they are submitted, please apply soon to be considered.</p>\n<p>Reporting to the Communications Director, the Africa Communications Consultant will help scale the communications for a Fossil Fuel Treaty across the region. If you are looking for an exciting opportunity to help grow a bold and ambitious global campaign - one that involves social media, partner engagement and strategic communications - while working with a diverse international team committed to a fossil fuel-free future, this opportunity is for you.</p>\n<p>The Africa Communications Consultant will work closely with the Public Engagement team and the Africa Regional Director. The role will focus on supporting and coordinating communications efforts to ensure that a growing number of African nation-states formally champion the proposed Fossil Fuel Treaty and call for a global just transition.</p>\n<p>The Africa Communications Consultant will support diplomatic engagement across the region, strengthen networks of organisations and movements, and help build sustained momentum for the Treaty. This will involve close collaboration with governments, as well as coordination with a wide and growing network of civil society organisations, youth movements, faith-based institutions, subnational governments and cities, high-profile individuals, and other allies across Africa.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Support public communications efforts in Africa that demonstrate growing support for the Fossil Fuel Treaty, in close collaboration with the Regional Director, the Communications Director and broader Public Engagement Team, particularly on social media, digital content production, and traditional media strategy.</li>\n<li>Create and distribute communications materials including press releases, comms packs, email blasts, website content, talking points, briefing papers, social media content (ideally copy and graphics design in Canva), and others.</li>\n<li>Coordinate traditional and digital communications around key regional and national moments in Africa, including supporting social media and media coverage.</li>\n<li>Strategize and implement impactful regional communications strategy as well as in target countries.</li>\n<li>Develop strong relationships with print, broadcast and online journalists regionally.</li>\n<li>Oversee tracking and reporting on regional media coverage.</li>\n<li>Activate and maintain relationships with a network of African partners, champions and high-profile individuals backing the Treaty to amplify communications and campaign engagement.</li>\n<li>Foster and deepen engagement with African movements and civil society organisations across a broad range of constituencies - including Indigenous communities, youth movements, artists, faith institutions, and the health sector - calling for global support for a Fossil Fuel Treaty.</li>\n</ul>\n<p><strong>Required Experience &amp; Attributes</strong></p>\n<ul>\n<li>A minimum of five years of professional communications campaigning experience in Africa.</li>\n<li>Demonstrated experience in social media and digital content production, as well as media relations</li>\n<li>Excellent verbal and written communication skills</li>\n<li>Strong problem-solving and multi-tasking abilities, with the capacity to work quickly and engage in creative problem-solving</li>\n<li>Fluency in English</li>\n<li>A strong commitment to, and competency in, working across cultures and differences, grounded in a decolonial perspective</li>\n</ul>\n<p><strong>Desired Experience &amp; Attributes</strong></p>\n<ul>\n<li>Experience in supporting event management</li>\n<li>Experience working with climate-focused non-profit organisations</li>\n<li>Relationships with influencers for content collaboration</li>\n<li>Experience with tracking and analyzing digital metrics to measure success and identify key lessons from campaigns and projects</li>\n<li>Experience in graphic design, video production and content production including using Canva</li>\n<li>Experience in working with remote, virtual, global teams across multiple timezones</li>\n<li>Fluency in French</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 1,
+      "overall_score": 1.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711686+00:00"
     },
     {
       "id": "rw-4218103",
@@ -27552,6 +27877,106 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
+    },
+    {
+      "id": "rw-4218130",
+      "title": "Sustainable Land Management (SLM) Officer",
+      "url": "https://reliefweb.int/node/4218130",
+      "source": "ReliefWeb",
+      "publisher": "Action Against Hunger",
+      "country": "Uganda",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T11:32:50+00:00",
+      "closing": "2026-07-03T00:00:00+00:00",
+      "description": "<p><strong>Who We Are</strong></p>\n<p>Action Against Hunger leads the global movement to end hunger. We innovate solutions, advocate for change, and reach 28 million people every year with proven hunger prevention and treatment programs. As a nonprofit that works across 55 countries, our 8,990 dedicated staff members partner with communities to address the root causes of hunger, including climate change, conflict, inequity, and emergencies. We strive to create a world free from hunger, for everyone, for good.</p>\n<p>Action Against Hunger USA is part of the Action Against Hunger International network. As an independent NGO, Action Against Hunger USA currently manages operations in 8 countries: Kenya, South Sudan, Somalia, Tanzania, Uganda, Ethiopia, Zambia and Haiti.</p>\n<p><strong>The Sustainable Land Management (SLM) Officer</strong></p>\n<p><strong>Location(s):</strong> Nakivale/ Kyangwali</p>\n<p><strong>Purpose of the Role</strong></p>\n<p>The Sustainable Land Management Officer will lead technical implementation of land restoration, soil and water conservation, agroforestry, land-use planning, watershed protection, and climate-smart land management interventions in refugee settlements and host communities.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Lead the design and implementation of Sustainable Land Management interventions.</li>\n<li>Support identification and mapping of land areas to be placed under SLM and climate-smart production practices.</li>\n<li>Provide technical guidance on soil and water conservation, contour bunds, mulching, composting, integrated soil fertility management, agroforestry, rainwater harvesting, and erosion control.</li>\n<li>Support block farming models and land access/use arrangements in collaboration with OPM, District Local Governments, host community leaders, and farmer groups.</li>\n<li>Train field teams, CBFs, lead farmers, and farmer groups on SLM practices.</li>\n<li>Support tree planting, woodlot establishment, fruit orchards, landscape restoration, and community action planning.</li>\n<li>Ensure alignment of land-use interventions with environmental safeguards and climate change priorities.</li>\n<li>Monitor hectares under SLM, tree survival, soil conservation structures, and adoption of SLM practices.</li>\n</ul>\n<p><strong>Minimum Qualifications and Experience</strong></p>\n<ul>\n<li>Degree in Natural Resource Management, Environmental Science, Agroforestry, Soil and Water Conservation, Agriculture, Climate Change, or related field.</li>\n<li>At least 5 years of experience in SLM, natural resource management, land restoration, agroforestry, or climate resilience programming.</li>\n<li>Experience working in refugee-hosting districts or fragile natural resource contexts.</li>\n<li>Strong knowledge of participatory land-use planning, land access facilitation, and climate adaptation.</li>\n<li>Experience with public works, watershed management, or landscape restoration is an added advantage.</li>\n</ul>\n<p><strong>Key Deliverables</strong></p>\n<ul>\n<li>SLM technical strategy and implementation plan.</li>\n<li>Land restoration and SLM monitoring reports.</li>\n<li>Soil and water conservation training reports.</li>\n<li>Hectares under SLM tracking data.</li>\n<li>Environmental restoration and agroforestry progress reports.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711561+00:00"
+    },
+    {
+      "id": "rw-4218127",
+      "title": "Nutrition Expert/Officer",
+      "url": "https://reliefweb.int/node/4218127",
+      "source": "ReliefWeb",
+      "publisher": "Action Against Hunger",
+      "country": "Uganda",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-06-26T11:26:58+00:00",
+      "closing": "2026-07-03T00:00:00+00:00",
+      "description": "<p><strong>Who We Are</strong></p>\n<p>Action Against Hunger leads the global movement to end hunger. We innovate solutions, advocate for change, and reach 28 million people every year with proven hunger prevention and treatment programs. As a nonprofit that works across 55 countries, our 8,990 dedicated staff members partner with communities to address the root causes of hunger, including climate change, conflict, inequity, and emergencies. We strive to create a world free from hunger, for everyone, for good.</p>\n<p>Action Against Hunger USA is part of the Action Against Hunger International network. As an independent NGO, Action Against Hunger USA currently manages operations in 8 countries: Kenya, South Sudan, Somalia, Tanzania, Uganda, Ethiopia, Zambia and Haiti.</p>\n<p><strong>UGA Nutrition Expert/Officer</strong></p>\n<p><strong>Location</strong>: Nakivale/ Kyangwali</p>\n<p><strong>Purpose of the Role.</strong></p>\n<p>The Nutrition Expert will ensure integration of nutrition outcomes into agricultural production, household food security, kitchen gardens, dietary diversity, cooking demonstrations, and behavior change activities.</p>\n<p><strong>Key Responsibilities.</strong></p>\n<ul>\n<li>Lead integration of nutrition-sensitive agriculture into crop, livestock, and household resilience interventions.</li>\n<li>Support promotion of nutrient-dense crops, kitchen gardens, diversified food production, and household-level food utilization.</li>\n<li>Design and supervise nutrition education sessions and cooking demonstrations.</li>\n<li>Work with field teams, CBFs, women’s groups, caregivers, and community structures to promote dietary diversity.</li>\n<li>Support linkage of eligible caregivers and households with relevant health and nutrition services where appropriate.</li>\n<li>Ensure nutrition messaging is culturally appropriate and aligned with local food systems.</li>\n<li>Track household participation in nutrition training, cooking demonstrations, kitchen garden establishment, and dietary diversity-related outcomes.</li>\n<li>Contribute to success stories, behavior change documentation, and nutrition-sensitive agriculture reports.</li>\n</ul>\n<p><strong>Minimum Qualifications and Experience</strong></p>\n<ul>\n<li>Degree in Nutrition, Food Science, Agriculture, Public Health Nutrition, Home Economics, Community Development, or related field.</li>\n<li>At least 5 years of experience in nutrition-sensitive agriculture, food security and nutrition programming, community nutrition, or behavior change communication.</li>\n<li>Experience working with women, caregivers, children under five, and vulnerable households.</li>\n<li>Experience in refugee settlements or humanitarian-development programming is preferred.</li>\n<li>Strong skills in participatory training, community mobilization, and culturally appropriate nutrition messaging.</li>\n</ul>\n<p><strong>Key Deliverables.</strong></p>\n<ul>\n<li>Nutrition-sensitive agriculture implementation plan.</li>\n<li>Nutrition training and cooking demonstration reports.</li>\n<li>Kitchen garden tracking reports.</li>\n<li>Dietary diversity and household resilience monitoring inputs.</li>\n<li>Nutrition-related case studies and learning products.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711567+00:00"
+    },
+    {
+      "id": "rw-4218010",
+      "title": "COMMUNICATIONS CONSULTANT",
+      "url": "https://reliefweb.int/node/4218010",
+      "source": "ReliefWeb",
+      "publisher": "Democratic Progress Institute",
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "job_type": "Consultancy",
+      "category": "Advocacy/Communications",
+      "posted": "2026-06-26T10:39:28+00:00",
+      "closing": "2026-07-24T00:00:00+00:00",
+      "description": "<p>Communications Consultant</p>\n<p>Democratic Progress Institute (DPI)</p>\n<p><em>Supporting Peace Through Dialogue by Engaging the Leading Actors and Civil Society in Türkiye</em></p>\n<p><strong>Location:</strong> Remote in UK (flexibility to attend the London office when required)</p>\n<p><strong>Start Date:</strong> As soon as possible</p>\n<p><strong>Period:</strong> 12 months with possibility to extend</p>\n<h2>Background</h2>\n<p>The Democratic Progress Institute (DPI) is an independent non-governmental organisation established in consultation with international experts in conflict resolution and democratic advancement in Türkiye and the region. DPI seeks to promote peace and democracy building through strengthened public dialogue and political engagement.</p>\n<p>Through its Foreign Policy Instruments (FPI), the European Union is funding a programme supporting inclusive dialogue and peacebuilding in Türkiye. The programme engages political actors, civil society organisations, women's groups, and youth voices across Türkiye, producing a series of reports, roundtables, and high-level exchanges designed to contribute to a durable, inclusive peace process.</p>\n<p>DPI has developed a comprehensive Communications Strategy for this project, which serves as the primary operational reference document for this role. The strategy sets out communications objectives, messaging architecture, content governance framework, channel activation sequence, participant consent protocols, EU compliance obligations, risk register, and responsibility matrix.</p>\n<p>The successful consultant will be expected to operationalise this strategy from the outset.</p>\n<h2>Purpose and Objectives</h2>\n<p>DPI is seeking an experienced Communications Consultant to lead the management and implementation of all strategic communications for this EU-funded project. The consultant will work within an agreed governance framework and in close collaboration with the DPI Programmes team. A comprehensive Communications Strategy has already been developed and approved for this project. The consultant will not be required to develop the strategy from scratch; rather, they will be expected to operationalise, implement, and build upon it from the outset of their engagement.</p>\n<p>The consultant will:</p>\n<ul>\n<li>Operationalise the approved Communications Strategy, including the content governance framework, style guide, and channel activation sequence.</li>\n<li>Manage and grow DPI's digital presence across all relevant platforms in a sequenced and politically considered manner.</li>\n<li>Contract, brief, and manage specialist sub-contractors - including a photographer, video editor, digital designer - required to deliver the full range of communications outputs. The consultant is the primary point of coordination for these relationships on behalf of DPI.</li>\n<li>Lead external communications throughout the project lifecycle, including media engagement, newsletter management, publication dissemination, and event coverage.</li>\n<li>Ensure full compliance with EU visibility obligations, including mandatory disclaimers, pre-clearance processes, and audio-visual requirements.</li>\n<li>Provide regular communications reporting and analytics in line with the project logframe and donor requirements.</li>\n<li>Produce end-of-project visibility and impact documentation.</li>\n</ul>\n<h2>REPORTING LINE</h2>\n<p>The Communications Consultant reports directly to the Head of Programmes and Operations / the Senior Project Officer. All content that falls within Tier 3 of the governance framework - including content engaging with sensitive political dimensions of the peace process, press releases, and op-eds - requires sign-off from both the Head of Programmes and Operations and the CEO.</p>\n<h2>PERIOD</h2>\n<p>Approximately 55 to 65 days of direct consultancy input over 12 months with possibility to extend and flexibility built in as required. The exact allocation of days is to be agreed following review of the consultant's workplan and proposal.</p>\n<h2>FEES AND PAYMENT</h2>\n<ul>\n<li>The daily rate will be agreed with the successful consultant based on experience and the proposed workplan. Applicants should include their expected rate in their submission.</li>\n<li>Paid upon completion of each agreed delivered phase and the agreed deliverables within.</li>\n<li>The consultant is responsible for all applicable tax and National Insurance contributions. The consultant shall maintain appropriate professional indemnity and public liability insurance for the duration of the engagement.</li>\n<li>Applicants should note that the total communications budget for this project includes a separate allocation for specialist sub-contractors (photography, video production, digital design, and professional translation). The consultant's day rate is therefore not the sum total of the communications spend.</li>\n<li>Proposals should clearly distinguish between direct consultancy days and estimated sub-contractor costs and should demonstrate that the proposed day allocation is sufficient to lead, coordinate, and oversee delivery of the full scope without absorbing work that specialist contractors will be commissioned to perform.</li>\n</ul>\n<h2>KEY REQUIREMENTS</h2>\n<h3>Essential</h3>\n<ul>\n<li>Demonstrable experience delivering strategic communications for international NGOs, peacebuilding organisations, or human rights bodies in politically sensitive or conflict-affected contexts.</li>\n<li>Strong experience with project communications, including funding visibility requirements, pre-clearance processes, and donor reporting obligations.</li>\n<li>Proven ability to design and operate within a structured content governance framework.</li>\n<li>Experience managing and briefing specialist sub-contractors (photographers, videographers, designers, translators).</li>\n<li>Proficiency in digital channel management across LinkedIn, Instagram, X/Twitter, and email marketing platforms (MailChimp or equivalent), including analytics and reporting.</li>\n<li>Excellent written English - clear, analytically rigorous, and capable of adapting register across platform types.</li>\n<li>Strong project management skills: the ability to work independently, meet deadlines, and manage multiple workstreams simultaneously.</li>\n<li>UK-based, with the right to work in the United Kingdom.</li>\n</ul>\n<h3>Desirable</h3>\n<ul>\n<li>Experience covering or communicating around politically sensitive events in or comparable contexts.</li>\n<li>Experience producing communications content that is sensitive to the needs and representation of diverse communities, including minority groups and gender, in politically complex or conflict-affected contexts.</li>\n</ul>\n<p>.</p>\n<h2>SAFEGUARDING</h2>\n<p>DPI is committed to the highest standards of safeguarding in all of its work. The successful consultant will be required to comply with DPI's safeguarding and protection policies for the duration of the engagement, including its policies on protection from sexual exploitation and abuse. DPI will conduct appropriate pre-engagement checks before the contract is issued.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711688+00:00"
+    },
+    {
+      "id": "rw-4217973",
+      "title": "Mauritanie Grant & Reporting Officer (JPO)",
+      "url": "https://reliefweb.int/node/4217973",
+      "source": "ReliefWeb",
+      "publisher": "Terre des hommes",
+      "country": "Mauritania",
+      "job_type": "Job",
+      "category": "Donor Relations/Grants Management",
+      "posted": "2026-06-26T10:33:15+00:00",
+      "closing": "2026-07-15T00:00:00+00:00",
+      "description": "<p><strong>Entrée en fonction :</strong> 1.08.26</p>\n<p><strong>Durée :</strong> 6 mois</p>\n<p><strong>Lieu :</strong> Nouakchott, Mauritanie</p>\n<p><strong>Statut :</strong> non accompagné</p>\n<p>Terre des hommes ne fixe pas de date de clôture pour ce poste ; le recrutement se poursuit jusqu'à ce que le poste soit pourvu.</p>\n<p><strong>Tdh :</strong></p>\n<p>La Fondation Terre des hommes (Tdh), dont le siège est à Lausanne et le bureau à Zurich, est la plus grande organisation suisse de défense des droits de l'enfant avec plus de 2000 collaborateurs et collaboratrices dans le monde. Nous nous engageons aux côtés des enfants pour garantir leurs droits, protéger leur vie et améliorer leur bien-être. Nous y parvenons grâce à nos programmes innovants dans les domaines de la santé, de la migration et de l'accès à la justice, conçus pour avoir un impact positif et durable.</p>\n<p><strong>Contexte :</strong></p>\n<p>Tdh-L est présente en Mauritanie depuis 1984. Elle intervient actuellement dans les domaines de la santé, de la mobilité, et de l’accès à la justice. Ces trois programmes travaillent en synergies et sont enrichis par des expertises transversales que sont la protection transversale, le WASH, et l’ICT4D. Son approche a constamment privilégié le travail de proximité en lien avec les autorités compétentes mauritaniennes et les communautés. A ce titre, Tdh-L bénéficie d'une large reconnaissance et crédibilité auprès des autorités étatiques (ministère de l’action sociale de l’enfant et de la famille, ministère de la justice, direction de la protection judiciaire de l’enfant,) et aussi des bailleurs de fonds internationaux.</p>\n<p>Les principaux bailleurs institutionnels de la délégation sont l’AFD, l’Union européenne/ECHO, l’AECID et le CDCS, en partenariat avec les acteurs nationaux et internationaux. Dans le cadre du développement de son portefeuille de projets et du renforcement de la qualité de ses propositions, la délégation recrute un/e Grants &amp; Reporting Officer.</p>\n<p><strong>Responsabilités :</strong></p>\n<ul>\n<li>Sous la supervision directe de l’Adjoint Chef de Délégation en charge des Programmes, le/la Grants &amp; Reporting Officer contribuera au développement, au suivi et à la qualité du portefeuille de propositions/projets de la délégation.</li>\n<li>Il/elle coordonnera les processus de recherche de financements, de développement de projets, de reporting bailleurs, de suivi contractuel et de gestion de l’information liée aux subventions. Il/elle assurera également le suivi des outils de gestion des projets et contribuera à la coordination entre les équipes programmes, support, partenaires et bailleurs.</li>\n<li>Le poste requiert une forte autonomie, d’excellentes capacités rédactionnelles et analytiques, ainsi qu’une aptitude à coordonner des processus impliquant de multiples</li>\n</ul>\n<p><em><strong>Responsabilités Spécifiques :</strong></em></p>\n<p><em><strong>1. Développement de projets et mobilisation des ressources</strong></em></p>\n<p><em><strong>2. Coordination du reporting bailleurs</strong></em></p>\n<p><em><strong>3. Suivi des outils institutionnels de gestion des subventions et des projets</strong></em></p>\n<p><em><strong>4. Gestion contractuelle et suivi des partenariats</strong></em></p>\n<p><em><strong>5. Coordination, communication et représentation</strong></em></p>\n<p><em>La description complète du poste sera communiquée aux candidats sélectionnés pour lancer le processus de recrutement.</em></p>\n<p><strong>Profil recherché</strong></p>\n<p><strong>Formation :</strong></p>\n<p>Etude supérieure (Master ou autre diplôme équivalant en relations internationales, développement ou autre domaine pertinent)</p>\n<p><strong>Langues :</strong></p>\n<p>Excellentes compétences linguistiques en Français. La maitrise de l’Anglais serait un atout.</p>\n<p><strong>Compétences :</strong></p>\n<ul>\n<li>Excellent esprit analytique, y compris dans l’analyse de données</li>\n<li>Excellentes capacités de rédaction, de synthèse et de présentation d’information, de concepts et de données de façon claire, concise et structurée.</li>\n<li>Bonne capacité de communication et expérience du travail en équipe</li>\n<li>Forte autonomie, y compris très bonne gestion du temps et des priorités</li>\n<li>Capacité à travailler dans un environnement multiculturel et de sécurité volatile</li>\n<li>Expérience préalable (Stages, insertions..) dans le domaine de la coopération internationale, de la gestion de projet et connaissance des mécanismes bailleurs institutionnels de fonds</li>\n<li>Connaissance préalable du contexte politique et culturel de la région et des crises humanitaires est un atout.</li>\n</ul>\n<p><strong>IT :</strong> Maitrise des outils et applications usuels (Microsoft Word, Excel, Outlook, etc.)</p>\n<p><strong>Conditions :</strong></p>\n<p>Contrat suisse</p>\n<p>Salaire mensuel brut CHF 2450- x13,36 mois</p>\n<p>Assurances : maladie, accident, rapatriement</p>\n<p>Congés annuels : 25 jours/an</p>\n<p>Vols aller-retour vers le lieu d'affectation</p>\n<p><strong>Code Global de Conduite et Politiques Ethiques de Tdh :</strong></p>\n<p>S'engage à promouvoir et à respecter le Code de Conduite Global, à rapporter systématiquement toute violation du Code à travers les mécanismes formels de rapport de Tdh et à traiter toute violation des procédures et des processus de manière appropriée.</p>\n<p>Sensibilise la Fondation aux risques de non-respect des politiques, de violence et d'abus, et aux droits qui en découlent, à l'égard des enfants, des membres de la communauté et de nos propres employé.e.s.</p>\n<p>S'engage à respecter les principales politiques et directives éthiques, notamment la politique de sauvegarde, la politique de lutte contre la fraude et la corruption, la politique relative aux conflits d'intérêts et d'autres politiques liées à la prévention du financement du terrorisme et des activités criminelles, ainsi qu’au comportement sur le lieu de travail.</p>\n<p>S'engage à mettre en pratique les valeurs et les principes en adoptant un comportement exemplaire, en parfaite adéquation avec le code de conduite, et en respectant toujours les procédures et les processus établis.</p>\n<p>S'engage à développer une culture de management conforme et éclairée au sein de l'organisation et dans notre travail avec les enfants et les communautés dans lesquelles nous opérons.</p>\n<p>Références :<br />\nVeuillez noter que toute offre d'emploi sera soumise à des références et à des vérifications satisfaisantes (vérification du casier judiciaire et du financement de la lutte contre le terrorisme). Terre des hommes demandera aux Ressources Humaines des organisations précédentes de fournir des références sur toute découverte d'exploitation sexuelle, d'abus sexuel et/ou de harcèlement sexuel ainsi que de fraude et de corruption, pendant l'emploi, ou sur des incidents faisant l'objet d'une enquête au moment où le candidat a quitté son emploi.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-06-26T15:32:23.711569+00:00"
     },
     {
       "id": "rw-4217885",
@@ -33129,6 +33554,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 8,
-  "last_updated": 300
+  "last_added": 17,
+  "last_updated": 298
 }
