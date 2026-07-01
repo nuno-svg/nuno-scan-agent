@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-06-30T15:43:17.490123+00:00",
-  "last_run_local": "2026-06-30 15:43 UTC",
-  "runs_count": 142,
+  "last_run_iso": "2026-07-01T10:16:43.760830+00:00",
+  "last_run_local": "2026-07-01 10:16 UTC",
+  "runs_count": 143,
   "opportunities": [
     {
       "id": "rw-4218402",
@@ -1502,6 +1502,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-02T10:56:35.925315+00:00"
+    },
+    {
+      "id": "rw-4218686",
+      "title": "Call for Head of Business Development",
+      "url": "https://reliefweb.int/node/4218686",
+      "source": "ReliefWeb",
+      "publisher": "Crest Point for Consultancy and Development",
+      "country": "",
+      "job_type": "Job",
+      "category": "Donor Relations/Grants Management",
+      "posted": "2026-07-01T09:09:06+00:00",
+      "closing": "2026-07-12T00:00:00+00:00",
+      "description": "<p><strong>About CPCD</strong></p>\n<p>Crest Point for Consultancy and Development (CPCD) is an independent, internationally registered consulting firm with legal presence in Türkiye, Syria, Iraq, Yemen, and Djibouti, and delivery capacity in Somalia, Libya, Ukraine, South Sudan, Lebanon, and Kenya through trusted sister companies and partners.</p>\n<p>Established in 2018, CPCD provides third-party monitoring (TPM), evaluations, applied research, and capacity strengthening to UN agencies, INGOs, and institutional donors. We operate across the MENA, East Africa, and Eastern Europe regions, with over 80 completed assignments in complex and fragile contexts.</p>\n<p><strong>Position Summary</strong></p>\n<p>The Business Development Manager will lead CPCD’s business growth function, including BD strategy, opportunity pipeline management, capture planning, donor and partner engagement, and the development of competitive, high-quality proposals and EOIs. The role requires strategic leadership, strong commercial judgment, excellent proposal writing, and the ability to manage a multi-country BD team while maintaining strict quality standards.</p>\n<p>The BD Manager will supervise BD officers and interns, manage strategic partnerships, coordinate with technical and finance teams, and ensure that all submissions are compliant, competitive, and aligned with CPCD’s growth priorities, internal QA protocols, and donor requirements.</p>\n<p><strong>Key Responsibilities</strong></p>\n<ul>\n<li>Lead CPCD’s business development function, including annual BD planning, growth targets, opportunity prioritization, and pipeline management across target donors, sectors, and countries.</li>\n<li>Manage the full proposal lifecycle from opportunity identification to submission, including go/no-go decisions, capture planning, partner mapping, team formation, writing, budget coordination, compliance review, and final submission.</li>\n<li>Ensure all proposal documents are strategically positioned, technically sound, compliant, fully costed, and submitted on time.</li>\n<li>Supervise, guide, and performance-manage the BD team and interns, including task allocation, quality review, mentoring, coaching, and capacity development.</li>\n<li>Track, analyze, and prioritize funding and consultancy opportunities from UN agencies, INGOs, donors, procurement platforms, and institutional clients; maintain a live pipeline with probability ratings, deadlines, and action owners.</li>\n<li>Build and manage strategic relationships with donors, INGOs, local NGOs, research firms, consultants, and consortium partners; lead partnership negotiations, teaming agreements, and MOUs.</li>\n<li>Lead donor and client engagement efforts, including outreach, follow-up, relationship mapping, and positioning CPCD for upcoming opportunities.</li>\n<li>Develop capture strategies for priority bids, including competitor analysis, value proposition development, partner selection, staffing approach, and pricing inputs.</li>\n<li>Lead quality assurance across all BD outputs, including:</li>\n<li>Technical accuracy, strategic positioning, compliance, formatting, and consistency across proposal documents</li>\n<li>Alignment with donor guidelines, Terms of Reference, evaluation criteria, and submission instructions</li>\n<li>Post-submission reviews, lessons learned, win/loss analysis, and continuous improvement of BD tools and processes</li>\n<li>Maintain and improve internal BD systems, including the opportunity pipeline, proposal tracker, past performance library, CV database, partner database, capacity statements, and proposal templates.</li>\n<li>Prepare regular BD performance updates for senior management, including pipeline value, proposal status, win/loss trends, conversion rates, and key risks.</li>\n<li>Support organizational growth by identifying new markets, service lines, framework opportunities, and strategic partnerships aligned with CPCD’s expertise.</li>\n<li>Undertake additional management responsibilities as required to support CPCD’s growth, client engagement, and business development objectives.</li>\n<li>Provide direct strategic and operational support to the CEO in relation to business growth, client engagement, partnerships, and institutional development.</li>\n</ul>\n<p><strong>Qualifications</strong></p>\n<ul>\n<li>Bachelor’s degree in international development, business administration, public policy, management, economics, or a related field; Master’s degree preferred.</li>\n<li>At least 5 years of progressive experience in business development, proposal management, partnerships, fundraising, or institutional growth with NGOs, consulting firms, or donor-funded programs.</li>\n<li>Proven track record leading successful bids and managing competitive proposal processes, preferably for TPM, evaluations, research, assessments, capacity building, or donor-funded consultancy assignments.</li>\n<li>Excellent strategic writing, business communication, negotiation, coordination, and stakeholder management skills.</li>\n<li>Demonstrated experience managing BD teams, supervising junior staff, allocating workloads, reviewing deliverables, and coaching staff to improve performance.</li>\n<li>Strong familiarity with donor and procurement platforms such as UNGM, Devex, IAP, ReliefWeb, NGO tenders, and major institutional donors including FCDO, USAID, GIZ, EU, ECHO, UN agencies, and INGOs.</li>\n<li>Strong attention to detail, commercial awareness, and ability to manage multiple bids, partners, budgets, and deadlines under pressure.</li>\n<li>Fluent written and spoken English is required; Arabic, French, or Turkish is a strong asset.</li>\n<li>Experience managing opportunity pipelines, BD dashboards, CRM-style trackers, or proposal performance indicators is strongly preferred.</li>\n<li>Experience developing partnerships, consortium arrangements, and institutional client relationships is strongly preferred.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 8,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 8,
+      "overall_score": 8.3,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-07-01T10:16:43.760741+00:00"
     },
     {
       "id": "rw-4216752",
@@ -16579,6 +16604,31 @@
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
     },
     {
+      "id": "rw-4218783",
+      "title": "Senior Finance Officer",
+      "url": "https://reliefweb.int/node/4218783",
+      "source": "ReliefWeb",
+      "publisher": "Agency for Technical Cooperation and Development",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-07-01T09:59:14+00:00",
+      "closing": "2026-07-11T00:00:00+00:00",
+      "description": "<h2>About ACTED</h2>\n<p>ACTED is committed to immediate humanitarian relief to support those in urgent need and protect people’s dignity, while co-creating longer term opportunities for sustainable growth and fulfilling people’s potential. ACTED endeavours to respond to humanitarian crises and build resilience; promote inclusive and sustainable growth; co-construct effective governance and support the building of civil society worldwide by investing in people and their potential. The commitment of ACTED and that if our teams is guided by 4 core values: (1) Responsibility: we ensure the efficient and responsible delivery of humanitarian aid with the means and the resources that have been entrusted to us. (2) Impact: we are committed to having the most sustainable impact for the communities and the people with whom we engage. (3) Enterprising-spirit: we are enterprising and engage in our work with a spirit that creates value and overcomes challenges. (4) Inspiration: we strive to inspire all those around us through our vision, values, approaches, choices, practice, actions, and advocacy.</p>\n<p><strong>Greening strategy:</strong></p>\n<p>ACTED’s greening strategy aims to tackle environmental degradation and climate change while meeting the needs of the most vulnerable who are often those most affected by the deepening environmental crisis. Each ACTED employee will adhere to these principles through key green programming responsibilities:</p>\n<ul>\n<li>Contribute towards the adherence and development of the greening strategy plan.</li>\n<li>Explore innovative green programming opportunities and/or solutions within your realm of responsibilities and roles</li>\n<li>Encouraging and promoting environmental safeguarding processes and environmental programming standards in accordance with SOPs and technical guideline notes</li>\n</ul>\n<p><strong>ACTED PSEAH Policy:</strong></p>\n<p>The Senior Finance Officer t has the responsibility to adhere to the PSEAH Policy (Protection against Sexual Exploitation, Abuse and Harassment). The Senior Finance Officer has the obligation to complete all mandatory trainings related to the Code of Conduct and the PSEA policy and report any safeguarding concern such as breaches of organisational policies or codes of conduct according to ACTED’s procedures. The Senior Finance Officer carries out work duties in a way that does not harm children, vulnerable adults or other staff or volunteers.</p>\n<p><strong>Location</strong>: Aleppo Office</p>\n<p><strong>Job Purpose:</strong></p>\n<p>S/He will be in charge of the implementation and follow – up of Financial management and control tools.</p>\n<h2>Objectives:</h2>\n<ul>\n<li>Support the DAC in budget preparation and contractual review</li>\n<li>Consolidate and follow-up the Financial Internal Control tools and Financial Reporting for the Area</li>\n<li>Under the DAC responsibility with the support of the Capital Finance, follow up with finance Team on ACTED procedures, processes and methodologies</li>\n</ul>\n<h2>Duties and Responsibilities:</h2>\n<ol>\n<li>\n<h3><strong>Budget preparation and contractual review</strong></h3>\n<ol>\n<li>Upon request of the Deputy Area Coordination, in coordination with the CFM, prepares budgets based on support costs information (allocation table, Monthly Running Costs and saga) and programme/logistics inputs (BoQs, designs etc…)</li>\n<li>At area level, lead the financial part and aspects of the kick off meetings for projects implemented in the Area</li>\n</ol>\n</li>\n<li>\n<h3><strong>Implementation and Follow-Up of Financial tools for the Area and the Partners</strong></h3>\n<p><strong>1- Accounting Flows</strong></p>\n<p>a. Respect and follow up of ACTED’s accountancy procedures</p>\n<p>b. Supervise the documentation filling and archiving process.</p>\n<p>c. Ensure an on-time and efficient flow of information with Capital Office and the base in NWS and with Partners.</p>\n<p><strong>2- Accounting Data review</strong></p>\n<p>a. Review that the SAGA entries of the Month are respecting the mission Standard Description</p>\n<p>b. Make sure each entry has a second libellee and a Third Party code when necessary as per the Standard Description requirements</p>\n<p>c. Check that entries in SAGA have the proper accounting code, in line with ACTED Standard Accounting Chart</p>\n<p>d. Makes sure that all payment are prepared and ready for submission to Capital based on the internal processes</p>\n</li>\n<li>\n<p><strong>Cost Analysis</strong></p>\n<p>a. Review the ACTs of the Area and suggest potential reallocations</p>\n<p>b. Upon request, present a cost analysis of the Area to the AC/DCD to support the decision making process</p>\n<p><strong>4. Titanic and payment follow up</strong></p>\n<p>a. Check and approve HR Titanic on a monthly basis</p>\n<p>b. Prepare, check and send requests for Payment for employees, suppliers , DWs, Benfs ..etc</p>\n<p><strong>5. Allocations</strong></p>\n<p>a. Follow up of ACTES’s resources allocation per project at area level</p>\n<p>b. Responsible for approving the allocation in his AREA and provide guidance to AC/DAC on allocation and cross-check of allocations received</p>\n<p><strong>6. Budget Control and Funding Structure</strong></p>\n<p>a. Update the monthly BFU, CFU, DFU for the projects of the Area in collaboration with the AC/DAC and PMs</p>\n<p>b. Provide an analysis of ACTED resources to be funded on new proposal</p>\n<p>c. Identify funding gaps and risks</p>\n<h3><strong>3- Training and Capacity Building</strong></h3>\n<p>a. Contribute to the global efficiency enhancement of the teams.</p>\n<p>b. Ensure training of the Area and Partners finance staff on ACTED FLAT procedures and tools</p>\n<p>c. Support the finance and administration teams in the mastering of financial documents and SAGA</p>\n<h3>Key Performance Indicators</h3>\n</li>\n</ol>\n<ul>\n<li>Submission of Payment requests</li>\n<li>Submission of CFU/DFU and Accountancy</li>\n<li>Submission of BFU/AT</li>\n<li>Accuracy of the area financial data</li>\n<li>Degree of autonomy of finance team</li>\n</ul>\n<h3>QUALIFICATIONS</h3>\n<ul>\n<li>University Degree preferable in accounting, Finance, Economics, Business administration or equivalent.</li>\n<li>Very good knowledge of Excel, word and Outlook</li>\n<li>Previous experience in Finance Position in NGO/INGO for at least five years, in a leading position.</li>\n<li>Ability to communicate easily in Arabic and English</li>\n<li>Rigorous and detail orientated.</li>\n<li>Experience in SAGA application, BFU and AT tools are preferable</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 3,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-07-01T10:16:43.760540+00:00"
+    },
+    {
       "id": "rw-4218644",
       "title": "National Operations Security Officer (M/F) – EF Office – Damascus, Syria (H/F)",
       "url": "https://reliefweb.int/node/4218644",
@@ -19677,6 +19727,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-10T14:33:52.556507+00:00"
+    },
+    {
+      "id": "rw-4218782",
+      "title": "Terms of Reference (TOR) Consultancy Services for Graphic Design Support for ACAT Project, 2026–2027",
+      "url": "https://reliefweb.int/node/4218782",
+      "source": "ReliefWeb",
+      "publisher": "African Agricultural Technology Foundation",
+      "country": "Kenya",
+      "job_type": "Consultancy",
+      "category": "Advocacy/Communications",
+      "posted": "2026-07-01T09:58:18+00:00",
+      "closing": "2026-07-12T00:00:00+00:00",
+      "description": "<p><strong>Terms of Reference (TOR)</strong></p>\n<p><strong>Consultancy Services for Graphic Design Support for ACAT Project, 2026–2027</strong></p>\n<p><strong>1. About AATF</strong></p>\n<p>The African Agricultural Technology Foundation (AATF) is a not-for-profit organization whose mission is to facilitate sustainable access of agricultural technologies to smallholder farmers in Sub-Saharan Africa. AATF is driven by the vision of a prosperous and food secure Africa, where the livelihoods of smallholder farmers are transformed through innovative agricultural technologies that deliver results. These efforts, combined with optimal agricultural practices and product value addition, will contribute to agricultural transformation in Africa leading to food security and poverty reduction in Sub-Saharan Africa (SSA).</p>\n<p><strong>2. About the African Conference on Agricultural Technologies (ACAT)</strong></p>\n<p>The African Conference on Agricultural Technologies (ACAT) is Africa’s leading convening platform for structured dialogue and consensus building on agricultural technology innovation, investment, access and market creation. It convenes governments, investors, innovators, policymakers, farmers, youth, women and change makers to unlock partnerships, mobilize investment, accelerate commercialization, and shape policies that enable adoption at scale of transformative agricultural technologies across the continent.</p>\n<p>The forum is held every two years with the inaugural event held in October 2023 in Nairobi, Kenya. The objectives of the forum is to: (a) provide a continent-wide platform for technology developers to showcase their products and innovations applicable in the agricultural sector to potential users and policy makers; (b) promote networking, collaboration, and knowledge sharing among all stakeholders in the Agricultural space (Private sector, Farmers, NGOs, Regulators and Policy Makers) on agricultural technologies and innovations; (c) raise visibility on issues of concern around innovative technology access and delivery among top leadership on the continent including policy makers for their information and to guide decision making.</p>\n<p>In 2027, the forum will feature an exciting array of sessions including high level plenaries, engaging thematic panel sessions and segmented discussions on innovation and technology transfer.</p>\n<p>The Conference is expected to attract live demonstrations of scalable technologies including awards to mark the continent’s best agricultural innovators. ACAT is an initiative of AATF.</p>\n<p><strong>3. About the Assignment.</strong></p>\n<p>AATF is looking for a creative and forward- thinking consultant to assist AATF to design the ACAT 2027 website. The selected consultant will demonstrate a great understanding of website design principles and demonstrate their ability to create modern and appealing websites that are easy to navigate while upholding the design standards as well as the ACAT branding guidelines.</p>\n<p><strong>4. Scope of work</strong></p>\n<p>In consultation with the ACAT team, the service provider will be responsible for creating mock design, of ACAT’s website platforms, ensuring alignment with organizational branding, usability standards, and performance objectives which will guide the developer(s) in building the website.</p>\n<ol>\n<li><strong>Website Design &amp; User Experience (UX/UI)</strong></li>\n</ol>\n<ul>\n<li>Conceptualize and design visually compelling, user-centric website interface(s) (Frontend) aligned with ACAT branding guidelines.</li>\n<li>Develop and present design concepts including:\n<ul>\n<li>User flows</li>\n<li>Site maps</li>\n<li>Wireframes</li>\n<li>High-fidelity mockups (PSDs or equivalent)</li>\n</ul>\n</li>\n<li>Ensure designs are responsive and optimized for mobile, tablet, and desktop devices.</li>\n<li>Incorporate accessibility and usability best practices.</li>\n</ul>\n<p><strong>5. Deliverables:</strong></p>\n<ol>\n<li>Approved wireframes and design mockups</li>\n<li>Final UI design assets ready for development</li>\n<li>Additional Design Support:</li>\n</ol>\n<p>In addition to the primary web design scope, the Designer will provide supplementary design support for project-related materials. This will include the development of social media graphics, presentation decks, event branding assets, infographics, marketing collateral, and any other visual communication materials as may be required during the engagement period. All outputs will be aligned with the established project visual identity and brand guidelines to ensure consistency across both digital and print platforms. The Designer will also ensure that all deliverables are of high quality, suitable for both print and digital use where applicable, and will incorporate feedback and revisions within agreed timelines over the one-month assignment.</p>\n<p><strong>6. Timeline</strong></p>\n<p>The contract will be for a <strong>one-year period</strong>, with payment made on a per-deliverable basis upon completion and approval of agreed outputs.</p>\n<p><strong>7. Qualification of the Consultant</strong></p>\n<ol>\n<li>The lead consultant should possess a minimum bachelor’s degree in graphic design, or a related field.</li>\n<li>Minimum of <strong>5–7 years’ proven experience</strong> in website design,</li>\n<li>Demonstrated experience managing <strong>end-to-end website projects</strong> (design → development → deployment → maintenance).</li>\n<li>Experience working with <strong>NGOs, development organizations, or public sector institutions</strong> is highly desirable.</li>\n<li>Strong portfolio showcasing <strong>responsive, user-centered, and high-performing websites completed in the last 3 years</strong>.</li>\n<li>Knowledge of <strong>UI/UX design tools</strong> (e.g., Adobe XD, Figma, Sketch).</li>\n<li>High degree of independence, flexibility, and ability to meet strict deadlines.</li>\n</ol>\n<p><strong>8. Evaluation and awards of the consultancy</strong></p>\n<p>AATF will evaluate the proposals and award the assignment based on technical and financial feasibility. AATF reserves the right to accept or reject any proposal received without giving reasons and is not bound to accept the lowest or the highest bidder.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 2
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 2,
+      "overall_score": 2.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-07-01T10:16:43.760660+00:00"
     },
     {
       "id": "rw-4218582",
@@ -29054,6 +29129,31 @@
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
     },
     {
+      "id": "rw-4218761",
+      "title": "Call for Proposals - Innovative Climate-Smart Irrigation Solutions for Wheat Farmers in Northwest Syria",
+      "url": "https://reliefweb.int/node/4218761",
+      "source": "ReliefWeb",
+      "publisher": "Field Ready",
+      "country": "Syrian Arab Republic",
+      "job_type": "Consultancy",
+      "category": "Program/Project Management",
+      "posted": "2026-07-01T09:50:34+00:00",
+      "closing": "2026-07-27T00:00:00+00:00",
+      "description": "<p>Field Ready for Humanitarian Innovation – Syria, in partnership with Engineers Without Borders Norway (EWB-N), World Vision Syria Response (WVSR), and the Response Innovation Lab (RIL), invites private-sector companies, startups, manufacturers, technology providers, engineering firms, researchers, and innovators to submit proposals for climate-smart irrigation solutions in Northwest Syria.</p>\n<p>The RISE Syria Project is seeking practical, scalable, and locally appropriate innovations that can improve irrigation efficiency, reduce water consumption, strengthen climate resilience, and support sustainable agricultural livelihoods.</p>\n<p>Proposed solutions may include technologies, tools, products, services, advisory systems, monitoring approaches, locally maintainable irrigation solutions, or integrated models that help farmers make better decisions on when and how much to irrigate.</p>\n<p>Solutions should be affordable, user-centred, technically feasible, climate-smart, locally maintainable, and suitable for piloting with wheat farmers in Northwest Syria.</p>\n<h2><strong>What We Are Looking For</strong></h2>\n<ul>\n<li>Solutions that improve irrigation decision-making for wheat farmers.</li>\n<li>Approaches that increase water-use efficiency and reduce unnecessary water consumption.</li>\n<li>Practical tools or services that are affordable and easy for farmers to use.</li>\n<li>Innovations that can be maintained locally and adapted to the Northwest Syria context.</li>\n<li>Models that support climate resilience, food security, and sustainable agricultural livelihoods.</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-07-01T10:16:43.760599+00:00"
+    },
+    {
       "id": "rw-4218444",
       "title": "IT Officer – Global Support - Cameroon, Mali, Senegal",
       "url": "https://reliefweb.int/node/4218444",
@@ -34954,6 +35054,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 9,
-  "last_updated": 307
+  "last_added": 4,
+  "last_updated": 282
 }
