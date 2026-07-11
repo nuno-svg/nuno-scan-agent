@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-07-11T08:15:37.146879+00:00",
-  "last_run_local": "2026-07-11 08:15 UTC",
-  "runs_count": 163,
+  "last_run_iso": "2026-07-11T14:33:03.621281+00:00",
+  "last_run_local": "2026-07-11 14:33 UTC",
+  "runs_count": 164,
   "opportunities": [
     {
       "id": "rw-4220903",
@@ -19077,6 +19077,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
+    },
+    {
+      "id": "rw-4220983",
+      "title": "DEPUTY AREA COORDINATOR - MOZAMBIQUE",
+      "url": "https://reliefweb.int/node/4220983",
+      "source": "ReliefWeb",
+      "publisher": "Action contre la Faim France",
+      "country": "Mozambique",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-07-11T12:16:02+00:00",
+      "closing": "2026-08-10T00:00:00+00:00",
+      "description": "<p>About : Action contre la Faim</p>\n<p>Créée en 1979, Action contre la Faim est une organisation non gouvernementale internationale qui lutte contre la faim dans le monde. Sa charte des principes humanitaires - indépendance, neutralité, non-discrimination, accès libre et direct aux victimes, professionnalisme, transparence - fonde son identité depuis 45 ans. Sa mission est de sauver des vies en éliminant la faim par la prévention, la détection et le traitement de la sous-nutrition, en particulier pendant et après les situations d'urgence liées aux conflits et aux catastrophes naturelles. Action contre la Faim coordonne ses programmes autour de 7 domaines d'activités : Nutrition et Santé - Santé Mentale, Soutien Psychosocial - Sécurité Alimentaire et Moyens d'Existence - Eau, Assainissement et Hygiène - Plaidoyer - Climat - Recherche. En 2024, Action contre la Faim est venue en aide à plus de 26 millions de personnes dans 57 pays à travers le monde. <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.actioncontrelafaim.org\">www.actioncontrelafaim.org</a></p>\n<p>Mission :</p>\n<p>Under the supervision of the Area Coordinator, you will lead the successful implementation of part of ACF programs, in accordance with contractual requirements and expected technical and programmatic quality standards. You will ensure management of the Program Teams under your supervision as well as ACF's external coordination, and actively contribute in the definition of ACF's strategy.<br />\nYour missions will be as follows:<br />\nManage and lead part of the program team.<br />\nCoordinate the planning, implementation and monitoring of part of ACF programs with high quality standards in Cabo Delgado Area.<br />\nFacilitate internal and external coordination to enhance program implementation.<br />\nContribute to the strategic positioning of ACF and to the development of new project proposals.<br />\nProactively support ACF commitments to gender equality and protection.</p>\n<p>Profile :</p>\n<p>You hold a Master's degree in development, humanitarian aid, international relations or any relevant field.<br />\nYou have at least 2 years of field experience in humanitarian project management.<br />\nYou have experience in team management, working in complex humanitarian settings, and in project cycle management.<br />\nYou have strong experience and knowledge of project cycle management.<br />\nYou have knowledge of all or part of ACF sectors of intervention (Nutrition-Health, WASH, FSL, Emergency response, MHCP-GP) and core donor requirements, as well as a good understanding of support functions (security, logistics, finance and HR).<br />\nYou speak and write English fluently with good communication skills. You also master Portuguese, Spanish or Italian.</p>\n<p>Conditions d'emploi</p>\n<p>Fixed term contract under French legislation: 12 months until 30/09/2027<br />\nMonthly gross salary from 2332 to 2676euros upon experience, including 13th month<br />\nReimbursement of the pension insurance for non-French citizens: 16% of the gross monthly salary<br />\nAnnual salary increase: 6% increase after and each 12 months of continuous contract<br />\nMonthly per diem and living allowance: 627euros net, field paid<br />\nMonthly country allowance: 150euros<br />\nChild allowance: 1500euros per year per child present in the country of origin (maximum 6000euros/year)<br />\nTransportation and accommodation: Coverage of transportation costs and guest house<br />\nMedical coverage: ACF covers 100% of the health and repatriation insurance agreement fees, for your medical expenses (as well as your dependents if you have a family post), and up to 1 month after the end of your contract.<br />\nSalary sustainment measures (sickness, paternity, maternity)<br />\nLeaves and RnR: 25 days of paid leaves per year, 20 RnR per year, airfare reimbursement with a ceiling to get to the chosen break destination, and 215 euros for each RnR period<br />\nAccompaniment and trainings:<br />\nFollow-up and support for career development<br />\nFree and unlimited access to the e-learning platform Talentsoft<br />\nField trips : Mueda, Macomia, Mocimboa da Praia and potentially other locations in Cabo Delgado for cross-cutting thematics</p>\n<p>ACF is committed to people with disabilities and actively fights</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 3
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-07-11T14:33:03.621178+00:00"
     },
     {
       "id": "rw-4220910",
@@ -39704,6 +39729,6 @@
       "first_seen": "2026-04-28T10:07:22.044713+00:00"
     }
   ],
-  "last_added": 2,
-  "last_updated": 297
+  "last_added": 1,
+  "last_updated": 299
 }
