@@ -1,4 +1,4 @@
-=== Run start: 2026-07-19T08:35:19.258934+00:00 ===
+=== Run start: 2026-07-19T14:35:31.652864+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
 [ReliefWeb] q='blended finance' → 30 returned
@@ -25,7 +25,7 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='feasibility' → 1 returned
 [ReliefWeb] q='investment memorandum' → 1 returned
 [ReliefWeb] q='climate finance' → 38 returned
-[ReliefWeb] unique total: 246
+[ReliefWeb] unique total: 247
 [Greenhouse] Instiglio (instiglio) → 2 jobs
 [Greenhouse] Acumen (acumen) → 8 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 38 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 58
-Raw new opportunities: 304
-Pipeline: 1702 total (+1 new, 303 updated)
+Raw new opportunities: 305
+Pipeline: 1703 total (+1 new, 304 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-07-19T08:35:38.483466+00:00 ===
+=== Run end: 2026-07-19T14:35:36.576974+00:00 ===
