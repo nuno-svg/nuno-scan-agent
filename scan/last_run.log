@@ -1,8 +1,8 @@
-=== Run start: 2026-07-21T08:47:42.537736+00:00 ===
+=== Run start: 2026-07-21T15:18:30.162179+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 32 returned
-[ReliefWeb] q='results-based' → 38 returned
+[ReliefWeb] q='blended finance' → 33 returned
+[ReliefWeb] q='results-based' → 39 returned
 [ReliefWeb] q='innovative financing' → 3 returned
 [ReliefWeb] q='investment officer' → 50 returned
 [ReliefWeb] q='investment advisor' → 35 returned
@@ -20,12 +20,12 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='Lusophone' → 0 returned
 [ReliefWeb] q='Angola' → 1 returned
 [ReliefWeb] q='Mozambique' → 7 returned
-[ReliefWeb] q='advisor Africa' → 46 returned
+[ReliefWeb] q='advisor Africa' → 47 returned
 [ReliefWeb] q='financial advisor' → 43 returned
 [ReliefWeb] q='feasibility' → 1 returned
 [ReliefWeb] q='investment memorandum' → 2 returned
-[ReliefWeb] q='climate finance' → 40 returned
-[ReliefWeb] unique total: 245
+[ReliefWeb] q='climate finance' → 41 returned
+[ReliefWeb] unique total: 247
 [Greenhouse] Instiglio (instiglio) → 3 jobs
 [Greenhouse] Acumen (acumen) → 8 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 37 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 58
-Raw new opportunities: 303
-Pipeline: 1734 total (+8 new, 295 updated)
+Raw new opportunities: 305
+Pipeline: 1740 total (+6 new, 299 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-07-21T08:47:47.569437+00:00 ===
+=== Run end: 2026-07-21T15:18:44.673267+00:00 ===
