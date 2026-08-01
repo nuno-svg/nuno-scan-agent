@@ -1,4 +1,4 @@
-=== Run start: 2026-08-01T08:34:49.314200+00:00 ===
+=== Run start: 2026-08-01T14:40:57.952057+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
 [ReliefWeb] q='blended finance' → 34 returned
@@ -38,6 +38,6 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 60
 Raw new opportunities: 308
-Pipeline: 1946 total (+3 new, 305 updated)
+Pipeline: 1946 total (+0 new, 308 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-08-01T08:35:09.532091+00:00 ===
+=== Run end: 2026-08-01T14:41:03.383679+00:00 ===
