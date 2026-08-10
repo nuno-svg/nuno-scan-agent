@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-08-09T14:02:11.036873+00:00",
-  "last_run_local": "2026-08-09 14:02 UTC",
-  "runs_count": 222,
+  "last_run_iso": "2026-08-10T08:06:50.440383+00:00",
+  "last_run_local": "2026-08-10 08:06 UTC",
+  "runs_count": 223,
   "opportunities": [
     {
       "id": "rw-4224614",
@@ -4779,6 +4779,31 @@
       "first_seen": "2026-04-28T10:07:22.044710+00:00"
     },
     {
+      "id": "gh-7692994",
+      "title": "Uganda Finance Associate",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=7692994",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Jinja, Kampala Uganda",
+      "job_type": "FAS - Financial Advisory Services",
+      "category": "FAS - Financial Advisory Services",
+      "posted": "2026-08-10T03:56:43-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>You will support the Uganda program with financial analysis, budgeting, and reporting to inform decision-making. In addition, you will collaborate with the Grants Finance team in overseeing the financial aspects of specific Uganda-focused grants, including budgeting, reporting, compliance, and stakeholder engagement.</p>\n<h3>Responsibilities</h3>\n<p><strong>Financial Planning and Analysis</strong></p>\n<ul>\n<li>You’ll lead the development and continuous update of 5-year rolling forecasts and financial models. You will ensure alignment on financial, operational, and impact assumptions between the Country Director and Global Finance to drive informed, long-term strategic decisions.</li>\n<li>You’ll act as the primary financial advisor for all strategic initiatives, providing rigorous recommendations backed by sensitivity analyses. You will ensure every decision with financial consequences is grounded in Global Finance’s best practices and a deep understanding of potential fiscal outcomes.</li>\n<li>You’ll direct the monthly financial reporting and Budget vs. Actual (BVA) processes in collaboration with department heads. By providing senior leadership with targeted a",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 3,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-04-24T14:54:25.725484+00:00"
+    },
+    {
       "id": "rw-4224463",
       "title": "Internal Audit and Compliance Officer",
       "url": "https://reliefweb.int/node/4224463",
@@ -4927,31 +4952,6 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-06-10T10:35:17.609681+00:00"
-    },
-    {
-      "id": "gh-7692994",
-      "title": "Uganda Finance Associate",
-      "url": "https://oneacrefund.org/vacancies/?gh_jid=7692994",
-      "source": "Greenhouse",
-      "publisher": "One Acre Fund",
-      "country": "Jinja, Kampala Uganda",
-      "job_type": "FAS - Financial Advisory Services",
-      "category": "FAS - Financial Advisory Services",
-      "posted": "2026-08-06T08:03:07-04:00",
-      "closing": null,
-      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>You will support the Uganda program with financial analysis, budgeting, and reporting to inform decision-making. In addition, you will collaborate with the Grants Finance team in overseeing the financial aspects of specific Uganda-focused grants, including budgeting, reporting, compliance, and stakeholder engagement.</p>\n<h3>Responsibilities</h3>\n<p><strong>Financial Planning and Analysis</strong></p>\n<ul>\n<li>You’ll lead the development and continuous update of 5-year rolling forecasts and financial models. You will ensure alignment on financial, operational, and impact assumptions between the Country Director and Global Finance to drive informed, long-term strategic decisions.</li>\n<li>You’ll act as the primary financial advisor for all strategic initiatives, providing rigorous recommendations backed by sensitivity analyses. You will ensure every decision with financial consequences is grounded in Global Finance’s best practices and a deep understanding of potential fiscal outcomes.</li>\n<li>You’ll direct the monthly financial reporting and Budget vs. Actual (BVA) processes in collaboration with department heads. By providing senior leadership with targeted a",
-      "scores": {
-        "A_BlendedCatalyticFinance": 0,
-        "B_DealStructuring": 3,
-        "C_ExecutiveTraining": 0,
-        "D_EmergingMarkets": 6
-      },
-      "best_archetype": "D_EmergingMarkets",
-      "best_score": 6,
-      "overall_score": 6.5,
-      "status": "new",
-      "notes": "",
-      "first_seen": "2026-04-24T14:54:25.725484+00:00"
     },
     {
       "id": "gh-8064399",
@@ -24704,6 +24704,31 @@
       "first_seen": "2026-05-05T08:29:25.483047+00:00"
     },
     {
+      "id": "rw-4224928",
+      "title": "Financial Planning & Analysis (FP&A) Manager",
+      "url": "https://reliefweb.int/node/4224928",
+      "source": "ReliefWeb",
+      "publisher": "Pacific Community",
+      "country": "New Caledonia (France)",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-08-10T03:55:13+00:00",
+      "closing": "2026-09-06T00:00:00+00:00",
+      "description": "<p><strong>Description</strong></p>\n<p>The <strong>Pacific Community</strong> (SPC) is the principal scientific and technical organisation in the Pacific region, supporting development since 1947. We are an international development organisation owned and governed by our 27 country and territory members. In pursuit of sustainable development to benefit Pacific people, our unique organisation works across more than 25 sectors. We are known for our knowledge and innovation in such areas as fisheries science, public health surveillance, geoscience, and conservation of plant genetic resources for food and agriculture.</p>\n<p>The <strong>Operations &amp; Integration (O&amp;I)</strong> collective delivers essential enabling services that support the organisation’s scientific and technical portfolio. Our key functions include corporate services, programme support, partnerships, resource mobilisation, and strategic engagement. These services are coordinated through our regional and satellite offices across the Pacific and Europe. Additionally, the O&amp;I collective leads a dedicated workstream focused on organisational change and transformation to drive continuous improvement and adaptability.</p>\n<p><strong>The Financial Planning &amp; Analysis (FP&amp;A) Manager</strong> will oversee the overall responsibility for organisational budgeting, financial analysis, developing sustainable financial models and cost recovery and business partnering with management and support divisions.</p>\n<p>The key responsibilities of the role include the following:</p>\n<p><strong>Leadership and coordination</strong></p>\n<ul>\n<li>Provide proactive leadership in all areas of budget &amp; forecast management. This includes the following: Leading improvements in organisational budgeting practices across the organisation to improve accuracy, relevance and timeliness of financial budgeting and reporting; Developing tools and practices which are relevant and practical at organisational, divisional and program / project levels.</li>\n<li>Leading financial analysis and development of sustainable financial models:</li>\n<li>Analysis of income, pipeline and expenditure trends across the organisation.</li>\n<li>Develop sustainable financial models through management fee, cost recovery or other financial models which meet organisational and donor requirements.</li>\n</ul>\n<p><strong>Support to the finance director</strong></p>\n<ul>\n<li>Annual business planning. This includes thinking strategically of staffing and system requirements required to deliver on plans.</li>\n<li>Lead responsibility in senior team for audit and Risk Committee responsibilities including writing and presenting papers and coordination</li>\n<li>Provide advice to the director and perform services in such areas as:</li>\n<li>Strategic, financial, and organisational reform.</li>\n<li>Appropriate models for financial sustainability, including economic data analysis.</li>\n<li>Internal Audit &amp; Risk audit board management.</li>\n<li>Internal stakeholder relationships</li>\n<li>Matrix and cross-cutting work programmes.</li>\n</ul>\n<p><strong>Support to other areas</strong></p>\n<ul>\n<li>Leadership on business partnering across management and support functions and shared services approach across science divisions.</li>\n<li>Ensure the FP&amp;A team meet regularly with all management functions to support their team financial analysis and planning needs.</li>\n<li>Indirect line management of assigned Divisional Finance Team Leaders as part of shared services approach.</li>\n<li>Flagships and other new ways of working.</li>\n<li>Close coordination with the General Accounting Team to:</li>\n<li>Provide oversight of organisational and divisional reporting.</li>\n<li>Ensure that accounting and budgeting practices are aligned across the organisation.</li>\n<li>Delivery of their periodic accounting and reporting requirements, including making strategic recommendations on how services and controls can be improved.</li>\n<li>Support the Business Improvements &amp; Internal Controls team in:</li>\n<li>Development and implementation of systems and processes</li>\n<li>Development of shared services and pooling strategies and activities.</li>\n<li>Strengthening of internal controls.</li>\n</ul>\n<p><strong>Shared Services</strong></p>\n<ul>\n<li>Actively participate and lead in shared service programs and activities. This includes supporting the finance pooling initiatives to bring about workforce planning.</li>\n<li>Work collaboratively with divisional finance team leaders and other finance staff towards embedding shared services within divisions.</li>\n<li>Provide thought leadership in different areas of work.</li>\n</ul>\n<p><strong>People Management</strong></p>\n<ul>\n<li>Creating a team environment that fosters and develops effective working relationships and high performance.</li>\n<li>Managing service levels to stakeholders and customers in a complex operating environment.</li>\n<li>Manage staff performance and support training and development.</li>\n<li>Conduct fair, consistent, timely performance planning and review meetings and encourage open communication to discuss performance.</li>\n<li>Monitor the performance and workloads of staff members to ensure objectives are met.</li>\n<li>Supports the health and safety and well-being of employees in the way they manage and monitor the team.</li>\n</ul>\n<p>For a more detailed account of the key responsibilities, please <strong>refer to the online job description</strong>.</p>\n<p><strong>Key selection criteria</strong></p>\n<p><strong>Qualifications</strong></p>\n<ul>\n<li>Post-graduate degree in accounting, finance or business administration or equivalent body of knowledge and experience.</li>\n</ul>\n<p><strong>Technical expertise</strong></p>\n<ul>\n<li>At least 12 years of experience and demonstrated competence in the same field.</li>\n<li>Demonstrated experience in managing donor or project funded organisations and familiarity with a broad range of donor reporting requirements.</li>\n<li>Strong analytical ability and demonstrated ability to navigate complex technical issues and to manage financial risk.</li>\n<li>Experience in developing organisational budgeting systems in large, complex organisations.</li>\n<li>Sound collaboration and team working skills.</li>\n<li>Advanced Excel skills.</li>\n</ul>\n<p><strong>Language skills</strong></p>\n<ul>\n<li>Fluency in English.</li>\n</ul>\n<p><strong>Interpersonal skills and cultural awareness</strong></p>\n<ul>\n<li>Knowledge of Pacific Island countries and territories is an advantage</li>\n</ul>\n<p><strong>Salary, terms and conditions</strong></p>\n<p><strong>Contract Duration</strong> – This vacant position is budgeted for 3 years and is subject to renewal depending on funding and performance.</p>\n<p><strong>Remuneration –</strong> The <strong>Financial Planning &amp; Analysis (FP&amp;A) Manager</strong> is a band 12 position in SPC’s 2026 salary scale with a starting salary range of SDR (special drawing rights) 5,012-6,169 per month, which converts to approximately XPF 723,251-890,185 (USD 6,717-8,267; EUR 6,061-7,460).SPC salaries are not presently subject to income tax in New Caledonia. An offer of appointment for an initial contract will normally be made in the lower half of this range, with due consideration given to experience and qualifications. Progression within the salary scale will be based on annual performance reviews.</p>\n<p><strong>Benefits for Staff in a position advertised internationally (EPAI) whose duty station is Noumea</strong> – SPC provides housing support in Noumea. Establishment and repatriation grant, removal expenses, airfares, home leave travel, health and life and disability insurances and education allowances are available for eligible employees and their eligible dependents. Employees are entitled to 25 working days of annual leave per annum and other types of leave, and access to SPC’s Provident Fund (contributing 8% of salary, to which SPC adds a 10% contribution).</p>\n<p><strong>Languages</strong> – SPC’s working languages are English and French.</p>\n<p><strong>Recruitment principles</strong> – SPC’s recruitment is based on merit and fairness, and candidates are competing in a selection process that is fair, transparent and non-discriminatory. SPC is an <strong>equal-opportunity employer</strong>, and is committed to cultural and gender diversity, including bilinguism, and will seek to attract and appoint candidates who respect these values. Due attention is given to gender equity and the maintenance of strong representation from Pacific Island professionals. If two interviewed candidates are ranked equal by the selection panel, preference will be given to the <strong>Pacific Islander</strong>. Applicants will be assured of complete confidentiality in line with SPC’s private policy.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 3,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "B_DealStructuring",
+      "best_score": 3,
+      "overall_score": 3.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-08-10T08:06:50.440257+00:00"
+    },
+    {
       "id": "rw-4224835",
       "title": "Senior Specialist, Climate Health & WASH",
       "url": "https://reliefweb.int/node/4224835",
@@ -29252,6 +29277,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-05-10T14:33:52.556507+00:00"
+    },
+    {
+      "id": "rw-4224936",
+      "title": "Gender and Protection Advisor (Re-advertisement)",
+      "url": "https://reliefweb.int/node/4224936",
+      "source": "ReliefWeb",
+      "publisher": "Oxfam GB",
+      "country": "Myanmar",
+      "job_type": "Job",
+      "category": "Program/Project Management",
+      "posted": "2026-08-10T06:19:18+00:00",
+      "closing": "2026-10-10T00:00:00+00:00",
+      "description": "<p><strong>Employment Term: Fixed Term (1 Year Contract)</strong></p>\n<p><strong>Level: National/International, C1</strong></p>\n<p><strong>Location</strong>: <strong>Yangon, Myanmar</strong></p>\n<p><strong>Closing Date</strong>: <strong>10th October 2026</strong></p>\n<p><strong>“This position is opened to both National/International Applicants.”</strong></p>\n<p><strong>Early application is encouraged as the recruitment process will be done on a rolling basis and Oxfam reserves the right to appoint a suitable candidate as soon as they are identified.</strong></p>\n<h2><em><strong>The Role:</strong></em></h2>\n<p>Oxfam is looking for <strong>Gender and Protection Advisor</strong></p>\n<h2><em><strong>Job Purpose:</strong></em></h2>\n<p>The Gender and Protection Advisor will play a key role in driving Oxfam Myanmar’s commitment to gender justice, social inclusion, and protection across its humanitarian and development programs. This position is responsible for leading the integration of gender, GEDSI, and protection principles into program design, strategic planning, implementation, and learning, in alignment with Oxfam’s Strategies and Action Plan. The post holder will provide technical leadership and capacity strengthening to Oxfam and partner staff to ensure gender-transformative approaches, women’s leadership, protection and inclusive outcomes are embedded across all sectors. In addition, the role will lead on safe programming by supporting risk-informed, community-based protection strategies, and ensuring that all programs uphold protection principles and mitigate potential harm. The position also contributes to internal learning and external representation, working closely with advocacy and program teams to influence positive shifts in gender norms and promote safe, equitable, and accountable programming in Myanmar.</p>\n<p><strong>This Role Report To</strong>: <strong>Head of Program Quality and Impact</strong></p>\n<p><strong>Staff Reporting to this Post: Gender and Protection Coordinator(s)</strong></p>\n<p><strong>Key Relation/Interaction: Program, Gender Coordinators, Safeguarding Coordinator, Humanitarian</strong></p>\n<p><strong>Safety Advisor, Advocacy &amp; Communication, Implementing partners,</strong></p>\n<p><strong>Program Quality, Program Design and Learning</strong></p>\n<h2><em><strong>Key Responsibilities:</strong></em></h2>\n<p><strong>Gender and Gender Equality, Disability and Social Inclusion (GEDSI) Responsibilities (70%):</strong></p>\n<ul>\n<li>Lead the integration of gender perspectives in strategic planning, program design, and needs assessments across sectors, ensuring alignment with Oxfam Myanmar’s gender strategy.</li>\n<li>Conduct or commission regular gender analyses and assessments in key operational areas to inform programming.</li>\n<li>Lead/Support proactive GEDSI integration across all the programs in the country.</li>\n<li>Provide technical support to humanitarian and development teams including program redesign and integration of women’s leadership and gender outcomes in theories of change and proposals.</li>\n<li>Drive implementation and periodic review of the country Gender Strategy and Gender Action Plan to advance both standalone and mainstreamed gender programming.</li>\n<li>Advocate for budget allocation for GEDSI related activities and build the capacity of Oxfam and partner staff through regular gender and women-in-leadership training, coaching, and mentoring.</li>\n<li>Lead and conduct periodic mission-level GEDSI audits to assess and strengthen effective GEDSI integration.</li>\n<li>Matrix/ technically manage Gender &amp; Protection Coordinator, the Gender Focal Group and provide technical support to gender focal points across programs.</li>\n<li>Support women’s economic empowerment and make gender technical knowledge accessible to non-specialist staff.</li>\n<li>Lead on sex-, age-, and disability-disaggregated data analysis and support monitoring of gender mainstreaming progress.</li>\n<li>Working closely with Advocacy and Communication team, generate evidence of shifts in gender norms and women’s leadership to inform learning and advocacy.</li>\n<li>Manage external or internal gender technical support and represent Oxfam in external gender networks and coordination forums.</li>\n</ul>\n<p><strong>Protection and Safe Programming Responsibilities (30%):</strong></p>\n<ul>\n<li>Lead the mainstreaming of protection and safe programming principles across all sectors and with implementing partners, including regular Safe Programming Risk Analyses.</li>\n<li>Provide technical guidance on protection, lead on community-based protection strategy development and safe programming to ensure coherent, risk-informed humanitarian programming.</li>\n<li>Support risk analysis and advise on adjustments to program activities to mitigate protection risks during planning and implementation.</li>\n<li>Build the capacity of Oxfam staff and partners on protection standards and approaches through training, mentoring, and technical support.</li>\n<li>Contribute to donor reporting, evaluations, learning events, and protection-related research by providing technical input and analysis.</li>\n<li>Maintain up-to-date knowledge of the protection context in Myanmar, including conflict dynamics and legal frameworks, and ensure relevant analysis is shared across teams.</li>\n<li>Engage in protection coordination mechanisms and represent Oxfam in sectoral working groups and advocacy spaces.</li>\n<li>Support cross-programme collaboration to ensure protection is integrated into broader initiatives, including economic justice and governance.</li>\n</ul>\n<p><strong>Safety and Security:</strong></p>\n<ul>\n<li>Complying with all security policies, procedures, directions, instructions, regulations or plans.</li>\n<li>Taking care of their own safety and security.</li>\n<li>Actively contributing to the development and maintenance of security management policy and procedures.</li>\n</ul>\n<p><strong>Safeguarding:</strong></p>\n<ul>\n<li>Ensure adherence to safeguarding policies by protecting the safety and dignity of all individuals.</li>\n<li>Ensure completing all annual core compliance courses.</li>\n<li>Must report any concerns or witness or suspect any behaviour that could be in breach of the one Oxfam safeguarding policy or Oxfam Code of Conduct.</li>\n</ul>\n<p><strong>Other:</strong></p>\n<ul>\n<li>Eager and required to adhere to Oxfam’s principles and <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.oxfam.org/en/what-we-do/about/what-we-believe\">values</a> as well as the promotion of <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://policy-practice.oxfam.org.uk/our-work/gender-justice#855afbea-dfa4-4084-a924-2e7d160e8a85\">gender justice and women's rights</a></li>\n<li>Understanding of and commitment to adhere to equity, diversity, gender, child safety and staff health and wellbeing principles</li>\n<li>In case of emergency response, perform assigned tasks to contribute to an efficient and timely emergency response activities.</li>\n</ul>\n<p><em><strong>For more information regarding the position, please have a look at the Job Profile</strong></em> <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://oxfam.box.com/shared/static/ahn61wlplusr2rcxu2gkdz5fjoauw5cr.pdf\">here</a><em>.</em></p>\n<h2><em><strong>What we are looking for:</strong></em></h2>\n<p><strong>Skill and Competence:</strong></p>\n<ul>\n<li>Degree in social sciences, gender studies, or related field with a focus on gender equality, women's rights, or social inclusion.</li>\n<li>Strong leadership and influencing skills with demonstrated experience in inspiring and mobilizing staff and local partners to effectively integrate gender, GEDSI, and protection principles into programming.</li>\n<li>Minimum 5 years of progressive experience in gender equality, women's empowerment, gender mainstreaming, protection and safe programming in humanitarian or development settings.</li>\n<li>Proven expertise in gender analysis, gender-sensitive planning, and integrating women’s empowerment into development and humanitarian programs.</li>\n<li>Practical knowledge of protection principles, gender-based violence (GBV), and community-based protection approaches.</li>\n<li>Experience working on broader social inclusion issues, including gender identity and intersectionality.</li>\n<li>Strong skills in capacity assessment, training, facilitation, and mentoring of staff and partners.</li>\n<li>Demonstrated ability to engage diverse stakeholders, including communities, partners, authorities, and donors.</li>\n<li>Excellent written and verbal communication skills, with the ability to convey complex gender and protection concepts clearly.</li>\n<li>Understanding of feminist leadership principles and commitment to promoting a feminist and inclusive organizational culture.</li>\n<li>Ability and willingness to travel frequently, including to remote and challenging locations in Myanmar.</li>\n</ul>\n<p><strong>Key Attributes:</strong></p>\n<ul>\n<li>Ability to demonstrate sensitivity to cultural differences and gender issues, as well as the commitment to equal opportunities.</li>\n<li>Ability to demonstrate an openness and willingness to learn about the application of gender/gender mainstreaming, women’s rights, and diversity for all aspects of development work.</li>\n<li>Commitment to Oxfam’s safeguarding policies to ensure all people who come into contact with Oxfam are as safe as possible.</li>\n</ul>\n<h2><em><strong>What we offer:</strong></em></h2>\n<p>Oxfam aims to recruit and retain diverse, passionate people who have the necessary skills, knowledge and commitment to meet our vision. We offer a competitive salary and a range of additional benefits to staff including flexible working options, generous pension scheme, annual leave, additional leave allowances, company sick pay, life assurance and a range of other benefits.</p>\n<p><em><strong>Find out more about our pay &amp; benefits, please click</strong></em> <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"http://www.oxfam.org.uk/what-we-do/about-us/working-at-oxfam/what-oxfam-offers\">here</a></p>\n<h2><em><strong>Our values and commitment to safeguarding:</strong></em></h2>\n<p><strong>Oxfam is committed to preventing any type of unwanted behaviour at work including sexual harassment, exploitation and abuse, lack of integrity and financial misconduct; and committed to promoting the welfare of children, young people, adults and beneficiaries with whom Oxfam GB engages. Oxfam expects all staff and volunteers to share this commitment through our code of conduct. We place a high priority on ensuring that only those who share and demonstrate our</strong> <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.oxfam.org.uk/what-we-do/about-us/how-we-work/our-goals-and-values\"><strong>values</strong></a> <strong>are recruited to work for us.</strong></p>\n<p>The post holder will undertake the appropriate level of training and is responsible for ensuring that they understand and work within the safeguarding policies of the organisation.</p>\n<p>All offers of employment will be subject to satisfactory references and appropriate screening checks, which can include criminal records and terrorism finance checks. Oxfam GB also participates in the <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.schr.info/the-misconduct-disclosure-scheme\">Inter Agency Misconduct Disclosure Scheme</a>. In line with this Scheme, we will request information from job applicants’ previous employers about any findings of sexual exploitation, sexual abuse and/or sexual harassment during employment, or incidents under investigation when the applicant left employment. By submitting an application, the job applicant confirms his/her understanding of these recruitment procedures.</p>\n<p>We are committed to ensuring diversity and gender equality within our organisation and encourage applicants from diverse backgrounds to apply.</p>\n<h2><strong>Note to candidates:</strong> Shortlisted candidates will be assessed on our organisational values and attributes at the interview stage. The successful candidate(s) will be expected to adhere to our code of conduct. We encourage candidates to read and understand our code of conduct <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://oxfam.box.com/s/mtotlkc9xrjg63skm2ib77x31pj6suek\">here</a>.</h2>\n<p><em><strong>About Us</strong></em></p>\n<p>Oxfam is a global community of people who believe in a kinder and radically better world, where everyone has power to thrive not just survive. We believe we can overcome poverty by tackling inequalities that fuel it. We are shop volunteers, women’s right activists, marathon runners, aid workers, coffee farmers, street fundraisers, goat herders, policy experts, campaigners, water engineers and more. And we won’t stop until everyone can live life without poverty for good.</p>\n<p><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.oxfam.org.uk/\">Oxfam GB</a> is a member of <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.oxfam.org/en/our-governance\">international confederation</a> of 21 organizations working together with partners and local communities in the areas of humanitarian, development and campaigning, in more than 80 countries.Oxfam in Myanmar is the branch of Oxfam GB.</p>\n<p>Only short-listed candidates will be notified.</p>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 1,
+        "C_ExecutiveTraining": 2,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "C_ExecutiveTraining",
+      "best_score": 2,
+      "overall_score": 2.1,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-08-10T08:06:50.440175+00:00"
     },
     {
       "id": "rw-4223148",
@@ -43804,6 +43854,31 @@
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
     },
     {
+      "id": "rw-4224949",
+      "title": "Finance and Support Services Director",
+      "url": "https://reliefweb.int/node/4224949",
+      "source": "ReliefWeb",
+      "publisher": "World Vision",
+      "country": "Mauritania",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-08-10T07:49:49+00:00",
+      "closing": "2026-08-21T00:00:00+00:00",
+      "description": "<p>With 75 years of experience, our focus is on helping the most vulnerable children overcome poverty and experience fullness of life. We help children of all backgrounds, even in the most dangerous places, inspired by our Christian faith.</p>\n<p>Come join our 33,000+ staff working in nearly 100 countries and share the joy of transforming vulnerable children’s life stories!</p>\n<p><strong>Here’s where you come in:</strong></p>\n<p>As the <strong>Finance and Support Services Director</strong> youwill provide overall leadership, oversight, and management support for all aspects of financial management in the Field Office (FO).</p>\n<p>This position is a strategic partner and a member of the Senior Leadership Team (SLT) of the WV Mauratania, with a focus on ensuring accountability, stewardship, coordinating planning and budgeting processes, providing accurate financial data, analysis, and advice; as well as developing a financial strategy that best serves the FO strategic and programme objectives.</p>\n<p>You will be responsible for the finance staff capacity strengthening, the development and implementation of good internal controls, risk management, and utilization and safeguarding of assets according to WV-approved policies and procedures.</p>\n<p><strong>Requirements include:</strong></p>\n<ul>\n<li>Bachelor’s degree in accounting, Finance, or Economics or a related field</li>\n<li>Minimum 5 years of experience in a finance position with a medium business/medium NGO/government agency</li>\n<li>Minimum 3 years of experience in a senior finance management position</li>\n<li>Experience with financial planning and forecasting</li>\n<li>Solid knowledge of accounting principles, financial systems, budget/cash flow monitoring, and internal accounting controls.</li>\n<li>Highly flexible and agile in style, with the ability to produce creative and pragmatic solutions to complex problems.</li>\n<li>Good working knowledge of computerized accounting systems, preferably Sun Systems &amp; ProVision.</li>\n<li>Demonstrates systems thinking and is a high champion and Manages Innovation.</li>\n<li>Able to work in a cross-cultural environment with a multi-national staff.</li>\n<li>Ability to travel within the country, regionally, and internationally.</li>\n<li>French is non-negotiable (both written and spoken)</li>\n<li>Proficiency in written and spoken English</li>\n<li>Excellent oral/written and interpersonal skills</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-08-10T08:06:50.440021+00:00"
+    },
+    {
       "id": "rw-4224829",
       "title": "République Démocratique du Congo : Chargé.e Finance Pays – Kinshasa",
       "url": "https://reliefweb.int/node/4224829",
@@ -51954,6 +52029,6 @@
       "first_seen": "2026-08-01T08:35:09.265225+00:00"
     }
   ],
-  "last_added": 1,
-  "last_updated": 309
+  "last_added": 3,
+  "last_updated": 301
 }
