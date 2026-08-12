@@ -1,16 +1,16 @@
-=== Run start: 2026-08-12T07:54:27.763628+00:00 ===
+=== Run start: 2026-08-12T14:32:26.901983+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 49 returned
-[ReliefWeb] q='results-based' → 41 returned
+[ReliefWeb] q='blended finance' → 50 returned
+[ReliefWeb] q='results-based' → 43 returned
 [ReliefWeb] q='innovative financing' → 1 returned
 [ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 36 returned
+[ReliefWeb] q='investment advisor' → 37 returned
 [ReliefWeb] q='structuring' → 0 returned
 [ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 36 returned
+[ReliefWeb] q='transaction advisor' → 37 returned
 [ReliefWeb] q='capacity building' → 6 returned
-[ReliefWeb] q='executive training' → 11 returned
+[ReliefWeb] q='executive training' → 12 returned
 [ReliefWeb] q='budget planning' → 6 returned
 [ReliefWeb] q='finance consultant' → 50 returned
 [ReliefWeb] q='development finance' → 50 returned
@@ -20,8 +20,8 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='Lusophone' → 0 returned
 [ReliefWeb] q='Angola' → 0 returned
 [ReliefWeb] q='Mozambique' → 6 returned
-[ReliefWeb] q='advisor Africa' → 42 returned
-[ReliefWeb] q='financial advisor' → 47 returned
+[ReliefWeb] q='advisor Africa' → 43 returned
+[ReliefWeb] q='financial advisor' → 48 returned
 [ReliefWeb] q='feasibility' → 2 returned
 [ReliefWeb] q='investment memorandum' → 0 returned
 [ReliefWeb] q='climate finance' → 50 returned
@@ -38,6 +38,6 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 55
 Raw new opportunities: 304
-Pipeline: 2126 total (+8 new, 296 updated)
+Pipeline: 2145 total (+19 new, 285 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-08-12T07:54:49.916058+00:00 ===
+=== Run end: 2026-08-12T14:32:33.805145+00:00 ===
