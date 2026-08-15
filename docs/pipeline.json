@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-08-15T06:59:44.347283+00:00",
-  "last_run_local": "2026-08-15 06:59 UTC",
-  "runs_count": 233,
+  "last_run_iso": "2026-08-15T13:46:22.503110+00:00",
+  "last_run_local": "2026-08-15 13:46 UTC",
+  "runs_count": 234,
   "opportunities": [
     {
       "id": "rw-4224614",
@@ -54604,6 +54604,6 @@
       "first_seen": "2026-08-01T08:35:09.265225+00:00"
     }
   ],
-  "last_added": 3,
-  "last_updated": 303
+  "last_added": 0,
+  "last_updated": 306
 }
