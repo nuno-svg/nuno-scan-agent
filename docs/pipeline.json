@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-08-16T07:01:43.434308+00:00",
-  "last_run_local": "2026-08-16 07:01 UTC",
-  "runs_count": 235,
+  "last_run_iso": "2026-08-16T13:47:13.779416+00:00",
+  "last_run_local": "2026-08-16 13:47 UTC",
+  "runs_count": 236,
   "opportunities": [
     {
       "id": "rw-4224614",
@@ -45904,6 +45904,31 @@
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
     },
     {
+      "id": "rw-4225778",
+      "title": "Cashier/Finance Assistant",
+      "url": "https://reliefweb.int/node/4225778",
+      "source": "ReliefWeb",
+      "publisher": "Agency for Technical Cooperation and Development",
+      "country": "Syrian Arab Republic",
+      "job_type": "Job",
+      "category": "Administration/Finance",
+      "posted": "2026-08-16T08:55:06+00:00",
+      "closing": "2026-08-29T00:00:00+00:00",
+      "description": "<p><strong>About ACTED:</strong><br />\nActed is committed to immediate humanitarian relief to support those in urgent need and protect people’s dignity, while co-creating longer term opportunities for sustainable growth and fulfilling people’s potential.<br />\nActed endeavours to respond to humanitarian crises and build resilience promote inclusive and sustainable growth; co-construct effective governance and support the building of civil society worldwide by investing in people and their potential. The commitment of ACTED and that if our teams is guided by 4 core values:</p>\n<p>(1) Responsibility: we ensure the efficient and responsible delivery of humanitarian aid with the means and the<br />\nresources that have been entrusted to us.</p>\n<p>(2) Impact: we are committed to having the most sustainable impact for the communities and the people with whom we engage.</p>\n<p>(3) Enterprising spirit: we are enterprising and engage in our work with a spirit that creates value and overcomes challenges.</p>\n<p>(4) Inspiration: we strive to inspire all those around us through our vision, values, approaches, choices, practice, actions, and advocacy.<br />\n<strong>Greening strategy:</strong><br />\nActed’s greening strategy aims to tackle environmental degradation and climate change while meeting the needs of the most vulnerable who are often those most affected by the deepening environmental crisis. Each Acted employee will adhere to these principles through key green programming responsibilities: Contribute towards the adherence and development of the greening strategy plan. Explore innovative green programming opportunities and/or solutions within your realm of responsibilities and roles. Encouraging and promoting environmental safeguarding processes and environmental programming<br />\nstandards in accordance with SOPs and technical guideline notes<br />\n<strong>Acted PSEAH Policy:</strong><br />\nThe Cashier/Finance assistant has the responsibility to adhere to the PSEAH Policy (Protection against Sexual Exploitation, Abuse and Harassment). And has the obligation to complete all mandatory trainings related to the Code of Conduct and the PSEA policy and report any safeguarding concern such as breaches of organisational policies or codes of conduct according to Acted’s procedures. The Cashier/Finance assistant carries out work duties in a way that does not harm children, vulnerable adults or other staff or volunteers.<br />\n<strong>Location:</strong> Damascus – Syria<br />\n<strong>Start Date:</strong> ASAP<br />\n<strong>Duration Of the Contract</strong>: 6 Months.</p>\n<p><strong>Duties &amp; Responsibilities</strong></p>\n<ol>\n<li><strong>Cash Management</strong>\n<ol>\n<li>Ensure expats’ benefits &amp; reimbursement are paid on a timely manner, and the supporting documents are in line with ACTED regulation in liaison with the HR</li>\n<li>Proceed with the supplier’s payments in cash whether through MTA or direct cash payment and ensure the completeness of documentation</li>\n<li>Proceed with the running costs advances and advances’ returns monitoring monthly.</li>\n<li>Monitor the cash balance as per the needs in respect to the allowed limit and assist in the monthly cash request to HQ</li>\n<li>Count and validate the cash across the cash book on a daily, weekly, and monthly basis before submitting it for approval to the CFM for monthly closure; and report variances if any</li>\n<li>Proceed with any payments in CHQ, insure the completeness of documentation.</li>\n<li>Ensure sufficient cash in the safe and liquidity in the bank to facilitate payments.</li>\n</ol>\n</li>\n<li><strong>Accountancy Management and control</strong>\n<ol>\n<li>Register payments voucher once the payment is processed in the cashbook daily</li>\n<li>Make sure that allocations are correct and matching the allocation table/Time Sheet</li>\n<li>Make sure that all information in term of accountancy is in line with ACTED standards (accounting codes – harmonised description – third party codes, allocation, etc.)</li>\n<li>Control that logistics and human resources procedures are respected</li>\n<li>Prepare and record vouchers for any exchange currency in the concerned accountancy book.</li>\n<li>Prepare and record vouchers for any cash transfers between accounting books and make sure they are matching through the necessary references</li>\n</ol>\n</li>\n<li><strong>Archiving Management</strong>\n<ol>\n<li>Make sure the vouchers’ numbers and dates are matching the accounting records and they are stamped PAID</li>\n<li>Make sure all payment vouchers and supporting documents are compliant to ACTED procedures, scanned, and archived as per ACTED policy</li>\n<li>Validate and Provide samples to the compliance when required for the auditors</li>\n</ol>\n</li>\n<li><strong>Other Tasks:</strong>\n<ol>\n<li>Collect Time Sheets</li>\n<li>Any other tasks assigned by the line manager</li>\n<li>Support the team when requested</li>\n</ol>\n</li>\n</ol>\n<p><strong>QUALIFICATIONS:</strong></p>\n<p><strong>Essential:</strong></p>\n<ul>\n<li>Bachelor’s degree in accounting or a related field;</li>\n<li>Fluent English and Arabic (written and spoken);</li>\n<li>Excellent writing and communication skills;</li>\n<li>At least 1 Year related work experience.</li>\n<li>Ability to work under pressure in a high-pace environment;</li>\n<li>Good organisational and prioritisation skills;</li>\n<li>Proficiency in Microsoft Office, Microsoft Excel and Publisher;</li>\n<li>Strong interpersonal skills</li>\n<li>Strong analytical skills</li>\n</ul>\n<p><strong>Desirable</strong>:</p>\n<ul>\n<li>INGO/NGO experience in an emergency and/or development setting</li>\n</ul>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-08-16T13:47:13.779072+00:00"
+    },
+    {
       "id": "rw-4225642",
       "title": "Finance Assistant - Yemen (National)",
       "url": "https://reliefweb.int/node/4225642",
@@ -54604,6 +54629,6 @@
       "first_seen": "2026-08-01T08:35:09.265225+00:00"
     }
   ],
-  "last_added": 0,
-  "last_updated": 288
+  "last_added": 1,
+  "last_updated": 287
 }
