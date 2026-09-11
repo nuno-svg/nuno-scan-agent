@@ -1,15 +1,15 @@
-=== Run start: 2026-09-11T11:28:08.025792+00:00 ===
+=== Run start: 2026-09-11T17:02:43.248833+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 40 returned
-[ReliefWeb] q='results-based' → 29 returned
+[ReliefWeb] q='blended finance' → 41 returned
+[ReliefWeb] q='results-based' → 30 returned
 [ReliefWeb] q='innovative financing' → 2 returned
 [ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 40 returned
+[ReliefWeb] q='investment advisor' → 41 returned
 [ReliefWeb] q='structuring' → 0 returned
 [ReliefWeb] q='project finance' → 50 returned
 [ReliefWeb] q='transaction advisor' → 39 returned
-[ReliefWeb] q='capacity building' → 7 returned
+[ReliefWeb] q='capacity building' → 8 returned
 [ReliefWeb] q='executive training' → 8 returned
 [ReliefWeb] q='budget planning' → 7 returned
 [ReliefWeb] q='finance consultant' → 50 returned
@@ -23,9 +23,9 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='advisor Africa' → 45 returned
 [ReliefWeb] q='financial advisor' → 47 returned
 [ReliefWeb] q='feasibility' → 5 returned
-[ReliefWeb] q='investment memorandum' → 2 returned
+[ReliefWeb] q='investment memorandum' → 3 returned
 [ReliefWeb] q='climate finance' → 50 returned
-[ReliefWeb] unique total: 259
+[ReliefWeb] unique total: 264
 [Greenhouse] Instiglio (instiglio) → 3 jobs
 [Greenhouse] Acumen (acumen) → 2 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 49 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 61
-Raw new opportunities: 320
-Pipeline: 2661 total (+11 new, 309 updated)
+Raw new opportunities: 325
+Pipeline: 2666 total (+5 new, 320 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-09-11T11:28:28.063903+00:00 ===
+=== Run end: 2026-09-11T17:02:53.852268+00:00 ===
