@@ -1,59 +1,31 @@
-=== Run start: 2026-09-12T16:21:41.987308+00:00 ===
+=== Run start: 2026-09-13T11:58:02.809665+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 37 returned
+[ReliefWeb] q='blended finance' → 36 returned
 [ReliefWeb] q='results-based' → 29 returned
-Fetcher fetch_reliefweb fatal: The read operation timed out
-Traceback (most recent call last):
-  File "/home/runner/work/nuno-scan-agent/nuno-scan-agent/scan/run_daily.py", line 447, in main
-    new_opps.extend(fetcher(log))
-                    ^^^^^^^^^^^^
-  File "/home/runner/work/nuno-scan-agent/nuno-scan-agent/scan/run_daily.py", line 219, in fetch_reliefweb
-    raw = _try_reliefweb_endpoints(q, body, log)
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/nuno-scan-agent/nuno-scan-agent/scan/run_daily.py", line 180, in _try_reliefweb_endpoints
-    return http_post_json(url, body)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/nuno-scan-agent/nuno-scan-agent/scan/run_daily.py", line 132, in http_post_json
-    with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 519, in open
-    response = self._open(req, data)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 536, in _open
-    result = self._call_chain(self.handle_open, protocol, protocol +
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 1391, in https_open
-    return self.do_open(http.client.HTTPSConnection, req,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/urllib/request.py", line 1352, in do_open
-    r = h.getresponse()
-        ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/http/client.py", line 1443, in getresponse
-    response.begin()
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/http/client.py", line 337, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/http/client.py", line 298, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/socket.py", line 718, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/ssl.py", line 1314, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/ssl.py", line 1166, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
-
+[ReliefWeb] q='innovative financing' → 1 returned
+[ReliefWeb] q='investment officer' → 50 returned
+[ReliefWeb] q='investment advisor' → 41 returned
+[ReliefWeb] q='structuring' → 0 returned
+[ReliefWeb] q='project finance' → 50 returned
+[ReliefWeb] q='transaction advisor' → 39 returned
+[ReliefWeb] q='capacity building' → 8 returned
+[ReliefWeb] q='executive training' → 8 returned
+[ReliefWeb] q='budget planning' → 6 returned
+[ReliefWeb] q='finance consultant' → 50 returned
+[ReliefWeb] q='development finance' → 50 returned
+[ReliefWeb] q='PPP' → 0 returned
+[ReliefWeb] q='concessional' → 0 returned
+[ReliefWeb] q='DFI' → 0 returned
+[ReliefWeb] q='Lusophone' → 1 returned
+[ReliefWeb] q='Angola' → 1 returned
+[ReliefWeb] q='Mozambique' → 4 returned
+[ReliefWeb] q='advisor Africa' → 45 returned
+[ReliefWeb] q='financial advisor' → 47 returned
+[ReliefWeb] q='feasibility' → 4 returned
+[ReliefWeb] q='investment memorandum' → 3 returned
+[ReliefWeb] q='climate finance' → 49 returned
+[ReliefWeb] unique total: 255
 [Greenhouse] Instiglio (instiglio) → 1 jobs
 [Greenhouse] Acumen (acumen) → 2 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 49 jobs
@@ -65,7 +37,7 @@ TimeoutError: The read operation timed out
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 59
-Raw new opportunities: 59
-Pipeline: 2667 total (+0 new, 59 updated)
+Raw new opportunities: 314
+Pipeline: 2667 total (+0 new, 314 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-09-12T16:22:13.843743+00:00 ===
+=== Run end: 2026-09-13T11:58:21.416729+00:00 ===
