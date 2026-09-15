@@ -1,7 +1,7 @@
-=== Run start: 2026-09-15T11:50:21.274985+00:00 ===
+=== Run start: 2026-09-15T17:41:20.699117+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 33 returned
+[ReliefWeb] q='blended finance' → 38 returned
 [ReliefWeb] q='results-based' → 29 returned
 [ReliefWeb] q='innovative financing' → 1 returned
 [ReliefWeb] q='investment officer' → 50 returned
@@ -11,7 +11,7 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='transaction advisor' → 36 returned
 [ReliefWeb] q='capacity building' → 7 returned
 [ReliefWeb] q='executive training' → 6 returned
-[ReliefWeb] q='budget planning' → 7 returned
+[ReliefWeb] q='budget planning' → 8 returned
 [ReliefWeb] q='finance consultant' → 50 returned
 [ReliefWeb] q='development finance' → 50 returned
 [ReliefWeb] q='PPP' → 0 returned
@@ -21,10 +21,10 @@ Keywords loaded: 4 archetypes
 [ReliefWeb] q='Angola' → 1 returned
 [ReliefWeb] q='Mozambique' → 4 returned
 [ReliefWeb] q='advisor Africa' → 41 returned
-[ReliefWeb] q='financial advisor' → 46 returned
+[ReliefWeb] q='financial advisor' → 48 returned
 [ReliefWeb] q='feasibility' → 2 returned
 [ReliefWeb] q='investment memorandum' → 3 returned
-[ReliefWeb] q='climate finance' → 43 returned
+[ReliefWeb] q='climate finance' → 48 returned
 [ReliefWeb] unique total: 249
 [Greenhouse] Instiglio (instiglio) → 1 jobs
 [Greenhouse] Acumen (acumen) → 2 jobs
@@ -38,6 +38,6 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 59
 Raw new opportunities: 308
-Pipeline: 2697 total (+6 new, 302 updated)
+Pipeline: 2705 total (+8 new, 300 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-09-15T11:50:27.570899+00:00 ===
+=== Run end: 2026-09-15T17:41:54.988769+00:00 ===
