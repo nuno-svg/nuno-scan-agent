@@ -1,31 +1,31 @@
-=== Run start: 2026-09-25T11:55:54.305702+00:00 ===
+=== Run start: 2026-09-25T17:58:42.682545+00:00 ===
 Keywords loaded: 4 archetypes
 [ReliefWeb] q='catalytic' → 0 returned
-[ReliefWeb] q='blended finance' → 45 returned
+[ReliefWeb] q='blended finance' → 46 returned
 [ReliefWeb] q='results-based' → 43 returned
-[ReliefWeb] q='innovative financing' → 2 returned
-[ReliefWeb] q='investment officer' → 50 returned
-[ReliefWeb] q='investment advisor' → 30 returned
-[ReliefWeb] q='structuring' → 0 returned
-[ReliefWeb] q='project finance' → 50 returned
-[ReliefWeb] q='transaction advisor' → 28 returned
-[ReliefWeb] q='capacity building' → 8 returned
-[ReliefWeb] q='executive training' → 10 returned
-[ReliefWeb] q='budget planning' → 6 returned
-[ReliefWeb] q='finance consultant' → 50 returned
-[ReliefWeb] q='development finance' → 50 returned
-[ReliefWeb] q='PPP' → 0 returned
-[ReliefWeb] q='concessional' → 0 returned
-[ReliefWeb] q='DFI' → 0 returned
-[ReliefWeb] q='Lusophone' → 1 returned
-[ReliefWeb] q='Angola' → 0 returned
-[ReliefWeb] q='Mozambique' → 6 returned
-[ReliefWeb] q='advisor Africa' → 39 returned
-[ReliefWeb] q='financial advisor' → 42 returned
-[ReliefWeb] q='feasibility' → 2 returned
-[ReliefWeb] q='investment memorandum' → 2 returned
-[ReliefWeb] q='climate finance' → 50 returned
-[ReliefWeb] unique total: 256
+[ReliefWeb] q='innovative financing' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='investment officer' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='investment advisor' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='structuring' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='project finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='transaction advisor' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='capacity building' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='executive training' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='budget planning' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='finance consultant' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='development finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='PPP' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='concessional' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='DFI' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='Lusophone' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='Angola' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='Mozambique' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='advisor Africa' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='financial advisor' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='feasibility' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='investment memorandum' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] q='climate finance' FAILED: Expecting value: line 1 column 1 (char 0)
+[ReliefWeb] unique total: 89
 [Greenhouse] Instiglio (instiglio) → 1 jobs
 [Greenhouse] Acumen (acumen) → 1 jobs
 [Greenhouse] One Acre Fund (oneacrefund) → 48 jobs
@@ -37,7 +37,7 @@ Keywords loaded: 4 archetypes
 [Greenhouse] Rockefeller Foundation (rockefellerfoundation) SKIP: GET https://boards-api.greenhouse.io/v1/boards/rockefellerfoundation/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] Opportunity International (opportunityinternational) SKIP: GET https://boards-api.greenhouse.io/v1/boards/opportunityinternational/jobs?content=true → HTTP 404: body='{"status":404,"error":"Job not found"}'
 [Greenhouse] total unique: 53
-Raw new opportunities: 309
-Pipeline: 2865 total (+11 new, 298 updated)
+Raw new opportunities: 142
+Pipeline: 2866 total (+1 new, 141 updated)
 Dashboard written: /home/runner/work/nuno-scan-agent/nuno-scan-agent/docs/index.html
-=== Run end: 2026-09-25T11:55:59.580694+00:00 ===
+=== Run end: 2026-09-25T17:58:49.446391+00:00 ===
