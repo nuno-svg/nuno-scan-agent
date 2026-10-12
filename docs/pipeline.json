@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-10-12T15:36:24.458022+00:00",
-  "last_run_local": "2026-10-12 15:36 UTC",
-  "runs_count": 349,
+  "last_run_iso": "2026-10-12T21:46:08.676821+00:00",
+  "last_run_local": "2026-10-12 21:46 UTC",
+  "runs_count": 350,
   "opportunities": [
     {
       "id": "rw-4233412",
@@ -66254,6 +66254,31 @@
       "first_seen": "2026-04-28T10:07:22.044715+00:00"
     },
     {
+      "id": "rw-4233694",
+      "title": "Partner-Centred Design Consultant",
+      "url": "https://reliefweb.int/node/4233694",
+      "source": "ReliefWeb",
+      "publisher": "Blue Ventures",
+      "country": "Kenya, United Kingdom of Great Britain and Northern Ireland, United States of America",
+      "job_type": "Consultancy",
+      "category": "Program/Project Management",
+      "posted": "2026-10-12T16:08:35+00:00",
+      "closing": "2026-10-26T00:00:00+00:00",
+      "description": "<p><strong>Location</strong>: Global</p>\n<p><strong>Closing date for applications:</strong> Monday**,** 26 October 2026</p>\n<p><strong>Start date:</strong> As soon as Possible</p>\n<p><strong>Consultancy duration:</strong> Three to Four Months</p>\n<h2>We unlock power with coastal communities</h2>\n<p>Blue Ventures connects coastal communities, restoring the ocean, providing the resources and partnerships they need to unlock their power and turn local action into global impact. We link communities with allies, knowledge and influence to create unstoppable waves of change.</p>\n<p>Together, we’re placing communities at the centre of solutions to sustain fisheries, manage ecosystems and redefine how the world protects the ocean.</p>\n<h2><strong>Summary job description</strong></h2>\n<p>We seek a consultant or team with strong experience in service design, customer experience (CX), user experience (UX) or human-centred service transformation to bring an independent partner-experience perspective and organisational critique to this work.</p>\n<p>The consultancy will examine the end-to-end experience of working with Blue Ventures and connect it to the organisational choices shaping that experience. This includes how functions such as training and learning, partnerships, programme performance, data science and advocacy engage partners and coordinate their work.</p>\n<p>Direct partner research will inform the assignment. The consultant must also bring the expertise to interpret and challenge existing arrangements, develop alternative approaches and demonstrate how support could be designed and delivered differently.</p>\n<p>The work should introduce a shared framework that Blue Ventures can continue using beyond the consultancy. By applying this framework to selected priority areas, the consultant should demonstrate its value and help teams develop the understanding and practices needed to maintain it. The assignment is not expected to identify or design every change the organisation may need.</p>\n<p>The primary focus will be partners funded through the Frontline Community Fund (FCF) and their interactions across Blue Ventures. The consultancy will complement our wider Partnership Strategy and internal operating model review, informing both without taking responsibility for the overall strategy, a comprehensive internal efficiency review or full implementation of recommendations.</p>\n<h3>To download the full Terms of Reference, please click <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://drive.google.com/file/d/1kceKwGi3lGg4hhkxuyB6Byv9lQWPV6Kp/view?usp=drive_link\">here</a>.</h3>\n",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 0
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 0,
+      "overall_score": 0.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-10-12T21:46:08.676692+00:00"
+    },
+    {
       "id": "rw-4233595",
       "title": "Communications and Media Officer - Syria Aleppo or Idleb",
       "url": "https://reliefweb.int/node/4233595",
@@ -66855,7 +66880,7 @@
     },
     {
       "id": "rw-4232284",
-      "title": "Supply Chain Officer, Nepal Emergency Response (Consultant)",
+      "title": "Supply Chain Officer, Nepal (Local Consultant)",
       "url": "https://reliefweb.int/node/4232284",
       "source": "ReliefWeb",
       "publisher": "Project HOPE",
@@ -66905,7 +66930,7 @@
     },
     {
       "id": "rw-4232274",
-      "title": "WASH Technical Advisor, Nepal Emergency Response (Consultant)",
+      "title": "WASH Technical Advisor, Nepal (Local Consultant)",
       "url": "https://reliefweb.int/node/4232274",
       "source": "ReliefWeb",
       "publisher": "Project HOPE",
@@ -67705,7 +67730,7 @@
     },
     {
       "id": "rw-4230532",
-      "title": "Finance Assistant Consultant, Nepal",
+      "title": "Finance Assistant, Nepal (Local Consultant)",
       "url": "https://reliefweb.int/node/4230532",
       "source": "ReliefWeb",
       "publisher": "Project HOPE",
@@ -78504,6 +78529,6 @@
       "first_seen": "2026-08-01T08:35:09.265225+00:00"
     }
   ],
-  "last_added": 22,
-  "last_updated": 277
+  "last_added": 1,
+  "last_updated": 298
 }
