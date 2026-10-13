@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-10-13T14:18:43.634531+00:00",
-  "last_run_local": "2026-10-13 14:18 UTC",
-  "runs_count": 351,
+  "last_run_iso": "2026-10-13T19:53:30.068261+00:00",
+  "last_run_local": "2026-10-13 19:53 UTC",
+  "runs_count": 352,
   "opportunities": [
     {
       "id": "rw-4233412",
@@ -9654,6 +9654,56 @@
       "first_seen": "2026-04-24T14:54:25.725386+00:00"
     },
     {
+      "id": "gh-8267231",
+      "title": "Agricultural Trials Lead (Fixed-Term)",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=8267231",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Nairobi, Kenya",
+      "job_type": "INN - Product Innovations",
+      "category": "INN - Product Innovations",
+      "posted": "2026-10-13T11:14:09-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>This role leads early stage agricultural research (phase 1) portfolio in Kenya. The role also manages a network of research station hubs across five agroecological zones (AEZs) in Kenya and ensures that trials are scientifically rigorous, operationally efficient and capable of generating credible evidence for decisions on whether technologies should progress to further testing, scaling or commercialization.</p>\n<h3>Responsibilities</h3>\n<p>Ag R&amp;D strategy execution&nbsp;</p>\n<ul>\n<li>Execute the phase 1 Ag R&amp;D strategy by translating R&amp;D priorities into well planned and executed trials across diverse agro-ecological zones (AEZs)</li>\n<li>Balance Ag R&amp;D portfolio across fertilizer alternatives, soil-health innovations, biological inputs, IPM technologies and other emerging agricultural innovations to ensure a healthy and balanced phase 1&nbsp;</li>\n</ul>\n<p>Trial design and management</p>\n<ul>\n<li>&nbsp;Provide technical leadership over trial design and execution, ensuring research pipelines reliably produce the evidence needed to guide R&amp;D strategy and accelerate technology adoption</li>\n<li>Provide practical, hands-on trial management suppo",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-10-13T19:53:30.068199+00:00"
+    },
+    {
+      "id": "gh-8267044",
+      "title": "Agricultural R&D Manager (Fixed-Term)",
+      "url": "https://oneacrefund.org/vacancies/?gh_jid=8267044",
+      "source": "Greenhouse",
+      "publisher": "One Acre Fund",
+      "country": "Flexible, Countries of Operations",
+      "job_type": "INN - Product Innovations",
+      "category": "INN - Product Innovations",
+      "posted": "2026-10-13T11:13:04-04:00",
+      "closing": null,
+      "description": "<h3>About One Acre Fund</h3>\n<p>Founded in 2006, One Acre Fund equips 5.5 million smallholder farmers to make their farms more productive. Across nine countries that together are home to two-thirds of Africa's farmers, we provide high-quality farm supplies, tree seedlings, accessible credit, modern agronomic training, and a wide range of other agricultural services. On average, this model enables any farmer to increase their income and assets on supported land by more than 35 percent, while permanently improving their resilience. This is all made possible by our team of 9,000+ full-time staff, drawn from diverse backgrounds and professions.&nbsp;To learn more, please see our&nbsp;<a href=\"https://oneacrefund.org/careers/why-work-here\" target=\"_blank\">Why Work Here</a> blog post.</p>\n<h3>About the Role</h3>\n<p>This role&nbsp; leads the country program Ag R&amp;D strategy execution, trial execution, standardization of research designs and tools, implementation of FAIR data principles&nbsp; across operating countries, Ag R&amp;D efficiency metrics and KPI&nbsp; tracking and driving Ag research dashboard. By optimizing the research pipeline from ideation to field adoption, the Regional Ag R&amp;D Manager ensures that spatially and temporally tailored innovations directly improve smallholder farmer yields, profits, and long-term soil health.<br><br>This role also guides research-backed agricultural recommendations to program teams on optimized input choices, soil health, alternative fertilizers, and crop management decisions.&nbsp; Additionally, this role designs and administers staff training in research in general.</p>\n<h3>Responsibilities</h3>\n<ul>\n<li>Provide thought leadership and technical guidance for the development and implementation of strategies to deepen farmer impact through improved (e.g. spatially and temporally tailored) agronomy, for example: Variety recommendations - leadership and oversight of research to generate high-impact and adoptable seed recomme",
+      "scores": {
+        "A_BlendedCatalyticFinance": 0,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 6
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 6,
+      "overall_score": 6.0,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-10-13T19:53:30.068196+00:00"
+    },
+    {
       "id": "gh-8272951",
       "title": "Burundi Government Relations Lead",
       "url": "https://oneacrefund.org/vacancies/?gh_jid=8272951",
@@ -13852,6 +13902,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-24T14:22:06.201541+00:00"
+    },
+    {
+      "id": "gh-6222890004",
+      "title": "Uganda Country Lead ",
+      "url": "https://job-boards.greenhouse.io/instiglio/jobs/6222890004",
+      "source": "Greenhouse",
+      "publisher": "Instiglio",
+      "country": "Uganda",
+      "job_type": "Projects",
+      "category": "Projects",
+      "posted": "2026-10-13T13:03:42-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: justify;\"><strong>The Opportunity</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Title: Uganda Country Lead</li>\n<li style=\"text-align: justify;\">Location: Kampala, Uganda</li>\n<li style=\"text-align: justify;\">Reports to: Africa Director</li>\n<li style=\"text-align: justify;\">Direct reports: Uganda-based project team across HSW, GEN, and Refugees Uganda, team size and reporting lines to be confirmed as the portfolio grows</li>\n<li style=\"text-align: justify;\">Contract type: Full-time (80–100% flexible based on the candidate); one-year contract, renewable</li>\n<li style=\"text-align: justify;\">Target start date: Early 2027</li>\n</ul>\n<p><strong>Role Purpose</strong></p>\n<p>A senior leader to lead Instiglio's operations, delivery, and partnership development in Uganda. The objective is a highly experienced consultant with a strong understanding of the Uganda context who can independently drive projects and partnership development in support of Instiglio's objectives in Uganda, operating at an executive level with government, partner organisations, and clients.</p>\n<p><strong>Context</strong></p>\n<p>This is a new role, created to reduce the extent to which leadership of Instiglio's Uganda portfolio is run from outside Uganda, and to prepare for continued growth of that portfolio. The role holds leadership across:</p>\n<ul>\n<li>Hilton Safe Water Funded Results Based Finance project to drive improved access to safe drinking water in rural Uganda</li>\n<li>Government Empowerment Network (GEN) Uganda: A government-led reform accelerator anchored by the Ministry of Public Service, coaching cohorts of civil servant \"champions\" to design and implement reforms</li>\n<li>Refugees Uganda: Strategic and technical advice to the Office of the Prime Minister's Department of Refugees (since 2023). Current phase focuses on embedding a coordination platform and performance review cycles.</li>\n<li>Positioning Instiglio to win new work and diversify Instiglio's Ugand",
+      "scores": {
+        "A_BlendedCatalyticFinance": 5,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 1,
+        "D_EmergingMarkets": 1
+      },
+      "best_archetype": "A_BlendedCatalyticFinance",
+      "best_score": 5,
+      "overall_score": 5.3,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-10-13T19:53:30.068172+00:00"
     },
     {
       "id": "rw-4231626",
@@ -78879,6 +78954,6 @@
       "first_seen": "2026-08-01T08:35:09.265225+00:00"
     }
   ],
-  "last_added": 14,
-  "last_updated": 282
+  "last_added": 3,
+  "last_updated": 296
 }
