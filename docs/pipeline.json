@@ -1,7 +1,7 @@
 {
-  "last_run_iso": "2026-10-23T17:53:52.288674+00:00",
-  "last_run_local": "2026-10-23 17:53 UTC",
-  "runs_count": 372,
+  "last_run_iso": "2026-10-24T11:10:47.554770+00:00",
+  "last_run_local": "2026-10-24 11:10 UTC",
+  "runs_count": 373,
   "opportunities": [
     {
       "id": "rw-4234637",
@@ -19002,6 +19002,31 @@
       "status": "new",
       "notes": "",
       "first_seen": "2026-04-28T10:07:22.045071+00:00"
+    },
+    {
+      "id": "gh-8913024002",
+      "title": "Senior Associate, Program Operations, Acumen Academy",
+      "url": "https://job-boards.greenhouse.io/acumen/jobs/8913024002",
+      "source": "Greenhouse",
+      "publisher": "Acumen",
+      "country": "Bogota, Colombia",
+      "job_type": "Acumen Academy",
+      "category": "Acumen Academy",
+      "posted": "2026-10-23T18:37:49-04:00",
+      "closing": null,
+      "description": "<p style=\"text-align: center;\"><em>Acumen is seeking a Senior Enablement Associate with a minimum of 5 years of relevant experience to build and strengthen our regional Programs and internal operations. This role blends cross-regional and cross-functional project management with technical and operational skills to ensure we can run high-quality Programs on the ground. </em><em>This role is ideally based in Bogotá, Colombia. We will consider strong candidates based in Colombia with some travel to our Bogotá Office. This role will work closely with colleagues across multiple time zones.</em></p>\n<p><strong>About Acumen<br></strong>Acumen is a global force of entrepreneurs, investors, philanthropists, and social innovators working together to build a world based on dignity. We were founded by Jacqueline Novogratz on the radical idea that business, when cultivated with moral imagination, can break the cycle of poverty. We invest in transformational companies, build sustainable markets, and prepare leaders with the tools they need to create a more just and inclusive future. Since 2001, we have scaled companies and shaped markets in some of the hardest-to-reach communities on the planet, impacting over half a billion lives. Through our investment adviser Acumen Capital Partners, we are responsible for $166 million in assets under management via our returnable pooled investment funds, which have impacted 238 million lives and offset 48 million metric tons of CO2. To learn more, visit <a href=\"http://acumen.org\">acumen.org</a>.</p>\n<p><strong>About Acumen Academy<br></strong>Acumen Academy supports a new generation of social innovators and leaders with the character and competence to solve problems of poverty and build a world based on dignity. With over 2000 Foundry members, 1.3M course sign-ups, and 71 million lives impacted, the Acumen Academy community represents a new generation of social innovators and leaders committed to solving problems of poverty.&nbsp;</p>\n<p></p",
+      "scores": {
+        "A_BlendedCatalyticFinance": 3,
+        "B_DealStructuring": 0,
+        "C_ExecutiveTraining": 0,
+        "D_EmergingMarkets": 4
+      },
+      "best_archetype": "D_EmergingMarkets",
+      "best_score": 4,
+      "overall_score": 4.5,
+      "status": "new",
+      "notes": "",
+      "first_seen": "2026-10-24T11:10:47.554699+00:00"
     },
     {
       "id": "gh-8901408002",
@@ -84229,6 +84254,6 @@
       "first_seen": "2026-08-01T08:35:09.265225+00:00"
     }
   ],
-  "last_added": 17,
-  "last_updated": 315
+  "last_added": 1,
+  "last_updated": 321
 }
